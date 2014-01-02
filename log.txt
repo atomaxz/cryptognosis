@@ -1001,3 +1001,4 @@
 14932. test: increase coverage on auth module #14932
 28931. refactor: split large controller into smaller functions #28931
 52573. fix: fix null pointer exception on login #52573
+91044. test: test user registration edge cases #91044

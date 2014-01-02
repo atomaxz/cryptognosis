@@ -5002,3 +5002,4 @@
 92692. fix: resolve issue with date parsing #92692
 7608. feat: support email verification #7608
 68423. perf: cache repeated calculations #68423
+96654. feat: add user authentication #96654

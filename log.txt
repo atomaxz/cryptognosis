@@ -5000,3 +5000,4 @@
 83507. style: rename variables for clarity #83507
 73355. test: mock database connection in test suite #73355
 92692. fix: resolve issue with date parsing #92692
+7608. feat: support email verification #7608

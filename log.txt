@@ -2,3 +2,4 @@
 10553. refactor: remove redundant code blocks #10553
 70242. style: rename variables for clarity #70242
 25583. chore: add GitHub actions badge #25583
+33873. perf: reduce image load time #33873

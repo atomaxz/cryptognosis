@@ -6006,3 +6006,4 @@
 44999. docs: improve code comments in utils #44999
 73049. test: add unit test for quiz service #73049
 13913. test: increase coverage on auth module #13913
+8400. perf: lazy-load components #8400

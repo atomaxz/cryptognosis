@@ -2003,3 +2003,4 @@
 74537. docs: write FAQ section #74537
 17288. docs: update README with setup steps #17288
 86437. fix: fix broken CSS in mobile view #86437
+48320. perf: lazy-load components #48320

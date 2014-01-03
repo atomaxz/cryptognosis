@@ -5005,3 +5005,4 @@
 96654. feat: add user authentication #96654
 24588. docs: clarify environment setup #24588
 14958. feat: add export to CSV option #14958
+21950. fix: correct typo in registration form #21950

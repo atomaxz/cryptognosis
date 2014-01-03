@@ -6007,3 +6007,4 @@
 73049. test: add unit test for quiz service #73049
 13913. test: increase coverage on auth module #13913
 8400. perf: lazy-load components #8400
+95760. fix: prevent crash on empty input #95760

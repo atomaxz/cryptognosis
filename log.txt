@@ -1007,3 +1007,4 @@
 41757. chore: bump dependencies #41757
 18311. docs: add API usage examples #18311
 21143. fix: correct typo in registration form #21143
+88017. refactor: clean up auth middleware #88017

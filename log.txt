@@ -1,3 +1,4 @@
 29185. docs: clarify environment setup #29185
 10553. refactor: remove redundant code blocks #10553
 70242. style: rename variables for clarity #70242
+25583. chore: add GitHub actions badge #25583

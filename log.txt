@@ -6010,3 +6010,4 @@
 95760. fix: prevent crash on empty input #95760
 85835. feat: support email verification #85835
 61245. docs: write FAQ section #61245
+49695. docs: clarify environment setup #49695

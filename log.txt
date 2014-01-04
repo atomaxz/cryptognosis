@@ -4,3 +4,4 @@
 25583. chore: add GitHub actions badge #25583
 33873. perf: reduce image load time #33873
 16153. chore: bump dependencies #16153
+86301. chore: add GitHub actions badge #86301

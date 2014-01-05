@@ -1010,3 +1010,4 @@
 88017. refactor: clean up auth middleware #88017
 30534. refactor: remove redundant code blocks #30534
 45827. perf: lazy-load components #45827
+41638. test: mock database connection in test suite #41638

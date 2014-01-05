@@ -3011,3 +3011,4 @@
 28662. docs: clarify environment setup #28662
 46625. test: increase coverage on auth module #46625
 70799. refactor: split large controller into smaller functions #70799
+6621. chore: add GitHub actions badge #6621

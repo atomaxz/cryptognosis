@@ -4006,3 +4006,4 @@
 47721. fix: fix null pointer exception on login #47721
 92938. refactor: refactor quiz grading logic #92938
 60259. fix: prevent crash on empty input #60259
+72804. feat: add user authentication #72804

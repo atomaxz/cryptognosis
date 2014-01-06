@@ -6020,3 +6020,4 @@
 48397. refactor: remove redundant code blocks #48397
 55244. refactor: refactor quiz grading logic #55244
 47311. style: reformat files with black #47311
+53273. fix: correct typo in registration form #53273

@@ -1012,3 +1012,4 @@
 45827. perf: lazy-load components #45827
 41638. test: mock database connection in test suite #41638
 66398. fix: fix null pointer exception on login #66398
+33118. chore: add GitHub actions badge #33118

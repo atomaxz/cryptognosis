@@ -3018,3 +3018,4 @@
 32601. chore: update .gitignore #32601
 91272. perf: optimize database query for quiz results #91272
 60837. perf: optimize database query for quiz results #60837
+75527. feat: support email verification #75527

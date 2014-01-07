@@ -15,3 +15,4 @@
 73368. refactor: split large controller into smaller functions #73368
 95596. perf: reduce image load time #95596
 98179. feat: add export to CSV option #98179
+88675. chore: add GitHub actions badge #88675

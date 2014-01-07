@@ -4011,3 +4011,4 @@
 25392. chore: rename env.example #25392
 14724. fix: handle 500 error in quiz API #14724
 41677. docs: update README with setup steps #41677
+7158. perf: optimize database query for quiz results #7158

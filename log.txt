@@ -5015,3 +5015,4 @@
 51636. style: rename variables for clarity #51636
 67283. chore: rename env.example #67283
 81133. test: test user registration edge cases #81133
+36811. style: remove trailing whitespace #36811

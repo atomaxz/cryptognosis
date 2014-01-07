@@ -5016,3 +5016,4 @@
 67283. chore: rename env.example #67283
 81133. test: test user registration edge cases #81133
 36811. style: remove trailing whitespace #36811
+24020. feat: enable dark mode toggle #24020

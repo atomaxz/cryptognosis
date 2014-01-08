@@ -2018,3 +2018,4 @@
 45493. docs: improve code comments in utils #45493
 3865. style: standardize quote style #3865
 77432. refactor: split large controller into smaller functions #77432
+5330. perf: lazy-load components #5330

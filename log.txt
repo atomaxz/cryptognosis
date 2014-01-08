@@ -16,3 +16,4 @@
 95596. perf: reduce image load time #95596
 98179. feat: add export to CSV option #98179
 88675. chore: add GitHub actions badge #88675
+17278. feat: implement quiz timer feature #17278

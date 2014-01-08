@@ -2017,3 +2017,4 @@
 1153. perf: optimize database query for quiz results #1153
 45493. docs: improve code comments in utils #45493
 3865. style: standardize quote style #3865
+77432. refactor: split large controller into smaller functions #77432

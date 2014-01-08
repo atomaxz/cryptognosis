@@ -3020,3 +3020,4 @@
 60837. perf: optimize database query for quiz results #60837
 75527. feat: support email verification #75527
 96021. chore: rename env.example #96021
+18010. feat: enable dark mode toggle #18010

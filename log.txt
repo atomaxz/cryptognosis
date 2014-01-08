@@ -6027,3 +6027,4 @@
 73162. feat: implement quiz timer feature #73162
 38363. chore: bump dependencies #38363
 46940. docs: clarify environment setup #46940
+40375. chore: update .gitignore #40375

@@ -5020,3 +5020,4 @@
 36535. style: reformat files with black #36535
 58316. feat: add user authentication #58316
 82778. test: add unit test for quiz service #82778
+61262. feat: enable dark mode toggle #61262

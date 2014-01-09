@@ -5022,3 +5022,4 @@
 82778. test: add unit test for quiz service #82778
 61262. feat: enable dark mode toggle #61262
 27113. style: rename variables for clarity #27113
+78434. docs: clarify environment setup #78434

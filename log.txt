@@ -2020,3 +2020,4 @@
 77432. refactor: split large controller into smaller functions #77432
 5330. perf: lazy-load components #5330
 79483. refactor: clean up auth middleware #79483
+78536. docs: write FAQ section #78536

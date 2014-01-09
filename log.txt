@@ -1023,3 +1023,4 @@
 20178. test: increase coverage on auth module #20178
 92113. docs: add API usage examples #92113
 6229. feat: create admin dashboard #6229
+74716. chore: add GitHub actions badge #74716

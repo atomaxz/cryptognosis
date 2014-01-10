@@ -22,3 +22,4 @@
 32584. feat: add export to CSV option #32584
 60804. chore: bump dependencies #60804
 60640. fix: fix null pointer exception on login #60640
+9727. docs: write FAQ section #9727

@@ -5027,3 +5027,4 @@
 65047. test: increase coverage on auth module #65047
 91304. feat: create admin dashboard #91304
 46510. test: add integration test for /submit endpoint #46510
+77420. docs: document token refresh logic #77420

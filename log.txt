@@ -2023,3 +2023,4 @@
 78536. docs: write FAQ section #78536
 45800. refactor: remove redundant code blocks #45800
 83230. feat: add export to CSV option #83230
+13989. chore: update .gitignore #13989

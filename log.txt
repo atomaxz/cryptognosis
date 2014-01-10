@@ -3028,3 +3028,4 @@
 35868. chore: update .gitignore #35868
 54555. feat: add export to CSV option #54555
 70897. test: increase coverage on auth module #70897
+58081. test: increase coverage on auth module #58081

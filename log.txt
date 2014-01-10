@@ -6036,3 +6036,4 @@
 18625. test: add unit test for quiz service #18625
 50542. refactor: organize models into subfolders #50542
 59123. style: rename variables for clarity #59123
+50385. test: test user registration edge cases #50385

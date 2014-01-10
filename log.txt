@@ -20,3 +20,4 @@
 88702. test: mock database connection in test suite #88702
 1693. feat: add user authentication #1693
 32584. feat: add export to CSV option #32584
+60804. chore: bump dependencies #60804

@@ -1026,3 +1026,4 @@
 74716. chore: add GitHub actions badge #74716
 69770. chore: clean up unused files #69770
 72149. chore: clean up unused files #72149
+48735. docs: clarify environment setup #48735

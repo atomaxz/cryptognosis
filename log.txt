@@ -1031,3 +1031,4 @@
 99703. refactor: split large controller into smaller functions #99703
 69957. fix: resolve issue with date parsing #69957
 37949. test: increase coverage on auth module #37949
+92736. refactor: clean up auth middleware #92736

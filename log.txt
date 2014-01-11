@@ -4027,3 +4027,4 @@
 60485. test: add integration test for /submit endpoint #60485
 32708. fix: fix broken CSS in mobile view #32708
 71335. style: standardize quote style #71335
+34486. docs: update README with setup steps #34486

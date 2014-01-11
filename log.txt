@@ -2031,3 +2031,4 @@
 78146. style: rename variables for clarity #78146
 68699. chore: bump dependencies #68699
 26322. feat: add export to CSV option #26322
+6796. fix: fix broken CSS in mobile view #6796

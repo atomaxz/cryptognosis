@@ -2025,3 +2025,4 @@
 83230. feat: add export to CSV option #83230
 13989. chore: update .gitignore #13989
 81549. refactor: organize models into subfolders #81549
+19564. refactor: clean up auth middleware #19564

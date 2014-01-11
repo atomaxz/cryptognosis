@@ -6039,3 +6039,4 @@
 50385. test: test user registration edge cases #50385
 73241. style: standardize quote style #73241
 6476. feat: add user authentication #6476
+43857. test: add unit test for quiz service #43857

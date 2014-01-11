@@ -24,3 +24,4 @@
 60640. fix: fix null pointer exception on login #60640
 9727. docs: write FAQ section #9727
 54716. test: test user registration edge cases #54716
+39091. perf: reduce image load time #39091

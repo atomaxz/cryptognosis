@@ -3029,3 +3029,4 @@
 54555. feat: add export to CSV option #54555
 70897. test: increase coverage on auth module #70897
 58081. test: increase coverage on auth module #58081
+36613. fix: fix broken CSS in mobile view #36613

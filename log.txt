@@ -1033,3 +1033,4 @@
 37949. test: increase coverage on auth module #37949
 92736. refactor: clean up auth middleware #92736
 84006. chore: rename env.example #84006
+35801. fix: prevent crash on empty input #35801

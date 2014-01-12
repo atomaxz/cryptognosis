@@ -26,3 +26,4 @@
 54716. test: test user registration edge cases #54716
 39091. perf: reduce image load time #39091
 65628. feat: enable dark mode toggle #65628
+87669. style: apply consistent indentation #87669

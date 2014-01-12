@@ -4028,3 +4028,4 @@
 32708. fix: fix broken CSS in mobile view #32708
 71335. style: standardize quote style #71335
 34486. docs: update README with setup steps #34486
+5070. fix: correct typo in registration form #5070

@@ -3032,3 +3032,4 @@
 36613. fix: fix broken CSS in mobile view #36613
 78467. perf: lazy-load components #78467
 22335. fix: handle 500 error in quiz API #22335
+80198. refactor: organize models into subfolders #80198

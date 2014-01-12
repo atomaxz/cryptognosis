@@ -6041,3 +6041,4 @@
 6476. feat: add user authentication #6476
 43857. test: add unit test for quiz service #43857
 6860. style: apply consistent indentation #6860
+12972. test: test user registration edge cases #12972

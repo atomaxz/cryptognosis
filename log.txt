@@ -6042,3 +6042,4 @@
 43857. test: add unit test for quiz service #43857
 6860. style: apply consistent indentation #6860
 12972. test: test user registration edge cases #12972
+61011. docs: write FAQ section #61011

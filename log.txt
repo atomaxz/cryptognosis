@@ -4030,3 +4030,4 @@
 34486. docs: update README with setup steps #34486
 5070. fix: correct typo in registration form #5070
 31583. test: mock database connection in test suite #31583
+60754. chore: add GitHub actions badge #60754

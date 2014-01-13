@@ -27,3 +27,4 @@
 39091. perf: reduce image load time #39091
 65628. feat: enable dark mode toggle #65628
 87669. style: apply consistent indentation #87669
+28790. chore: rename env.example #28790

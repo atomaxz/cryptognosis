@@ -2033,3 +2033,4 @@
 26322. feat: add export to CSV option #26322
 6796. fix: fix broken CSS in mobile view #6796
 56620. refactor: split large controller into smaller functions #56620
+90428. docs: update README with setup steps #90428

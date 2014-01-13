@@ -29,3 +29,4 @@
 87669. style: apply consistent indentation #87669
 28790. chore: rename env.example #28790
 0761. chore: rename env.example #761
+46196. chore: update .gitignore #46196

@@ -3034,3 +3034,4 @@
 22335. fix: handle 500 error in quiz API #22335
 80198. refactor: organize models into subfolders #80198
 76872. refactor: organize models into subfolders #76872
+20410. feat: support email verification #20410

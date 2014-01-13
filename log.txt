@@ -5030,3 +5030,4 @@
 77420. docs: document token refresh logic #77420
 83786. feat: enable dark mode toggle #83786
 58912. chore: update .gitignore #58912
+78211. refactor: clean up auth middleware #78211

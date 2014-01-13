@@ -6043,3 +6043,4 @@
 6860. style: apply consistent indentation #6860
 12972. test: test user registration edge cases #12972
 61011. docs: write FAQ section #61011
+32973. refactor: clean up auth middleware #32973

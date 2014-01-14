@@ -5033,3 +5033,4 @@
 78211. refactor: clean up auth middleware #78211
 13402. docs: update README with setup steps #13402
 90448. fix: prevent crash on empty input #90448
+80486. test: add integration test for /submit endpoint #80486

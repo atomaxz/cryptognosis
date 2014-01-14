@@ -31,3 +31,4 @@
 0761. chore: rename env.example #761
 46196. chore: update .gitignore #46196
 27213. fix: resolve issue with date parsing #27213
+78853. fix: fix broken CSS in mobile view #78853

@@ -33,3 +33,4 @@
 27213. fix: resolve issue with date parsing #27213
 78853. fix: fix broken CSS in mobile view #78853
 33635. test: add unit test for quiz service #33635
+51390. test: test user registration edge cases #51390

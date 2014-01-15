@@ -2034,3 +2034,4 @@
 6796. fix: fix broken CSS in mobile view #6796
 56620. refactor: split large controller into smaller functions #56620
 90428. docs: update README with setup steps #90428
+85945. docs: document token refresh logic #85945

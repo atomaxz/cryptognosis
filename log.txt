@@ -6045,3 +6045,4 @@
 61011. docs: write FAQ section #61011
 32973. refactor: clean up auth middleware #32973
 64789. perf: cache repeated calculations #64789
+11592. fix: handle 500 error in quiz API #11592

@@ -1041,3 +1041,4 @@
 27154. docs: improve code comments in utils #27154
 40420. perf: reduce image load time #40420
 88566. docs: improve code comments in utils #88566
+39336. fix: prevent crash on empty input #39336

@@ -1043,3 +1043,4 @@
 88566. docs: improve code comments in utils #88566
 39336. fix: prevent crash on empty input #39336
 69313. style: reformat files with black #69313
+57922. fix: fix broken CSS in mobile view #57922

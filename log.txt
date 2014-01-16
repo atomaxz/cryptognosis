@@ -39,3 +39,4 @@
 74145. refactor: refactor quiz grading logic #74145
 41659. refactor: clean up auth middleware #41659
 3336. docs: add API usage examples #3336
+7845. fix: resolve issue with date parsing #7845

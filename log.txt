@@ -5038,3 +5038,4 @@
 9234. chore: update .gitignore #9234
 23227. docs: write FAQ section #23227
 77765. test: mock database connection in test suite #77765
+58941. perf: lazy-load components #58941

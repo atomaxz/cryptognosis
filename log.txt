@@ -2038,3 +2038,4 @@
 57535. docs: improve code comments in utils #57535
 21262. refactor: remove redundant code blocks #21262
 89340. docs: write FAQ section #89340
+75041. fix: fix null pointer exception on login #75041

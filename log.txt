@@ -6049,3 +6049,4 @@
 49241. feat: implement quiz timer feature #49241
 48048. style: standardize quote style #48048
 85142. perf: optimize database query for quiz results #85142
+79332. chore: clean up unused files #79332

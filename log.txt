@@ -43,3 +43,4 @@
 97881. perf: cache repeated calculations #97881
 43159. docs: add API usage examples #43159
 23678. fix: correct typo in registration form #23678
+15770. fix: fix broken CSS in mobile view #15770

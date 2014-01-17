@@ -5040,3 +5040,4 @@
 77765. test: mock database connection in test suite #77765
 58941. perf: lazy-load components #58941
 50837. feat: support email verification #50837
+93739. refactor: clean up auth middleware #93739

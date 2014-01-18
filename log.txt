@@ -2042,3 +2042,4 @@
 5783. style: standardize quote style #5783
 42773. style: remove trailing whitespace #42773
 66032. refactor: remove redundant code blocks #66032
+70326. fix: correct typo in registration form #70326

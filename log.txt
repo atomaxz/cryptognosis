@@ -46,3 +46,4 @@
 15770. fix: fix broken CSS in mobile view #15770
 22742. refactor: clean up auth middleware #22742
 9308. fix: prevent crash on empty input #9308
+94786. chore: rename env.example #94786

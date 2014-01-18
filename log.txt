@@ -1048,3 +1048,4 @@
 93414. docs: improve code comments in utils #93414
 58696. test: increase coverage on auth module #58696
 43264. test: mock database connection in test suite #43264
+60190. style: reformat files with black #60190

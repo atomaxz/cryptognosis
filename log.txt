@@ -4047,3 +4047,4 @@
 93199. chore: update .gitignore #93199
 34884. feat: add user authentication #34884
 98145. perf: cache repeated calculations #98145
+38496. fix: fix broken CSS in mobile view #38496

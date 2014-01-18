@@ -3046,3 +3046,4 @@
 45648. fix: handle 500 error in quiz API #45648
 20806. feat: create admin dashboard #20806
 20217. test: increase coverage on auth module #20217
+0871. feat: add user authentication #871

@@ -4051,3 +4051,4 @@
 35263. feat: enable dark mode toggle #35263
 11463. chore: update .gitignore #11463
 85590. feat: support email verification #85590
+87757. docs: update README with setup steps #87757

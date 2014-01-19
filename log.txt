@@ -4050,3 +4050,4 @@
 38496. fix: fix broken CSS in mobile view #38496
 35263. feat: enable dark mode toggle #35263
 11463. chore: update .gitignore #11463
+85590. feat: support email verification #85590

@@ -4049,3 +4049,4 @@
 98145. perf: cache repeated calculations #98145
 38496. fix: fix broken CSS in mobile view #38496
 35263. feat: enable dark mode toggle #35263
+11463. chore: update .gitignore #11463

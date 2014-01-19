@@ -5050,3 +5050,4 @@
 83861. perf: optimize database query for quiz results #83861
 98806. feat: add export to CSV option #98806
 19978. fix: handle 500 error in quiz API #19978
+39983. perf: lazy-load components #39983

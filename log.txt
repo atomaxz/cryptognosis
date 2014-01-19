@@ -5047,3 +5047,4 @@
 56828. perf: lazy-load components #56828
 46505. test: test user registration edge cases #46505
 13169. docs: improve code comments in utils #13169
+83861. perf: optimize database query for quiz results #83861

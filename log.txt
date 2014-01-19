@@ -3047,3 +3047,4 @@
 20806. feat: create admin dashboard #20806
 20217. test: increase coverage on auth module #20217
 0871. feat: add user authentication #871
+64218. chore: add GitHub actions badge #64218

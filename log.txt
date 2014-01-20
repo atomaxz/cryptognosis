@@ -2045,3 +2045,4 @@
 70326. fix: correct typo in registration form #70326
 9860. feat: add export to CSV option #9860
 71024. chore: bump dependencies #71024
+35815. chore: bump dependencies #35815

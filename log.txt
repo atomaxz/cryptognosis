@@ -4055,3 +4055,4 @@
 17402. refactor: refactor quiz grading logic #17402
 16875. test: mock database connection in test suite #16875
 39754. test: increase coverage on auth module #39754
+35475. perf: optimize database query for quiz results #35475

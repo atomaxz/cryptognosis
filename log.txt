@@ -4057,3 +4057,4 @@
 39754. test: increase coverage on auth module #39754
 35475. perf: optimize database query for quiz results #35475
 99055. feat: add export to CSV option #99055
+23212. chore: bump dependencies #23212

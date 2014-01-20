@@ -4054,3 +4054,4 @@
 87757. docs: update README with setup steps #87757
 17402. refactor: refactor quiz grading logic #17402
 16875. test: mock database connection in test suite #16875
+39754. test: increase coverage on auth module #39754

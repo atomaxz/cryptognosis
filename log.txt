@@ -50,3 +50,4 @@
 48293. refactor: split large controller into smaller functions #48293
 10679. fix: handle 500 error in quiz API #10679
 58494. docs: update README with setup steps #58494
+47115. refactor: clean up auth middleware #47115

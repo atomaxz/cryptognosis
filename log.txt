@@ -2046,3 +2046,4 @@
 9860. feat: add export to CSV option #9860
 71024. chore: bump dependencies #71024
 35815. chore: bump dependencies #35815
+1651. refactor: clean up auth middleware #1651

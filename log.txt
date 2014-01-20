@@ -1056,3 +1056,4 @@
 86872. feat: create admin dashboard #86872
 29259. docs: write FAQ section #29259
 57730. fix: prevent crash on empty input #57730
+76378. feat: support email verification #76378

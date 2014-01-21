@@ -4059,3 +4059,4 @@
 99055. feat: add export to CSV option #99055
 23212. chore: bump dependencies #23212
 23289. style: reformat files with black #23289
+95589. fix: handle 500 error in quiz API #95589

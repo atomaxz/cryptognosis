@@ -5059,3 +5059,4 @@
 37534. style: standardize quote style #37534
 44901. perf: lazy-load components #44901
 79768. style: remove trailing whitespace #79768
+19299. fix: correct typo in registration form #19299

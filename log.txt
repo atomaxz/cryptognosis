@@ -6059,3 +6059,4 @@
 99536. chore: clean up unused files #99536
 23012. chore: clean up unused files #23012
 82855. docs: clarify environment setup #82855
+65005. feat: add user authentication #65005

@@ -3055,3 +3055,4 @@
 66202. feat: add export to CSV option #66202
 85620. refactor: remove redundant code blocks #85620
 67873. style: rename variables for clarity #67873
+20946. perf: optimize database query for quiz results #20946

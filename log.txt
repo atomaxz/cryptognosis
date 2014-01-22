@@ -3056,3 +3056,4 @@
 85620. refactor: remove redundant code blocks #85620
 67873. style: rename variables for clarity #67873
 20946. perf: optimize database query for quiz results #20946
+2648. docs: write FAQ section #2648

@@ -4061,3 +4061,4 @@
 23289. style: reformat files with black #23289
 95589. fix: handle 500 error in quiz API #95589
 61818. fix: fix broken CSS in mobile view #61818
+2411. refactor: remove redundant code blocks #2411

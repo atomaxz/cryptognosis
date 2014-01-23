@@ -1061,3 +1061,4 @@
 73447. perf: reduce image load time #73447
 61875. refactor: remove redundant code blocks #61875
 43973. refactor: organize models into subfolders #43973
+78256. feat: create admin dashboard #78256

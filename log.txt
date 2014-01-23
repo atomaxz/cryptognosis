@@ -4063,3 +4063,4 @@
 61818. fix: fix broken CSS in mobile view #61818
 2411. refactor: remove redundant code blocks #2411
 46558. docs: clarify environment setup #46558
+33493. docs: update README with setup steps #33493

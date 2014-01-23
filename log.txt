@@ -5061,3 +5061,4 @@
 79768. style: remove trailing whitespace #79768
 19299. fix: correct typo in registration form #19299
 19917. style: standardize quote style #19917
+73677. docs: write FAQ section #73677

@@ -6062,3 +6062,4 @@
 65005. feat: add user authentication #65005
 74806. docs: write FAQ section #74806
 20690. test: mock database connection in test suite #20690
+49830. docs: document token refresh logic #49830

@@ -4066,3 +4066,4 @@
 33493. docs: update README with setup steps #33493
 9840. test: add unit test for quiz service #9840
 22995. style: apply consistent indentation #22995
+96270. test: mock database connection in test suite #96270

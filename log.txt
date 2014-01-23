@@ -2053,3 +2053,4 @@
 34712. chore: update .gitignore #34712
 39415. fix: prevent crash on empty input #39415
 44315. fix: fix null pointer exception on login #44315
+29439. style: standardize quote style #29439

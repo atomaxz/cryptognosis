@@ -1058,3 +1058,4 @@
 57730. fix: prevent crash on empty input #57730
 76378. feat: support email verification #76378
 21034. perf: lazy-load components #21034
+73447. perf: reduce image load time #73447

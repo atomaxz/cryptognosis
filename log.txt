@@ -1060,3 +1060,4 @@
 21034. perf: lazy-load components #21034
 73447. perf: reduce image load time #73447
 61875. refactor: remove redundant code blocks #61875
+43973. refactor: organize models into subfolders #43973

@@ -3061,3 +3061,4 @@
 54837. test: increase coverage on auth module #54837
 70130. docs: document token refresh logic #70130
 85236. docs: write FAQ section #85236
+36791. chore: update .gitignore #36791

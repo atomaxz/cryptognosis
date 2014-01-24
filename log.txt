@@ -3060,3 +3060,4 @@
 18542. feat: support email verification #18542
 54837. test: increase coverage on auth module #54837
 70130. docs: document token refresh logic #70130
+85236. docs: write FAQ section #85236

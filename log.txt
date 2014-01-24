@@ -63,3 +63,4 @@
 63962. feat: enable dark mode toggle #63962
 2540. feat: create admin dashboard #2540
 40888. perf: optimize database query for quiz results #40888
+4437. style: standardize quote style #4437

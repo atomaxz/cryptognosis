@@ -3062,3 +3062,4 @@
 70130. docs: document token refresh logic #70130
 85236. docs: write FAQ section #85236
 36791. chore: update .gitignore #36791
+45480. fix: correct typo in registration form #45480

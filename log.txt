@@ -6072,3 +6072,4 @@
 69217. test: mock database connection in test suite #69217
 80693. docs: clarify environment setup #80693
 82338. test: mock database connection in test suite #82338
+0039. fix: handle 500 error in quiz API #39

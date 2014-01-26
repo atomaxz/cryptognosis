@@ -1068,3 +1068,4 @@
 2257. docs: write FAQ section #2257
 53695. fix: fix broken CSS in mobile view #53695
 44289. fix: handle 500 error in quiz API #44289
+10728. refactor: split large controller into smaller functions #10728

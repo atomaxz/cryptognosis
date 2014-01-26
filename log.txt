@@ -1067,3 +1067,4 @@
 56865. docs: add API usage examples #56865
 2257. docs: write FAQ section #2257
 53695. fix: fix broken CSS in mobile view #53695
+44289. fix: handle 500 error in quiz API #44289

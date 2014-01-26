@@ -1069,3 +1069,4 @@
 53695. fix: fix broken CSS in mobile view #53695
 44289. fix: handle 500 error in quiz API #44289
 10728. refactor: split large controller into smaller functions #10728
+97419. feat: add export to CSV option #97419

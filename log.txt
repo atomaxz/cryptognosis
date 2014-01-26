@@ -2059,3 +2059,4 @@
 41301. chore: add GitHub actions badge #41301
 50287. style: rename variables for clarity #50287
 93246. test: test user registration edge cases #93246
+19558. chore: update .gitignore #19558

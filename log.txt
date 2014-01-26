@@ -1073,3 +1073,4 @@
 24603. test: increase coverage on auth module #24603
 99784. fix: fix null pointer exception on login #99784
 78438. fix: fix broken CSS in mobile view #78438
+4425. chore: clean up unused files #4425

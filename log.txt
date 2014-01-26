@@ -6073,3 +6073,4 @@
 80693. docs: clarify environment setup #80693
 82338. test: mock database connection in test suite #82338
 0039. fix: handle 500 error in quiz API #39
+54684. feat: add export to CSV option #54684

@@ -6075,3 +6075,4 @@
 0039. fix: handle 500 error in quiz API #39
 54684. feat: add export to CSV option #54684
 62948. feat: support email verification #62948
+27989. test: test user registration edge cases #27989

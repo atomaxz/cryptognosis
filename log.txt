@@ -1071,3 +1071,4 @@
 10728. refactor: split large controller into smaller functions #10728
 97419. feat: add export to CSV option #97419
 24603. test: increase coverage on auth module #24603
+99784. fix: fix null pointer exception on login #99784

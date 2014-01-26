@@ -5071,3 +5071,4 @@
 99342. refactor: organize models into subfolders #99342
 76375. chore: rename env.example #76375
 17377. chore: rename env.example #17377
+70371. fix: handle 500 error in quiz API #70371

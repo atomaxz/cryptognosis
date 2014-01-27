@@ -6076,3 +6076,4 @@
 54684. feat: add export to CSV option #54684
 62948. feat: support email verification #62948
 27989. test: test user registration edge cases #27989
+20023. perf: lazy-load components #20023

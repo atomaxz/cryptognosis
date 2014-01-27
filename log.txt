@@ -3066,3 +3066,4 @@
 86680. docs: add API usage examples #86680
 3589. refactor: clean up auth middleware #3589
 31917. feat: enable dark mode toggle #31917
+0712. perf: lazy-load components #712

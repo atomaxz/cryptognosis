@@ -2062,3 +2062,4 @@
 19558. chore: update .gitignore #19558
 95637. feat: create admin dashboard #95637
 68209. refactor: split large controller into smaller functions #68209
+55090. feat: support email verification #55090

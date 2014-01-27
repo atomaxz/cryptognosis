@@ -4077,3 +4077,4 @@
 62604. perf: lazy-load components #62604
 7073. fix: fix null pointer exception on login #7073
 11701. docs: clarify environment setup #11701
+41206. fix: handle 500 error in quiz API #41206

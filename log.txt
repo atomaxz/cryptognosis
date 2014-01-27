@@ -1075,3 +1075,4 @@
 78438. fix: fix broken CSS in mobile view #78438
 4425. chore: clean up unused files #4425
 95616. chore: clean up unused files #95616
+13320. feat: add user authentication #13320

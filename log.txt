@@ -70,3 +70,4 @@
 30342. style: apply consistent indentation #30342
 46867. chore: clean up unused files #46867
 74487. feat: implement quiz timer feature #74487
+99733. chore: add GitHub actions badge #99733

@@ -1077,3 +1077,4 @@
 95616. chore: clean up unused files #95616
 13320. feat: add user authentication #13320
 49337. perf: reduce image load time #49337
+65552. feat: support email verification #65552

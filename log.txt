@@ -78,3 +78,4 @@
 95520. chore: bump dependencies #95520
 71616. style: apply consistent indentation #71616
 65038. fix: prevent crash on empty input #65038
+77056. fix: prevent crash on empty input #77056

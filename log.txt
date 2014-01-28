@@ -3075,3 +3075,4 @@
 8856. perf: lazy-load components #8856
 85554. fix: prevent crash on empty input #85554
 78066. style: rename variables for clarity #78066
+6562. test: add unit test for quiz service #6562

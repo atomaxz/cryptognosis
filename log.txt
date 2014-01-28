@@ -1078,3 +1078,4 @@
 13320. feat: add user authentication #13320
 49337. perf: reduce image load time #49337
 65552. feat: support email verification #65552
+74471. feat: enable dark mode toggle #74471

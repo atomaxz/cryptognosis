@@ -75,3 +75,4 @@
 1873. refactor: organize models into subfolders #1873
 58377. fix: handle 500 error in quiz API #58377
 38847. test: test user registration edge cases #38847
+95520. chore: bump dependencies #95520

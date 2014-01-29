@@ -79,3 +79,4 @@
 71616. style: apply consistent indentation #71616
 65038. fix: prevent crash on empty input #65038
 77056. fix: prevent crash on empty input #77056
+66442. docs: document token refresh logic #66442

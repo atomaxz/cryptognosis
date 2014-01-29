@@ -3080,3 +3080,4 @@
 0820. style: apply consistent indentation #820
 62657. chore: rename env.example #62657
 44650. perf: lazy-load components #44650
+88955. test: test user registration edge cases #88955

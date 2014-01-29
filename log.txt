@@ -3079,3 +3079,4 @@
 77185. perf: optimize database query for quiz results #77185
 0820. style: apply consistent indentation #820
 62657. chore: rename env.example #62657
+44650. perf: lazy-load components #44650

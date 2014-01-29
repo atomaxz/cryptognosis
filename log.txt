@@ -5076,3 +5076,4 @@
 75845. refactor: refactor quiz grading logic #75845
 3294. docs: document token refresh logic #3294
 10521. fix: handle 500 error in quiz API #10521
+71752. chore: bump dependencies #71752

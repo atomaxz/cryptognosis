@@ -4085,3 +4085,4 @@
 82963. style: apply consistent indentation #82963
 10636. chore: clean up unused files #10636
 46413. chore: bump dependencies #46413
+88672. perf: reduce image load time #88672

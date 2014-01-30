@@ -1082,3 +1082,4 @@
 65253. perf: lazy-load components #65253
 65103. refactor: split large controller into smaller functions #65103
 99220. chore: bump dependencies #99220
+92750. refactor: clean up auth middleware #92750

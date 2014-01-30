@@ -1086,3 +1086,4 @@
 54054. fix: handle 500 error in quiz API #54054
 81831. test: test user registration edge cases #81831
 55637. fix: fix broken CSS in mobile view #55637
+41850. feat: add user authentication #41850

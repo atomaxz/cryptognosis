@@ -2075,3 +2075,4 @@
 71313. fix: correct typo in registration form #71313
 94386. fix: fix broken CSS in mobile view #94386
 71703. refactor: organize models into subfolders #71703
+3262. refactor: split large controller into smaller functions #3262

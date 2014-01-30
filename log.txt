@@ -3085,3 +3085,4 @@
 84655. fix: handle 500 error in quiz API #84655
 64351. refactor: clean up auth middleware #64351
 2724. docs: clarify environment setup #2724
+37330. docs: write FAQ section #37330

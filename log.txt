@@ -5079,3 +5079,4 @@
 71752. chore: bump dependencies #71752
 34003. test: test user registration edge cases #34003
 47756. perf: optimize database query for quiz results #47756
+49492. test: mock database connection in test suite #49492

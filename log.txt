@@ -1084,3 +1084,4 @@
 99220. chore: bump dependencies #99220
 92750. refactor: clean up auth middleware #92750
 54054. fix: handle 500 error in quiz API #54054
+81831. test: test user registration edge cases #81831

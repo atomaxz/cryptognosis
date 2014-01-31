@@ -1088,3 +1088,4 @@
 55637. fix: fix broken CSS in mobile view #55637
 41850. feat: add user authentication #41850
 84400. perf: optimize database query for quiz results #84400
+29376. test: increase coverage on auth module #29376

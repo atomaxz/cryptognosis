@@ -3086,3 +3086,4 @@
 64351. refactor: clean up auth middleware #64351
 2724. docs: clarify environment setup #2724
 37330. docs: write FAQ section #37330
+83943. chore: add GitHub actions badge #83943

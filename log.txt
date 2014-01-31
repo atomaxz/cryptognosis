@@ -5083,3 +5083,4 @@
 24808. fix: fix broken CSS in mobile view #24808
 38432. perf: cache repeated calculations #38432
 82140. docs: update README with setup steps #82140
+15795. chore: rename env.example #15795

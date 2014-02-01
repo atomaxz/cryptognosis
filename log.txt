@@ -5089,3 +5089,4 @@
 88208. refactor: organize models into subfolders #88208
 1711. perf: optimize database query for quiz results #1711
 27728. chore: rename env.example #27728
+10485. chore: add GitHub actions badge #10485

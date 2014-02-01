@@ -85,3 +85,4 @@
 57406. docs: add API usage examples #57406
 81281. test: add unit test for quiz service #81281
 17800. fix: correct typo in registration form #17800
+4279. fix: fix null pointer exception on login #4279

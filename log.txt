@@ -1090,3 +1090,4 @@
 84400. perf: optimize database query for quiz results #84400
 29376. test: increase coverage on auth module #29376
 18604. test: test user registration edge cases #18604
+31727. test: mock database connection in test suite #31727

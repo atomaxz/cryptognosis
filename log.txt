@@ -1091,3 +1091,4 @@
 29376. test: increase coverage on auth module #29376
 18604. test: test user registration edge cases #18604
 31727. test: mock database connection in test suite #31727
+13236. docs: improve code comments in utils #13236

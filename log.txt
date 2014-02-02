@@ -89,3 +89,4 @@
 49232. perf: optimize database query for quiz results #49232
 49890. fix: resolve issue with date parsing #49890
 68407. fix: handle 500 error in quiz API #68407
+28803. style: remove trailing whitespace #28803

@@ -4095,3 +4095,4 @@
 93404. chore: update .gitignore #93404
 73243. chore: update .gitignore #73243
 83786. feat: enable dark mode toggle #83786
+4987. perf: reduce image load time #4987

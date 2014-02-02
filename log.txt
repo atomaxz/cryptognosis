@@ -1095,3 +1095,4 @@
 59624. perf: lazy-load components #59624
 21618. test: test user registration edge cases #21618
 24264. style: standardize quote style #24264
+78219. test: increase coverage on auth module #78219

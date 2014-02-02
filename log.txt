@@ -3090,3 +3090,4 @@
 20790. chore: update .gitignore #20790
 49888. fix: correct typo in registration form #49888
 7865. test: test user registration edge cases #7865
+16765. style: apply consistent indentation #16765

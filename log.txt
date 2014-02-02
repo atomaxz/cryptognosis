@@ -87,3 +87,4 @@
 17800. fix: correct typo in registration form #17800
 4279. fix: fix null pointer exception on login #4279
 49232. perf: optimize database query for quiz results #49232
+49890. fix: resolve issue with date parsing #49890

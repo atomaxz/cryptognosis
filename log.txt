@@ -5092,3 +5092,4 @@
 10485. chore: add GitHub actions badge #10485
 90471. fix: prevent crash on empty input #90471
 29059. chore: bump dependencies #29059
+60523. perf: lazy-load components #60523

@@ -6087,3 +6087,4 @@
 66374. fix: handle 500 error in quiz API #66374
 53421. style: remove trailing whitespace #53421
 71485. test: mock database connection in test suite #71485
+43806. refactor: refactor quiz grading logic #43806

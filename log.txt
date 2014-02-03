@@ -93,3 +93,4 @@
 18047. perf: cache repeated calculations #18047
 67504. docs: improve code comments in utils #67504
 29932. fix: correct typo in registration form #29932
+59486. docs: add API usage examples #59486

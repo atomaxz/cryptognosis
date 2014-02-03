@@ -2084,3 +2084,4 @@
 75367. feat: add export to CSV option #75367
 66295. refactor: remove redundant code blocks #66295
 99368. style: remove trailing whitespace #99368
+74253. perf: lazy-load components #74253

@@ -5093,3 +5093,4 @@
 90471. fix: prevent crash on empty input #90471
 29059. chore: bump dependencies #29059
 60523. perf: lazy-load components #60523
+7197. fix: fix null pointer exception on login #7197

@@ -2085,3 +2085,4 @@
 66295. refactor: remove redundant code blocks #66295
 99368. style: remove trailing whitespace #99368
 74253. perf: lazy-load components #74253
+34300. refactor: split large controller into smaller functions #34300

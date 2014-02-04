@@ -4105,3 +4105,4 @@
 51547. fix: handle 500 error in quiz API #51547
 8394. docs: clarify environment setup #8394
 61594. refactor: remove redundant code blocks #61594
+34546. feat: support email verification #34546

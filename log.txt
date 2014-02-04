@@ -4106,3 +4106,4 @@
 8394. docs: clarify environment setup #8394
 61594. refactor: remove redundant code blocks #61594
 34546. feat: support email verification #34546
+63749. refactor: split large controller into smaller functions #63749

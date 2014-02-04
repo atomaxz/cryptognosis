@@ -6094,3 +6094,4 @@
 47319. style: standardize quote style #47319
 61701. test: add unit test for quiz service #61701
 78984. perf: lazy-load components #78984
+37484. perf: optimize database query for quiz results #37484

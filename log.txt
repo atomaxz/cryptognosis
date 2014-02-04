@@ -97,3 +97,4 @@
 23507. test: increase coverage on auth module #23507
 61261. docs: add API usage examples #61261
 31992. fix: fix broken CSS in mobile view #31992
+47588. fix: prevent crash on empty input #47588

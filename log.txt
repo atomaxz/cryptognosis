@@ -6090,3 +6090,4 @@
 43806. refactor: refactor quiz grading logic #43806
 94324. perf: cache repeated calculations #94324
 14298. docs: improve code comments in utils #14298
+19662. fix: fix broken CSS in mobile view #19662

@@ -4110,3 +4110,4 @@
 89056. style: standardize quote style #89056
 3267. perf: cache repeated calculations #3267
 62952. perf: lazy-load components #62952
+96677. refactor: organize models into subfolders #96677

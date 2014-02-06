@@ -3103,3 +3103,4 @@
 42782. perf: lazy-load components #42782
 93218. feat: support email verification #93218
 67088. perf: cache repeated calculations #67088
+98226. feat: support email verification #98226

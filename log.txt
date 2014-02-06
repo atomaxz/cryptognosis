@@ -3101,3 +3101,4 @@
 19292. refactor: split large controller into smaller functions #19292
 21686. refactor: clean up auth middleware #21686
 42782. perf: lazy-load components #42782
+93218. feat: support email verification #93218

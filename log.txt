@@ -106,3 +106,4 @@
 75442. docs: clarify environment setup #75442
 73704. style: reformat files with black #73704
 99965. chore: update .gitignore #99965
+43665. refactor: organize models into subfolders #43665

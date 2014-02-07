@@ -3105,3 +3105,4 @@
 67088. perf: cache repeated calculations #67088
 98226. feat: support email verification #98226
 95936. test: mock database connection in test suite #95936
+28217. test: test user registration edge cases #28217

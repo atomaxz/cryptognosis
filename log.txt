@@ -109,3 +109,4 @@
 43665. refactor: organize models into subfolders #43665
 0969. test: test user registration edge cases #969
 18557. perf: optimize database query for quiz results #18557
+2229. perf: reduce image load time #2229

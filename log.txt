@@ -5100,3 +5100,4 @@
 50014. feat: add export to CSV option #50014
 44209. docs: update README with setup steps #44209
 70255. test: increase coverage on auth module #70255
+72870. docs: update README with setup steps #72870

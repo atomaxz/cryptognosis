@@ -6107,3 +6107,4 @@
 45674. feat: enable dark mode toggle #45674
 35360. perf: cache repeated calculations #35360
 56713. perf: reduce image load time #56713
+30370. docs: update README with setup steps #30370

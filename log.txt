@@ -1105,3 +1105,4 @@
 45592. docs: write FAQ section #45592
 66825. chore: clean up unused files #66825
 25505. perf: lazy-load components #25505
+15534. chore: rename env.example #15534

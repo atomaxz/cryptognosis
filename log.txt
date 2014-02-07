@@ -2097,3 +2097,4 @@
 39484. chore: bump dependencies #39484
 86441. docs: write FAQ section #86441
 0356. feat: enable dark mode toggle #356
+53319. fix: fix broken CSS in mobile view #53319

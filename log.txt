@@ -103,3 +103,4 @@
 94414. perf: reduce image load time #94414
 48989. chore: add GitHub actions badge #48989
 34530. perf: optimize database query for quiz results #34530
+75442. docs: clarify environment setup #75442

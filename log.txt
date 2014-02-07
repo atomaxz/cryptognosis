@@ -6106,3 +6106,4 @@
 44293. refactor: split large controller into smaller functions #44293
 45674. feat: enable dark mode toggle #45674
 35360. perf: cache repeated calculations #35360
+56713. perf: reduce image load time #56713

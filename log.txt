@@ -6112,3 +6112,4 @@
 84382. perf: optimize database query for quiz results #84382
 83084. perf: reduce image load time #83084
 73305. fix: fix broken CSS in mobile view #73305
+48801. feat: add user authentication #48801

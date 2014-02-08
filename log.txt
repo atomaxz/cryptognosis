@@ -3106,3 +3106,4 @@
 98226. feat: support email verification #98226
 95936. test: mock database connection in test suite #95936
 28217. test: test user registration edge cases #28217
+19981. refactor: clean up auth middleware #19981

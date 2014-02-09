@@ -1109,3 +1109,4 @@
 10715. refactor: split large controller into smaller functions #10715
 75801. test: add unit test for quiz service #75801
 24475. perf: lazy-load components #24475
+61361. fix: prevent crash on empty input #61361

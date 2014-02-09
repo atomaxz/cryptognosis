@@ -3113,3 +3113,4 @@
 77137. test: increase coverage on auth module #77137
 80166. feat: support email verification #80166
 33820. style: remove trailing whitespace #33820
+21189. chore: add GitHub actions badge #21189

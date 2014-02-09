@@ -5105,3 +5105,4 @@
 36128. perf: cache repeated calculations #36128
 97537. style: reformat files with black #97537
 8322. fix: fix null pointer exception on login #8322
+37661. perf: cache repeated calculations #37661

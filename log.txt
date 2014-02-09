@@ -3110,3 +3110,4 @@
 50423. test: test user registration edge cases #50423
 64657. perf: cache repeated calculations #64657
 80867. docs: improve code comments in utils #80867
+77137. test: increase coverage on auth module #77137

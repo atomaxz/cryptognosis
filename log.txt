@@ -6122,3 +6122,4 @@
 36997. test: increase coverage on auth module #36997
 71086. style: rename variables for clarity #71086
 27024. fix: resolve issue with date parsing #27024
+12100. feat: enable dark mode toggle #12100

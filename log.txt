@@ -4126,3 +4126,4 @@
 94354. style: apply consistent indentation #94354
 16404. refactor: split large controller into smaller functions #16404
 20709. refactor: split large controller into smaller functions #20709
+42572. docs: update README with setup steps #42572

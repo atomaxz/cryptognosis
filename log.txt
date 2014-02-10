@@ -1113,3 +1113,4 @@
 59737. fix: correct typo in registration form #59737
 1521. test: add integration test for /submit endpoint #1521
 14557. fix: resolve issue with date parsing #14557
+19536. feat: support email verification #19536

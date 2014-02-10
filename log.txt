@@ -1112,3 +1112,4 @@
 61361. fix: prevent crash on empty input #61361
 59737. fix: correct typo in registration form #59737
 1521. test: add integration test for /submit endpoint #1521
+14557. fix: resolve issue with date parsing #14557

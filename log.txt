@@ -2104,3 +2104,4 @@
 96399. style: standardize quote style #96399
 65266. style: standardize quote style #65266
 73411. perf: cache repeated calculations #73411
+10045. fix: prevent crash on empty input #10045

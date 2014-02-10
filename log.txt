@@ -4127,3 +4127,4 @@
 16404. refactor: split large controller into smaller functions #16404
 20709. refactor: split large controller into smaller functions #20709
 42572. docs: update README with setup steps #42572
+82706. fix: fix broken CSS in mobile view #82706

@@ -6124,3 +6124,4 @@
 27024. fix: resolve issue with date parsing #27024
 12100. feat: enable dark mode toggle #12100
 98435. docs: clarify environment setup #98435
+20529. feat: add user authentication #20529

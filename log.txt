@@ -4128,3 +4128,4 @@
 20709. refactor: split large controller into smaller functions #20709
 42572. docs: update README with setup steps #42572
 82706. fix: fix broken CSS in mobile view #82706
+96053. fix: fix null pointer exception on login #96053

@@ -4131,3 +4131,4 @@
 96053. fix: fix null pointer exception on login #96053
 57628. chore: bump dependencies #57628
 87612. docs: clarify environment setup #87612
+95770. fix: handle 500 error in quiz API #95770

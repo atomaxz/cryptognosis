@@ -3116,3 +3116,4 @@
 21189. chore: add GitHub actions badge #21189
 41575. test: increase coverage on auth module #41575
 75472. docs: clarify environment setup #75472
+3428. docs: add API usage examples #3428

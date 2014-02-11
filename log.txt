@@ -3117,3 +3117,4 @@
 41575. test: increase coverage on auth module #41575
 75472. docs: clarify environment setup #75472
 3428. docs: add API usage examples #3428
+78170. feat: support email verification #78170

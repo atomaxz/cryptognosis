@@ -4129,3 +4129,4 @@
 42572. docs: update README with setup steps #42572
 82706. fix: fix broken CSS in mobile view #82706
 96053. fix: fix null pointer exception on login #96053
+57628. chore: bump dependencies #57628

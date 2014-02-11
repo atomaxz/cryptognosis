@@ -1117,3 +1117,4 @@
 30167. perf: reduce image load time #30167
 18179. style: rename variables for clarity #18179
 97874. chore: rename env.example #97874
+98531. docs: write FAQ section #98531

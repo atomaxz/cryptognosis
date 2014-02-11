@@ -6126,3 +6126,4 @@
 98435. docs: clarify environment setup #98435
 20529. feat: add user authentication #20529
 4780. feat: implement quiz timer feature #4780
+39536. perf: optimize database query for quiz results #39536

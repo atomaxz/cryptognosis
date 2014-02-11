@@ -4133,3 +4133,4 @@
 87612. docs: clarify environment setup #87612
 95770. fix: handle 500 error in quiz API #95770
 81178. fix: resolve issue with date parsing #81178
+49754. perf: optimize database query for quiz results #49754

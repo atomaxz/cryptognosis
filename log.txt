@@ -5111,3 +5111,4 @@
 74478. docs: update README with setup steps #74478
 88392. docs: add API usage examples #88392
 82241. docs: add API usage examples #82241
+14842. fix: prevent crash on empty input #14842

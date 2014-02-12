@@ -2109,3 +2109,4 @@
 11902. refactor: remove redundant code blocks #11902
 90510. fix: correct typo in registration form #90510
 76145. refactor: split large controller into smaller functions #76145
+80666. test: add integration test for /submit endpoint #80666

@@ -5107,3 +5107,4 @@
 8322. fix: fix null pointer exception on login #8322
 37661. perf: cache repeated calculations #37661
 62033. perf: cache repeated calculations #62033
+5793. feat: add user authentication #5793

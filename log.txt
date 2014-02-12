@@ -2110,3 +2110,4 @@
 90510. fix: correct typo in registration form #90510
 76145. refactor: split large controller into smaller functions #76145
 80666. test: add integration test for /submit endpoint #80666
+49678. chore: bump dependencies #49678

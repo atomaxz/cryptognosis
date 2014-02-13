@@ -3119,3 +3119,4 @@
 3428. docs: add API usage examples #3428
 78170. feat: support email verification #78170
 32330. fix: correct typo in registration form #32330
+95564. feat: support email verification #95564

@@ -4138,3 +4138,4 @@
 2917. refactor: organize models into subfolders #2917
 3418. test: add integration test for /submit endpoint #3418
 99410. perf: reduce image load time #99410
+52251. feat: support email verification #52251

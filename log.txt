@@ -125,3 +125,4 @@
 61538. perf: cache repeated calculations #61538
 69211. chore: rename env.example #69211
 28196. docs: improve code comments in utils #28196
+83018. perf: reduce image load time #83018

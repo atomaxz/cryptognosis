@@ -5117,3 +5117,4 @@
 66366. test: increase coverage on auth module #66366
 80852. chore: clean up unused files #80852
 48950. perf: cache repeated calculations #48950
+89702. fix: correct typo in registration form #89702

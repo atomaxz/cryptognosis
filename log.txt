@@ -2116,3 +2116,4 @@
 35661. perf: cache repeated calculations #35661
 91772. docs: clarify environment setup #91772
 47695. refactor: clean up auth middleware #47695
+46865. docs: write FAQ section #46865

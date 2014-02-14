@@ -5119,3 +5119,4 @@
 48950. perf: cache repeated calculations #48950
 89702. fix: correct typo in registration form #89702
 57161. refactor: split large controller into smaller functions #57161
+81264. test: add unit test for quiz service #81264

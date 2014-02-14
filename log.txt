@@ -6137,3 +6137,4 @@
 17078. chore: update .gitignore #17078
 65180. chore: rename env.example #65180
 96663. docs: add API usage examples #96663
+4303. docs: update README with setup steps #4303

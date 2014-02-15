@@ -5125,3 +5125,4 @@
 92070. perf: cache repeated calculations #92070
 90788. perf: optimize database query for quiz results #90788
 92717. refactor: refactor quiz grading logic #92717
+28838. perf: optimize database query for quiz results #28838

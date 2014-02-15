@@ -6139,3 +6139,4 @@
 96663. docs: add API usage examples #96663
 4303. docs: update README with setup steps #4303
 85946. feat: add export to CSV option #85946
+19440. chore: add GitHub actions badge #19440

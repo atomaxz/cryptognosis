@@ -2120,3 +2120,4 @@
 57082. feat: support email verification #57082
 43712. style: apply consistent indentation #43712
 8541. chore: clean up unused files #8541
+40489. chore: rename env.example #40489

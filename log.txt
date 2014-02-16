@@ -6140,3 +6140,4 @@
 4303. docs: update README with setup steps #4303
 85946. feat: add export to CSV option #85946
 19440. chore: add GitHub actions badge #19440
+61116. fix: fix null pointer exception on login #61116

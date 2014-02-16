@@ -3127,3 +3127,4 @@
 30091. fix: correct typo in registration form #30091
 93871. style: apply consistent indentation #93871
 31328. test: add unit test for quiz service #31328
+13348. perf: lazy-load components #13348

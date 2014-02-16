@@ -5130,3 +5130,4 @@
 97508. fix: prevent crash on empty input #97508
 67029. refactor: refactor quiz grading logic #67029
 42089. docs: improve code comments in utils #42089
+9341. fix: fix broken CSS in mobile view #9341

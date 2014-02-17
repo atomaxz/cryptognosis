@@ -5132,3 +5132,4 @@
 42089. docs: improve code comments in utils #42089
 9341. fix: fix broken CSS in mobile view #9341
 15348. perf: lazy-load components #15348
+85490. feat: support email verification #85490

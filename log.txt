@@ -1127,3 +1127,4 @@
 87010. feat: enable dark mode toggle #87010
 14780. chore: add GitHub actions badge #14780
 74712. chore: add GitHub actions badge #74712
+67804. docs: clarify environment setup #67804

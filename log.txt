@@ -134,3 +134,4 @@
 90422. refactor: split large controller into smaller functions #90422
 27094. test: add integration test for /submit endpoint #27094
 26274. perf: optimize database query for quiz results #26274
+41844. feat: add user authentication #41844

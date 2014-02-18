@@ -4149,3 +4149,4 @@
 93003. refactor: remove redundant code blocks #93003
 33121. refactor: clean up auth middleware #33121
 10078. style: apply consistent indentation #10078
+81748. feat: add user authentication #81748

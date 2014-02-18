@@ -2124,3 +2124,4 @@
 13020. fix: fix null pointer exception on login #13020
 72828. feat: add user authentication #72828
 64491. refactor: refactor quiz grading logic #64491
+76928. fix: correct typo in registration form #76928

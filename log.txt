@@ -5136,3 +5136,4 @@
 7271. docs: add API usage examples #7271
 29377. test: mock database connection in test suite #29377
 65172. feat: create admin dashboard #65172
+69263. chore: bump dependencies #69263

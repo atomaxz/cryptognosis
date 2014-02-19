@@ -4154,3 +4154,4 @@
 94598. fix: correct typo in registration form #94598
 98903. fix: handle 500 error in quiz API #98903
 1096. chore: rename env.example #1096
+77970. fix: resolve issue with date parsing #77970

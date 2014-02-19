@@ -6150,3 +6150,4 @@
 79029. docs: update README with setup steps #79029
 96733. feat: add export to CSV option #96733
 36370. refactor: split large controller into smaller functions #36370
+48093. chore: add GitHub actions badge #48093

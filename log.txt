@@ -3140,3 +3140,4 @@
 43311. chore: bump dependencies #43311
 66072. fix: correct typo in registration form #66072
 57827. perf: cache repeated calculations #57827
+76324. perf: reduce image load time #76324

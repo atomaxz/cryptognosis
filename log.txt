@@ -140,3 +140,4 @@
 66384. fix: handle 500 error in quiz API #66384
 60798. refactor: refactor quiz grading logic #60798
 82759. chore: rename env.example #82759
+24011. feat: support email verification #24011

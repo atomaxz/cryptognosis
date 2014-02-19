@@ -137,3 +137,4 @@
 41844. feat: add user authentication #41844
 48622. refactor: split large controller into smaller functions #48622
 1648. test: mock database connection in test suite #1648
+66384. fix: handle 500 error in quiz API #66384

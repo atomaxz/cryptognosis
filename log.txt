@@ -3143,3 +3143,4 @@
 76324. perf: reduce image load time #76324
 33809. test: test user registration edge cases #33809
 80539. style: apply consistent indentation #80539
+80642. chore: add GitHub actions badge #80642

@@ -5139,3 +5139,4 @@
 69263. chore: bump dependencies #69263
 97805. perf: reduce image load time #97805
 34314. docs: document token refresh logic #34314
+67478. feat: enable dark mode toggle #67478

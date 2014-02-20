@@ -1136,3 +1136,4 @@
 88680. perf: lazy-load components #88680
 47963. feat: implement quiz timer feature #47963
 16143. refactor: organize models into subfolders #16143
+54683. perf: reduce image load time #54683

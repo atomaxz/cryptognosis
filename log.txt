@@ -1133,3 +1133,4 @@
 69143. refactor: refactor quiz grading logic #69143
 62783. chore: bump dependencies #62783
 15643. docs: write FAQ section #15643
+88680. perf: lazy-load components #88680

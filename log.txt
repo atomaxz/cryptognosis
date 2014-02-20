@@ -6151,3 +6151,4 @@
 96733. feat: add export to CSV option #96733
 36370. refactor: split large controller into smaller functions #36370
 48093. chore: add GitHub actions badge #48093
+10999. test: test user registration edge cases #10999

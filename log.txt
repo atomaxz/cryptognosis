@@ -6152,3 +6152,4 @@
 36370. refactor: split large controller into smaller functions #36370
 48093. chore: add GitHub actions badge #48093
 10999. test: test user registration edge cases #10999
+32069. style: standardize quote style #32069

@@ -142,3 +142,4 @@
 82759. chore: rename env.example #82759
 24011. feat: support email verification #24011
 36476. fix: correct typo in registration form #36476
+75027. feat: enable dark mode toggle #75027

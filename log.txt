@@ -4159,3 +4159,4 @@
 99623. chore: bump dependencies #99623
 47355. perf: lazy-load components #47355
 49728. fix: fix broken CSS in mobile view #49728
+11895. refactor: split large controller into smaller functions #11895

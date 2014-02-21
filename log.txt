@@ -146,3 +146,4 @@
 65899. feat: support email verification #65899
 81703. feat: enable dark mode toggle #81703
 28122. refactor: split large controller into smaller functions #28122
+27434. test: add integration test for /submit endpoint #27434

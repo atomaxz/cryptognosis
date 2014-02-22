@@ -1141,3 +1141,4 @@
 74406. chore: rename env.example #74406
 12814. style: remove trailing whitespace #12814
 93544. chore: rename env.example #93544
+22361. refactor: clean up auth middleware #22361

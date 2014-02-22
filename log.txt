@@ -3150,3 +3150,4 @@
 66798. perf: cache repeated calculations #66798
 4405. style: reformat files with black #4405
 93554. docs: write FAQ section #93554
+14291. perf: cache repeated calculations #14291

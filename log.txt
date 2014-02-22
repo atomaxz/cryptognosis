@@ -4161,3 +4161,4 @@
 49728. fix: fix broken CSS in mobile view #49728
 11895. refactor: split large controller into smaller functions #11895
 27693. docs: add API usage examples #27693
+89327. perf: lazy-load components #89327

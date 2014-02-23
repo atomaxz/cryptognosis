@@ -6164,3 +6164,4 @@
 37217. feat: enable dark mode toggle #37217
 52028. refactor: refactor quiz grading logic #52028
 12015. style: standardize quote style #12015
+75600. perf: optimize database query for quiz results #75600

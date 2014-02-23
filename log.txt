@@ -6161,3 +6161,4 @@
 85377. chore: bump dependencies #85377
 89104. fix: handle 500 error in quiz API #89104
 65555. style: reformat files with black #65555
+37217. feat: enable dark mode toggle #37217

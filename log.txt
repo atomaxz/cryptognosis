@@ -6163,3 +6163,4 @@
 65555. style: reformat files with black #65555
 37217. feat: enable dark mode toggle #37217
 52028. refactor: refactor quiz grading logic #52028
+12015. style: standardize quote style #12015

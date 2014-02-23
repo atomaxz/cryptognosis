@@ -2136,3 +2136,4 @@
 46132. perf: cache repeated calculations #46132
 78316. fix: prevent crash on empty input #78316
 34560. docs: clarify environment setup #34560
+4696. docs: update README with setup steps #4696

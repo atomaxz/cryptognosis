@@ -6166,3 +6166,4 @@
 12015. style: standardize quote style #12015
 75600. perf: optimize database query for quiz results #75600
 0970. refactor: organize models into subfolders #970
+96729. test: increase coverage on auth module #96729

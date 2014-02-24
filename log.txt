@@ -2139,3 +2139,4 @@
 4696. docs: update README with setup steps #4696
 46860. feat: enable dark mode toggle #46860
 89850. docs: clarify environment setup #89850
+62647. fix: handle 500 error in quiz API #62647

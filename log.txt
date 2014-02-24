@@ -3158,3 +3158,4 @@
 37295. docs: update README with setup steps #37295
 85477. style: reformat files with black #85477
 49981. chore: clean up unused files #49981
+2039. fix: handle 500 error in quiz API #2039

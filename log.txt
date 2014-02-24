@@ -1147,3 +1147,4 @@
 10373. chore: clean up unused files #10373
 20386. style: apply consistent indentation #20386
 74859. style: apply consistent indentation #74859
+59934. refactor: organize models into subfolders #59934

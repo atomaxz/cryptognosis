@@ -157,3 +157,4 @@
 87196. refactor: split large controller into smaller functions #87196
 27401. test: add unit test for quiz service #27401
 69251. perf: cache repeated calculations #69251
+3123. perf: lazy-load components #3123

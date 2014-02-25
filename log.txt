@@ -158,3 +158,4 @@
 27401. test: add unit test for quiz service #27401
 69251. perf: cache repeated calculations #69251
 3123. perf: lazy-load components #3123
+76836. perf: optimize database query for quiz results #76836

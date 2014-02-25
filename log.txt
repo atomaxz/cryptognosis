@@ -1150,3 +1150,4 @@
 59934. refactor: organize models into subfolders #59934
 37726. chore: rename env.example #37726
 99811. fix: fix null pointer exception on login #99811
+15439. perf: optimize database query for quiz results #15439

@@ -6169,3 +6169,4 @@
 96729. test: increase coverage on auth module #96729
 28700. test: add unit test for quiz service #28700
 19661. fix: fix null pointer exception on login #19661
+8060. perf: reduce image load time #8060

@@ -3161,3 +3161,4 @@
 2039. fix: handle 500 error in quiz API #2039
 38951. style: remove trailing whitespace #38951
 73073. fix: fix broken CSS in mobile view #73073
+51396. style: remove trailing whitespace #51396

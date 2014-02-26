@@ -6170,3 +6170,4 @@
 28700. test: add unit test for quiz service #28700
 19661. fix: fix null pointer exception on login #19661
 8060. perf: reduce image load time #8060
+8849. chore: clean up unused files #8849

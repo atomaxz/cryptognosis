@@ -3164,3 +3164,4 @@
 51396. style: remove trailing whitespace #51396
 58456. feat: create admin dashboard #58456
 44086. fix: resolve issue with date parsing #44086
+89847. chore: bump dependencies #89847

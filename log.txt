@@ -165,3 +165,4 @@
 42815. docs: clarify environment setup #42815
 91864. refactor: clean up auth middleware #91864
 85024. docs: document token refresh logic #85024
+3307. perf: optimize database query for quiz results #3307

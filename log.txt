@@ -1153,3 +1153,4 @@
 15439. perf: optimize database query for quiz results #15439
 94479. chore: bump dependencies #94479
 35850. style: reformat files with black #35850
+47844. test: increase coverage on auth module #47844

@@ -1155,3 +1155,4 @@
 35850. style: reformat files with black #35850
 47844. test: increase coverage on auth module #47844
 89502. style: reformat files with black #89502
+97720. perf: cache repeated calculations #97720

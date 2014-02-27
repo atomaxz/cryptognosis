@@ -167,3 +167,4 @@
 85024. docs: document token refresh logic #85024
 3307. perf: optimize database query for quiz results #3307
 39580. fix: handle 500 error in quiz API #39580
+68111. feat: enable dark mode toggle #68111

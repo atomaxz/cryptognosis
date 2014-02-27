@@ -171,3 +171,4 @@
 70870. test: add integration test for /submit endpoint #70870
 76380. fix: fix null pointer exception on login #76380
 18711. fix: correct typo in registration form #18711
+47927. feat: add user authentication #47927

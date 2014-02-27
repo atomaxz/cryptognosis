@@ -169,3 +169,4 @@
 39580. fix: handle 500 error in quiz API #39580
 68111. feat: enable dark mode toggle #68111
 70870. test: add integration test for /submit endpoint #70870
+76380. fix: fix null pointer exception on login #76380

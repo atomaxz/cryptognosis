@@ -6172,3 +6172,4 @@
 8060. perf: reduce image load time #8060
 8849. chore: clean up unused files #8849
 56100. perf: optimize database query for quiz results #56100
+17332. test: add unit test for quiz service #17332

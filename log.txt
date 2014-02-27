@@ -168,3 +168,4 @@
 3307. perf: optimize database query for quiz results #3307
 39580. fix: handle 500 error in quiz API #39580
 68111. feat: enable dark mode toggle #68111
+70870. test: add integration test for /submit endpoint #70870

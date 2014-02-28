@@ -4178,3 +4178,4 @@
 2122. feat: implement quiz timer feature #2122
 91470. style: reformat files with black #91470
 41526. chore: add GitHub actions badge #41526
+20327. perf: reduce image load time #20327

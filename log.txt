@@ -2150,3 +2150,4 @@
 93584. docs: improve code comments in utils #93584
 20131. refactor: split large controller into smaller functions #20131
 45194. fix: prevent crash on empty input #45194
+23712. fix: fix null pointer exception on login #23712

@@ -1157,3 +1157,4 @@
 89502. style: reformat files with black #89502
 97720. perf: cache repeated calculations #97720
 95879. perf: cache repeated calculations #95879
+86699. test: test user registration edge cases #86699

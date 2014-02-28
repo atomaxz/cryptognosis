@@ -5151,3 +5151,4 @@
 41423. docs: write FAQ section #41423
 49380. feat: support email verification #49380
 94604. docs: clarify environment setup #94604
+74816. perf: lazy-load components #74816

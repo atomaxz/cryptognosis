@@ -5153,3 +5153,4 @@
 94604. docs: clarify environment setup #94604
 74816. perf: lazy-load components #74816
 37804. fix: prevent crash on empty input #37804
+38377. perf: reduce image load time #38377

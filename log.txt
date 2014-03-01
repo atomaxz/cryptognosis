@@ -2157,3 +2157,4 @@
 46713. chore: add GitHub actions badge #46713
 35237. refactor: organize models into subfolders #35237
 93025. refactor: split large controller into smaller functions #93025
+72099. test: test user registration edge cases #72099

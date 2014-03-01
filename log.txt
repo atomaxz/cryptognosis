@@ -176,3 +176,4 @@
 63613. feat: implement quiz timer feature #63613
 6204. chore: add GitHub actions badge #6204
 98930. refactor: remove redundant code blocks #98930
+11648. perf: reduce image load time #11648

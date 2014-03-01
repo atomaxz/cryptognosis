@@ -6175,3 +6175,4 @@
 17332. test: add unit test for quiz service #17332
 36501. fix: correct typo in registration form #36501
 42536. test: mock database connection in test suite #42536
+31746. refactor: refactor quiz grading logic #31746

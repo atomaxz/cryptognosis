@@ -180,3 +180,4 @@
 21940. fix: handle 500 error in quiz API #21940
 86306. style: remove trailing whitespace #86306
 46705. chore: clean up unused files #46705
+2428. fix: prevent crash on empty input #2428

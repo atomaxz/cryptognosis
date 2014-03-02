@@ -5159,3 +5159,4 @@
 86337. fix: prevent crash on empty input #86337
 36225. refactor: split large controller into smaller functions #36225
 23222. chore: rename env.example #23222
+59706. perf: optimize database query for quiz results #59706

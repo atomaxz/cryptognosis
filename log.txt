@@ -178,3 +178,4 @@
 98930. refactor: remove redundant code blocks #98930
 11648. perf: reduce image load time #11648
 21940. fix: handle 500 error in quiz API #21940
+86306. style: remove trailing whitespace #86306

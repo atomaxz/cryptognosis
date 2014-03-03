@@ -5161,3 +5161,4 @@
 23222. chore: rename env.example #23222
 59706. perf: optimize database query for quiz results #59706
 84768. feat: add export to CSV option #84768
+42885. fix: resolve issue with date parsing #42885

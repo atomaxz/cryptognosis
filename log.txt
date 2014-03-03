@@ -2162,3 +2162,4 @@
 74928. perf: lazy-load components #74928
 91628. feat: add export to CSV option #91628
 42860. fix: handle 500 error in quiz API #42860
+47480. feat: add user authentication #47480

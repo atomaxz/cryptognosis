@@ -4185,3 +4185,4 @@
 42845. fix: resolve issue with date parsing #42845
 82107. chore: update .gitignore #82107
 53306. test: add integration test for /submit endpoint #53306
+99258. perf: lazy-load components #99258

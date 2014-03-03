@@ -182,3 +182,4 @@
 46705. chore: clean up unused files #46705
 2428. fix: prevent crash on empty input #2428
 40531. fix: correct typo in registration form #40531
+65207. test: add unit test for quiz service #65207

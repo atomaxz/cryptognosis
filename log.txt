@@ -183,3 +183,4 @@
 2428. fix: prevent crash on empty input #2428
 40531. fix: correct typo in registration form #40531
 65207. test: add unit test for quiz service #65207
+35073. test: add integration test for /submit endpoint #35073

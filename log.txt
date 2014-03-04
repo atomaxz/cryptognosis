@@ -2167,3 +2167,4 @@
 96143. fix: correct typo in registration form #96143
 49856. fix: handle 500 error in quiz API #49856
 13715. chore: update .gitignore #13715
+22973. chore: clean up unused files #22973

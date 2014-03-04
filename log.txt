@@ -3179,3 +3179,4 @@
 68555. chore: add GitHub actions badge #68555
 95368. chore: update .gitignore #95368
 99307. refactor: organize models into subfolders #99307
+83061. feat: add user authentication #83061

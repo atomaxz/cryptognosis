@@ -2165,3 +2165,4 @@
 47480. feat: add user authentication #47480
 36717. docs: add API usage examples #36717
 96143. fix: correct typo in registration form #96143
+49856. fix: handle 500 error in quiz API #49856

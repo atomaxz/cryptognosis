@@ -5165,3 +5165,4 @@
 23175. fix: fix broken CSS in mobile view #23175
 77363. docs: document token refresh logic #77363
 81223. fix: fix broken CSS in mobile view #81223
+70420. feat: support email verification #70420

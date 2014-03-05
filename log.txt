@@ -6185,3 +6185,4 @@
 12188. fix: fix null pointer exception on login #12188
 99850. test: add unit test for quiz service #99850
 9762. chore: bump dependencies #9762
+66322. refactor: clean up auth middleware #66322

@@ -5167,3 +5167,4 @@
 81223. fix: fix broken CSS in mobile view #81223
 70420. feat: support email verification #70420
 51899. test: add integration test for /submit endpoint #51899
+17978. chore: update .gitignore #17978

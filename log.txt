@@ -185,3 +185,4 @@
 65207. test: add unit test for quiz service #65207
 35073. test: add integration test for /submit endpoint #35073
 73904. test: increase coverage on auth module #73904
+12351. fix: fix null pointer exception on login #12351

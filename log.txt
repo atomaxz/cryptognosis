@@ -1164,3 +1164,4 @@
 94462. chore: add GitHub actions badge #94462
 58925. chore: rename env.example #58925
 90890. test: test user registration edge cases #90890
+82188. fix: prevent crash on empty input #82188

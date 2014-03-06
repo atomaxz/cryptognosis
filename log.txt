@@ -192,3 +192,4 @@
 26169. style: apply consistent indentation #26169
 96883. feat: enable dark mode toggle #96883
 77664. fix: fix broken CSS in mobile view #77664
+53887. chore: clean up unused files #53887

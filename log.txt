@@ -189,3 +189,4 @@
 31993. chore: update .gitignore #31993
 58485. perf: reduce image load time #58485
 4040. docs: improve code comments in utils #4040
+26169. style: apply consistent indentation #26169

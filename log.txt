@@ -3184,3 +3184,4 @@
 94370. test: add unit test for quiz service #94370
 77815. fix: handle 500 error in quiz API #77815
 1828. refactor: organize models into subfolders #1828
+97747. fix: handle 500 error in quiz API #97747

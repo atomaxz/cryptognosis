@@ -191,3 +191,4 @@
 4040. docs: improve code comments in utils #4040
 26169. style: apply consistent indentation #26169
 96883. feat: enable dark mode toggle #96883
+77664. fix: fix broken CSS in mobile view #77664

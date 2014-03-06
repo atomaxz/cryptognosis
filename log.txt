@@ -2170,3 +2170,4 @@
 22973. chore: clean up unused files #22973
 34306. perf: reduce image load time #34306
 52844. feat: support email verification #52844
+12421. test: add integration test for /submit endpoint #12421

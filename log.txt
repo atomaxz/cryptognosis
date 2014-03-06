@@ -4198,3 +4198,4 @@
 43752. style: apply consistent indentation #43752
 28494. feat: support email verification #28494
 76902. fix: handle 500 error in quiz API #76902
+99581. test: increase coverage on auth module #99581

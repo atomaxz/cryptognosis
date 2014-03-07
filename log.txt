@@ -4203,3 +4203,4 @@
 99952. perf: reduce image load time #99952
 93291. style: apply consistent indentation #93291
 38233. perf: cache repeated calculations #38233
+97431. docs: update README with setup steps #97431

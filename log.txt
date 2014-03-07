@@ -197,3 +197,4 @@
 7007. feat: enable dark mode toggle #7007
 93897. feat: implement quiz timer feature #93897
 63859. perf: optimize database query for quiz results #63859
+33097. refactor: refactor quiz grading logic #33097

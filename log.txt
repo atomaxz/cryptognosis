@@ -1169,3 +1169,4 @@
 78351. perf: lazy-load components #78351
 80687. feat: implement quiz timer feature #80687
 39264. feat: create admin dashboard #39264
+85937. docs: write FAQ section #85937

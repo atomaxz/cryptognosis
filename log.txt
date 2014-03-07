@@ -4200,3 +4200,4 @@
 76902. fix: handle 500 error in quiz API #76902
 99581. test: increase coverage on auth module #99581
 51768. style: standardize quote style #51768
+99952. perf: reduce image load time #99952

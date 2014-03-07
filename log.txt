@@ -194,3 +194,4 @@
 77664. fix: fix broken CSS in mobile view #77664
 53887. chore: clean up unused files #53887
 98129. style: rename variables for clarity #98129
+7007. feat: enable dark mode toggle #7007

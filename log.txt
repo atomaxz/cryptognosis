@@ -1171,3 +1171,4 @@
 39264. feat: create admin dashboard #39264
 85937. docs: write FAQ section #85937
 50095. docs: document token refresh logic #50095
+90525. feat: enable dark mode toggle #90525

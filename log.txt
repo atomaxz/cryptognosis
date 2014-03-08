@@ -3187,3 +3187,4 @@
 97747. fix: handle 500 error in quiz API #97747
 19850. refactor: clean up auth middleware #19850
 79705. refactor: remove redundant code blocks #79705
+88746. chore: bump dependencies #88746

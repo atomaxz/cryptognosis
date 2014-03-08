@@ -2176,3 +2176,4 @@
 15859. perf: optimize database query for quiz results #15859
 49268. docs: update README with setup steps #49268
 96695. test: add unit test for quiz service #96695
+26606. perf: lazy-load components #26606

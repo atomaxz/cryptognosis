@@ -1174,3 +1174,4 @@
 90525. feat: enable dark mode toggle #90525
 16911. refactor: split large controller into smaller functions #16911
 30932. fix: fix null pointer exception on login #30932
+61766. perf: lazy-load components #61766

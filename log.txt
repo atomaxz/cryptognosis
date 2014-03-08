@@ -3189,3 +3189,4 @@
 79705. refactor: remove redundant code blocks #79705
 88746. chore: bump dependencies #88746
 83923. refactor: organize models into subfolders #83923
+76242. feat: add user authentication #76242

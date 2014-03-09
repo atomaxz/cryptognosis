@@ -205,3 +205,4 @@
 44034. style: remove trailing whitespace #44034
 88194. docs: improve code comments in utils #88194
 96403. feat: create admin dashboard #96403
+35604. feat: support email verification #35604

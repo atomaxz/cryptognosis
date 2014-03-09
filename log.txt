@@ -207,3 +207,4 @@
 96403. feat: create admin dashboard #96403
 35604. feat: support email verification #35604
 66534. style: remove trailing whitespace #66534
+59976. fix: correct typo in registration form #59976

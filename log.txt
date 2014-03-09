@@ -6189,3 +6189,4 @@
 48328. chore: rename env.example #48328
 24256. refactor: clean up auth middleware #24256
 60114. chore: rename env.example #60114
+49426. chore: bump dependencies #49426

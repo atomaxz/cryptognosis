@@ -1178,3 +1178,4 @@
 83277. test: test user registration edge cases #83277
 28029. refactor: clean up auth middleware #28029
 13638. fix: fix null pointer exception on login #13638
+92090. style: remove trailing whitespace #92090

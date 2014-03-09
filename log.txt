@@ -1177,3 +1177,4 @@
 61766. perf: lazy-load components #61766
 83277. test: test user registration edge cases #83277
 28029. refactor: clean up auth middleware #28029
+13638. fix: fix null pointer exception on login #13638

@@ -2180,3 +2180,4 @@
 68955. fix: handle 500 error in quiz API #68955
 91664. feat: implement quiz timer feature #91664
 79328. style: reformat files with black #79328
+58383. chore: update .gitignore #58383

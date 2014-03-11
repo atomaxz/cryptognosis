@@ -4210,3 +4210,4 @@
 75592. refactor: clean up auth middleware #75592
 9427. refactor: clean up auth middleware #9427
 51128. feat: add export to CSV option #51128
+71731. perf: reduce image load time #71731

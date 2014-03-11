@@ -210,3 +210,4 @@
 59976. fix: correct typo in registration form #59976
 51770. style: reformat files with black #51770
 2032. fix: correct typo in registration form #2032
+47591. chore: update .gitignore #47591

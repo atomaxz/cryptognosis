@@ -213,3 +213,4 @@
 47591. chore: update .gitignore #47591
 94279. test: mock database connection in test suite #94279
 98868. style: apply consistent indentation #98868
+5366. fix: correct typo in registration form #5366

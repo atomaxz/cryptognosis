@@ -211,3 +211,4 @@
 51770. style: reformat files with black #51770
 2032. fix: correct typo in registration form #2032
 47591. chore: update .gitignore #47591
+94279. test: mock database connection in test suite #94279

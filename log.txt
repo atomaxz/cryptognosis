@@ -2184,3 +2184,4 @@
 4388. perf: reduce image load time #4388
 79680. test: increase coverage on auth module #79680
 83795. style: remove trailing whitespace #83795
+90452. fix: fix null pointer exception on login #90452

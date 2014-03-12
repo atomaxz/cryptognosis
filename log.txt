@@ -4213,3 +4213,4 @@
 71731. perf: reduce image load time #71731
 83258. feat: enable dark mode toggle #83258
 75700. perf: cache repeated calculations #75700
+3074. fix: fix null pointer exception on login #3074

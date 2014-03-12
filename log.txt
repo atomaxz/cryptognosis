@@ -2182,3 +2182,4 @@
 79328. style: reformat files with black #79328
 58383. chore: update .gitignore #58383
 4388. perf: reduce image load time #4388
+79680. test: increase coverage on auth module #79680

@@ -6200,3 +6200,4 @@
 82251. test: add unit test for quiz service #82251
 99925. chore: clean up unused files #99925
 72801. chore: add GitHub actions badge #72801
+98902. test: test user registration edge cases #98902

@@ -5187,3 +5187,4 @@
 69654. refactor: organize models into subfolders #69654
 24363. style: remove trailing whitespace #24363
 42565. feat: create admin dashboard #42565
+37620. chore: bump dependencies #37620

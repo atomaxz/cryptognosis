@@ -1190,3 +1190,4 @@
 56854. fix: resolve issue with date parsing #56854
 14147. refactor: organize models into subfolders #14147
 47138. docs: write FAQ section #47138
+7784. style: remove trailing whitespace #7784

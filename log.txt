@@ -2186,3 +2186,4 @@
 83795. style: remove trailing whitespace #83795
 90452. fix: fix null pointer exception on login #90452
 40394. chore: clean up unused files #40394
+92761. feat: add user authentication #92761

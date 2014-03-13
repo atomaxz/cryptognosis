@@ -4217,3 +4217,4 @@
 27772. style: rename variables for clarity #27772
 69415. feat: add export to CSV option #69415
 88491. test: mock database connection in test suite #88491
+5491. fix: fix broken CSS in mobile view #5491

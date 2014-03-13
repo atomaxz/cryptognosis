@@ -4215,3 +4215,4 @@
 75700. perf: cache repeated calculations #75700
 3074. fix: fix null pointer exception on login #3074
 27772. style: rename variables for clarity #27772
+69415. feat: add export to CSV option #69415

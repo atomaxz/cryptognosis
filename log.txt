@@ -3199,3 +3199,4 @@
 69956. style: standardize quote style #69956
 11477. fix: resolve issue with date parsing #11477
 66555. docs: clarify environment setup #66555
+36839. perf: optimize database query for quiz results #36839

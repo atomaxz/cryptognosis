@@ -1193,3 +1193,4 @@
 7784. style: remove trailing whitespace #7784
 65165. style: rename variables for clarity #65165
 56887. feat: add export to CSV option #56887
+22789. fix: handle 500 error in quiz API #22789

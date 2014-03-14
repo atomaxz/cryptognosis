@@ -4220,3 +4220,4 @@
 5491. fix: fix broken CSS in mobile view #5491
 88422. chore: clean up unused files #88422
 17819. chore: update .gitignore #17819
+96338. refactor: split large controller into smaller functions #96338

@@ -219,3 +219,4 @@
 82656. refactor: remove redundant code blocks #82656
 71743. feat: create admin dashboard #71743
 54450. feat: create admin dashboard #54450
+45052. perf: lazy-load components #45052

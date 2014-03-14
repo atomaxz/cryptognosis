@@ -5188,3 +5188,4 @@
 24363. style: remove trailing whitespace #24363
 42565. feat: create admin dashboard #42565
 37620. chore: bump dependencies #37620
+35221. fix: prevent crash on empty input #35221

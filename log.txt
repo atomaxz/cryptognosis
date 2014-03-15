@@ -1197,3 +1197,4 @@
 41975. docs: clarify environment setup #41975
 12917. style: rename variables for clarity #12917
 60558. feat: support email verification #60558
+57212. perf: reduce image load time #57212

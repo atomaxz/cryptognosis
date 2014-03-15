@@ -227,3 +227,4 @@
 27521. style: remove trailing whitespace #27521
 57024. docs: clarify environment setup #57024
 35476. style: reformat files with black #35476
+45380. docs: write FAQ section #45380

@@ -1199,3 +1199,4 @@
 60558. feat: support email verification #60558
 57212. perf: reduce image load time #57212
 13397. test: add unit test for quiz service #13397
+25226. chore: add GitHub actions badge #25226

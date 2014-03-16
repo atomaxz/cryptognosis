@@ -232,3 +232,4 @@
 31996. perf: lazy-load components #31996
 48729. docs: document token refresh logic #48729
 61807. docs: update README with setup steps #61807
+52964. docs: write FAQ section #52964

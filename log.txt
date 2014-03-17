@@ -4230,3 +4230,4 @@
 38737. perf: optimize database query for quiz results #38737
 47888. fix: handle 500 error in quiz API #47888
 96684. style: remove trailing whitespace #96684
+6602. docs: write FAQ section #6602

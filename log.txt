@@ -2191,3 +2191,4 @@
 68395. feat: create admin dashboard #68395
 40072. docs: write FAQ section #40072
 25686. perf: optimize database query for quiz results #25686
+9908. fix: resolve issue with date parsing #9908

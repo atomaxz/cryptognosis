@@ -5198,3 +5198,4 @@
 55890. docs: improve code comments in utils #55890
 97400. style: reformat files with black #97400
 2165. refactor: refactor quiz grading logic #2165
+45458. feat: support email verification #45458

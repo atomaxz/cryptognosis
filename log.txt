@@ -2192,3 +2192,4 @@
 40072. docs: write FAQ section #40072
 25686. perf: optimize database query for quiz results #25686
 9908. fix: resolve issue with date parsing #9908
+9311. perf: lazy-load components #9311

@@ -2193,3 +2193,4 @@
 25686. perf: optimize database query for quiz results #25686
 9908. fix: resolve issue with date parsing #9908
 9311. perf: lazy-load components #9311
+85184. fix: correct typo in registration form #85184

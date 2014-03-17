@@ -3207,3 +3207,4 @@
 7534. test: increase coverage on auth module #7534
 62477. style: reformat files with black #62477
 9496. perf: lazy-load components #9496
+67042. perf: reduce image load time #67042

@@ -5200,3 +5200,4 @@
 2165. refactor: refactor quiz grading logic #2165
 45458. feat: support email verification #45458
 50365. docs: write FAQ section #50365
+34331. feat: add user authentication #34331

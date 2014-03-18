@@ -243,3 +243,4 @@
 76078. refactor: split large controller into smaller functions #76078
 6385. test: add unit test for quiz service #6385
 70829. test: test user registration edge cases #70829
+50318. test: mock database connection in test suite #50318

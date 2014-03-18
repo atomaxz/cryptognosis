@@ -4236,3 +4236,4 @@
 94518. refactor: remove redundant code blocks #94518
 99329. fix: correct typo in registration form #99329
 97383. test: increase coverage on auth module #97383
+28242. test: add unit test for quiz service #28242

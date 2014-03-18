@@ -2194,3 +2194,4 @@
 9908. fix: resolve issue with date parsing #9908
 9311. perf: lazy-load components #9311
 85184. fix: correct typo in registration form #85184
+5239. feat: add user authentication #5239

@@ -2196,3 +2196,4 @@
 85184. fix: correct typo in registration form #85184
 5239. feat: add user authentication #5239
 56497. perf: lazy-load components #56497
+75751. fix: prevent crash on empty input #75751

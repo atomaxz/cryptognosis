@@ -4235,3 +4235,4 @@
 64733. style: reformat files with black #64733
 94518. refactor: remove redundant code blocks #94518
 99329. fix: correct typo in registration form #99329
+97383. test: increase coverage on auth module #97383

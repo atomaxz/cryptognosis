@@ -3213,3 +3213,4 @@
 44699. refactor: remove redundant code blocks #44699
 83958. feat: create admin dashboard #83958
 88043. docs: add API usage examples #88043
+38480. perf: lazy-load components #38480

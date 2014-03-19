@@ -4237,3 +4237,4 @@
 99329. fix: correct typo in registration form #99329
 97383. test: increase coverage on auth module #97383
 28242. test: add unit test for quiz service #28242
+35476. style: reformat files with black #35476

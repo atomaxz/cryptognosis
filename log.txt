@@ -6217,3 +6217,4 @@
 91051. chore: rename env.example #91051
 72338. chore: update .gitignore #72338
 0191. feat: enable dark mode toggle #191
+4307. fix: handle 500 error in quiz API #4307

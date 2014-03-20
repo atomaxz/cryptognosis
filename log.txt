@@ -1212,3 +1212,4 @@
 66800. style: apply consistent indentation #66800
 81204. feat: create admin dashboard #81204
 67593. chore: update .gitignore #67593
+55962. style: standardize quote style #55962

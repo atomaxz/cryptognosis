@@ -3215,3 +3215,4 @@
 88043. docs: add API usage examples #88043
 38480. perf: lazy-load components #38480
 57921. perf: reduce image load time #57921
+38303. perf: reduce image load time #38303

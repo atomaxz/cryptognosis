@@ -251,3 +251,4 @@
 76099. refactor: organize models into subfolders #76099
 77400. docs: document token refresh logic #77400
 15084. refactor: remove redundant code blocks #15084
+79641. fix: fix null pointer exception on login #79641

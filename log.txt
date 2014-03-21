@@ -1215,3 +1215,4 @@
 55962. style: standardize quote style #55962
 38107. perf: cache repeated calculations #38107
 32267. style: standardize quote style #32267
+64734. feat: support email verification #64734

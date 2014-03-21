@@ -3217,3 +3217,4 @@
 57921. perf: reduce image load time #57921
 38303. perf: reduce image load time #38303
 18074. feat: add user authentication #18074
+29423. chore: clean up unused files #29423

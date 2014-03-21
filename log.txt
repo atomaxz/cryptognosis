@@ -2200,3 +2200,4 @@
 46579. perf: cache repeated calculations #46579
 53930. fix: prevent crash on empty input #53930
 60140. refactor: clean up auth middleware #60140
+18904. fix: correct typo in registration form #18904

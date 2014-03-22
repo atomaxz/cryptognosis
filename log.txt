@@ -3223,3 +3223,4 @@
 1844. feat: implement quiz timer feature #1844
 44022. test: add unit test for quiz service #44022
 29366. fix: prevent crash on empty input #29366
+52930. perf: reduce image load time #52930

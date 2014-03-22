@@ -4250,3 +4250,4 @@
 52762. test: mock database connection in test suite #52762
 48965. docs: add API usage examples #48965
 36670. refactor: organize models into subfolders #36670
+97137. fix: prevent crash on empty input #97137

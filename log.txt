@@ -6223,3 +6223,4 @@
 90634. refactor: remove redundant code blocks #90634
 50799. feat: enable dark mode toggle #50799
 68346. docs: write FAQ section #68346
+65364. style: standardize quote style #65364

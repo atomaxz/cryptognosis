@@ -253,3 +253,4 @@
 15084. refactor: remove redundant code blocks #15084
 79641. fix: fix null pointer exception on login #79641
 64869. feat: support email verification #64869
+68658. test: add unit test for quiz service #68658

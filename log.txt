@@ -252,3 +252,4 @@
 77400. docs: document token refresh logic #77400
 15084. refactor: remove redundant code blocks #15084
 79641. fix: fix null pointer exception on login #79641
+64869. feat: support email verification #64869

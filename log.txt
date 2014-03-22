@@ -5212,3 +5212,4 @@
 18229. refactor: refactor quiz grading logic #18229
 95249. test: increase coverage on auth module #95249
 26668. refactor: refactor quiz grading logic #26668
+27714. perf: optimize database query for quiz results #27714

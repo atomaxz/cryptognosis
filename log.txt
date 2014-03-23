@@ -5217,3 +5217,4 @@
 63654. fix: correct typo in registration form #63654
 58769. docs: add API usage examples #58769
 31043. perf: optimize database query for quiz results #31043
+3750. chore: add GitHub actions badge #3750

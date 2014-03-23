@@ -258,3 +258,4 @@
 6958. perf: reduce image load time #6958
 7307. chore: update .gitignore #7307
 83191. test: increase coverage on auth module #83191
+95636. feat: enable dark mode toggle #95636

@@ -6228,3 +6228,4 @@
 90982. feat: support email verification #90982
 87189. perf: cache repeated calculations #87189
 40358. test: test user registration edge cases #40358
+76672. perf: optimize database query for quiz results #76672

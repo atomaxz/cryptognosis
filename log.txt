@@ -3225,3 +3225,4 @@
 29366. fix: prevent crash on empty input #29366
 52930. perf: reduce image load time #52930
 24981. style: reformat files with black #24981
+36878. style: reformat files with black #36878

@@ -4252,3 +4252,4 @@
 36670. refactor: organize models into subfolders #36670
 97137. fix: prevent crash on empty input #97137
 1984. test: mock database connection in test suite #1984
+66937. feat: support email verification #66937

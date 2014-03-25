@@ -1223,3 +1223,4 @@
 58776. fix: fix broken CSS in mobile view #58776
 37057. refactor: remove redundant code blocks #37057
 61494. perf: reduce image load time #61494
+86752. style: apply consistent indentation #86752

@@ -6234,3 +6234,4 @@
 57925. style: standardize quote style #57925
 99750. test: test user registration edge cases #99750
 14980. docs: clarify environment setup #14980
+2593. style: remove trailing whitespace #2593

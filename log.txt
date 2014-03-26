@@ -4262,3 +4262,4 @@
 88693. docs: document token refresh logic #88693
 65802. docs: improve code comments in utils #65802
 65638. style: remove trailing whitespace #65638
+96900. test: mock database connection in test suite #96900

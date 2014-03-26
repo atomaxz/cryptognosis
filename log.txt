@@ -263,3 +263,4 @@
 71456. feat: implement quiz timer feature #71456
 38915. chore: bump dependencies #38915
 17156. fix: fix null pointer exception on login #17156
+6978. refactor: remove redundant code blocks #6978

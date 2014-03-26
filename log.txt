@@ -1230,3 +1230,4 @@
 62263. style: reformat files with black #62263
 48825. fix: fix broken CSS in mobile view #48825
 59568. refactor: clean up auth middleware #59568
+4498. refactor: split large controller into smaller functions #4498

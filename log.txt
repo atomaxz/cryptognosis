@@ -5225,3 +5225,4 @@
 34328. fix: resolve issue with date parsing #34328
 27555. style: apply consistent indentation #27555
 5623. fix: fix null pointer exception on login #5623
+44944. feat: enable dark mode toggle #44944

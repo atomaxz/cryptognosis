@@ -6236,3 +6236,4 @@
 14980. docs: clarify environment setup #14980
 2593. style: remove trailing whitespace #2593
 88851. chore: rename env.example #88851
+91530. test: increase coverage on auth module #91530

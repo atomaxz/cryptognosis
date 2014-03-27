@@ -1232,3 +1232,4 @@
 59568. refactor: clean up auth middleware #59568
 4498. refactor: split large controller into smaller functions #4498
 81080. docs: clarify environment setup #81080
+84025. test: increase coverage on auth module #84025

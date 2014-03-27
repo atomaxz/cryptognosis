@@ -5227,3 +5227,4 @@
 5623. fix: fix null pointer exception on login #5623
 44944. feat: enable dark mode toggle #44944
 23464. fix: correct typo in registration form #23464
+12845. refactor: split large controller into smaller functions #12845

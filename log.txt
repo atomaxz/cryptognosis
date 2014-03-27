@@ -267,3 +267,4 @@
 65683. test: add integration test for /submit endpoint #65683
 27290. fix: prevent crash on empty input #27290
 8532. style: reformat files with black #8532
+95314. perf: optimize database query for quiz results #95314

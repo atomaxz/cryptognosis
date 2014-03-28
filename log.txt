@@ -2219,3 +2219,4 @@
 96042. test: test user registration edge cases #96042
 77577. chore: update .gitignore #77577
 74485. feat: enable dark mode toggle #74485
+92123. chore: bump dependencies #92123

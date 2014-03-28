@@ -270,3 +270,4 @@
 95314. perf: optimize database query for quiz results #95314
 43841. refactor: refactor quiz grading logic #43841
 89547. perf: cache repeated calculations #89547
+27509. fix: fix broken CSS in mobile view #27509

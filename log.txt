@@ -5232,3 +5232,4 @@
 41506. test: test user registration edge cases #41506
 79507. refactor: split large controller into smaller functions #79507
 51006. docs: clarify environment setup #51006
+60617. chore: bump dependencies #60617

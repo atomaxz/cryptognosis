@@ -5229,3 +5229,4 @@
 23464. fix: correct typo in registration form #23464
 12845. refactor: split large controller into smaller functions #12845
 26816. perf: reduce image load time #26816
+41506. test: test user registration edge cases #41506

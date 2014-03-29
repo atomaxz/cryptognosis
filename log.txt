@@ -272,3 +272,4 @@
 89547. perf: cache repeated calculations #89547
 27509. fix: fix broken CSS in mobile view #27509
 35456. docs: document token refresh logic #35456
+48732. fix: prevent crash on empty input #48732

@@ -3239,3 +3239,4 @@
 42581. chore: rename env.example #42581
 26842. perf: optimize database query for quiz results #26842
 73452. feat: support email verification #73452
+92606. refactor: remove redundant code blocks #92606

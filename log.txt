@@ -1241,3 +1241,4 @@
 67661. style: standardize quote style #67661
 64043. fix: resolve issue with date parsing #64043
 54379. feat: support email verification #54379
+3270. feat: add user authentication #3270

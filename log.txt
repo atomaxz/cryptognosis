@@ -5236,3 +5236,4 @@
 65578. feat: add export to CSV option #65578
 63593. test: add integration test for /submit endpoint #63593
 6447. feat: create admin dashboard #6447
+57673. fix: fix null pointer exception on login #57673

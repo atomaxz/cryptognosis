@@ -4265,3 +4265,4 @@
 96900. test: mock database connection in test suite #96900
 78534. test: increase coverage on auth module #78534
 6370. chore: rename env.example #6370
+86722. test: add integration test for /submit endpoint #86722

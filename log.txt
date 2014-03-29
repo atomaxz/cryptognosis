@@ -1242,3 +1242,4 @@
 64043. fix: resolve issue with date parsing #64043
 54379. feat: support email verification #54379
 3270. feat: add user authentication #3270
+59392. perf: lazy-load components #59392

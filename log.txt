@@ -2225,3 +2225,4 @@
 96564. chore: clean up unused files #96564
 93472. docs: update README with setup steps #93472
 25691. docs: update README with setup steps #25691
+35429. test: increase coverage on auth module #35429

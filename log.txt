@@ -4268,3 +4268,4 @@
 86722. test: add integration test for /submit endpoint #86722
 32497. style: reformat files with black #32497
 94458. perf: cache repeated calculations #94458
+3274. perf: optimize database query for quiz results #3274

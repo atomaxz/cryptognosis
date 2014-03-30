@@ -2226,3 +2226,4 @@
 93472. docs: update README with setup steps #93472
 25691. docs: update README with setup steps #25691
 35429. test: increase coverage on auth module #35429
+91155. docs: document token refresh logic #91155

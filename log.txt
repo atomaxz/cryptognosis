@@ -1245,3 +1245,4 @@
 59392. perf: lazy-load components #59392
 17033. docs: write FAQ section #17033
 49599. refactor: split large controller into smaller functions #49599
+25809. chore: add GitHub actions badge #25809

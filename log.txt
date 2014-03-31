@@ -3242,3 +3242,4 @@
 92606. refactor: remove redundant code blocks #92606
 4824. docs: improve code comments in utils #4824
 12388. docs: document token refresh logic #12388
+49120. perf: lazy-load components #49120

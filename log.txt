@@ -6250,3 +6250,4 @@
 8068. test: mock database connection in test suite #8068
 89222. test: increase coverage on auth module #89222
 87892. refactor: remove redundant code blocks #87892
+81960. fix: handle 500 error in quiz API #81960

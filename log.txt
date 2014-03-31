@@ -4272,3 +4272,4 @@
 64237. fix: correct typo in registration form #64237
 10105. style: remove trailing whitespace #10105
 89215. feat: create admin dashboard #89215
+81326. fix: fix broken CSS in mobile view #81326

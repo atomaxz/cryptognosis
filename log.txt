@@ -2229,3 +2229,4 @@
 91155. docs: document token refresh logic #91155
 17758. style: rename variables for clarity #17758
 14456. chore: clean up unused files #14456
+68836. perf: reduce image load time #68836

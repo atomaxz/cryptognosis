@@ -6253,3 +6253,4 @@
 81960. fix: handle 500 error in quiz API #81960
 65194. perf: optimize database query for quiz results #65194
 83658. fix: prevent crash on empty input #83658
+24159. perf: lazy-load components #24159

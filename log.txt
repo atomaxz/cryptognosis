@@ -4274,3 +4274,4 @@
 89215. feat: create admin dashboard #89215
 81326. fix: fix broken CSS in mobile view #81326
 24388. test: increase coverage on auth module #24388
+22252. test: increase coverage on auth module #22252

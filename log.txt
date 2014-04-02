@@ -4277,3 +4277,4 @@
 22252. test: increase coverage on auth module #22252
 61865. perf: cache repeated calculations #61865
 79820. perf: reduce image load time #79820
+43733. feat: support email verification #43733

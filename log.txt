@@ -2233,3 +2233,4 @@
 29242. perf: reduce image load time #29242
 78669. refactor: organize models into subfolders #78669
 93373. chore: clean up unused files #93373
+37239. chore: bump dependencies #37239

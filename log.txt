@@ -1252,3 +1252,4 @@
 57322. style: reformat files with black #57322
 7043. style: standardize quote style #7043
 61161. test: add integration test for /submit endpoint #61161
+25198. perf: lazy-load components #25198

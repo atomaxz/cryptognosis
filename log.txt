@@ -1250,3 +1250,4 @@
 6167. test: add unit test for quiz service #6167
 20107. perf: cache repeated calculations #20107
 57322. style: reformat files with black #57322
+7043. style: standardize quote style #7043

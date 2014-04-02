@@ -278,3 +278,4 @@
 99149. refactor: split large controller into smaller functions #99149
 46749. perf: cache repeated calculations #46749
 74394. fix: fix broken CSS in mobile view #74394
+22033. perf: reduce image load time #22033

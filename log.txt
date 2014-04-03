@@ -2238,3 +2238,4 @@
 45654. fix: resolve issue with date parsing #45654
 67218. refactor: organize models into subfolders #67218
 43433. perf: cache repeated calculations #43433
+93261. fix: prevent crash on empty input #93261

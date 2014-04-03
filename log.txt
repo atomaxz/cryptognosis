@@ -5246,3 +5246,4 @@
 22407. feat: support email verification #22407
 82566. refactor: remove redundant code blocks #82566
 84021. docs: update README with setup steps #84021
+83246. style: apply consistent indentation #83246

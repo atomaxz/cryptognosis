@@ -5249,3 +5249,4 @@
 83246. style: apply consistent indentation #83246
 82561. style: standardize quote style #82561
 8835. docs: clarify environment setup #8835
+4958. fix: handle 500 error in quiz API #4958

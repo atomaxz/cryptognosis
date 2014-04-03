@@ -5245,3 +5245,4 @@
 15912. refactor: remove redundant code blocks #15912
 22407. feat: support email verification #22407
 82566. refactor: remove redundant code blocks #82566
+84021. docs: update README with setup steps #84021

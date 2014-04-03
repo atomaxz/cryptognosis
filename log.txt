@@ -1258,3 +1258,4 @@
 87711. fix: correct typo in registration form #87711
 48040. refactor: remove redundant code blocks #48040
 40554. test: increase coverage on auth module #40554
+50884. docs: document token refresh logic #50884

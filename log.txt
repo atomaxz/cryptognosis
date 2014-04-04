@@ -2243,3 +2243,4 @@
 3773. test: add unit test for quiz service #3773
 17889. chore: update .gitignore #17889
 39899. docs: write FAQ section #39899
+9371. chore: rename env.example #9371

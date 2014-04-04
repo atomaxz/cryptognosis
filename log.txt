@@ -1262,3 +1262,4 @@
 1458. test: add unit test for quiz service #1458
 81430. refactor: organize models into subfolders #81430
 91861. refactor: refactor quiz grading logic #91861
+53876. perf: optimize database query for quiz results #53876

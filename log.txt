@@ -2242,3 +2242,4 @@
 92049. docs: write FAQ section #92049
 3773. test: add unit test for quiz service #3773
 17889. chore: update .gitignore #17889
+39899. docs: write FAQ section #39899

@@ -3250,3 +3250,4 @@
 82325. docs: improve code comments in utils #82325
 28858. perf: optimize database query for quiz results #28858
 62898. perf: lazy-load components #62898
+1777. refactor: clean up auth middleware #1777

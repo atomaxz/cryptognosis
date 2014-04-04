@@ -3249,3 +3249,4 @@
 50607. feat: add export to CSV option #50607
 82325. docs: improve code comments in utils #82325
 28858. perf: optimize database query for quiz results #28858
+62898. perf: lazy-load components #62898

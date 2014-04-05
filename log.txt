@@ -5250,3 +5250,4 @@
 82561. style: standardize quote style #82561
 8835. docs: clarify environment setup #8835
 4958. fix: handle 500 error in quiz API #4958
+40818. docs: document token refresh logic #40818

@@ -6267,3 +6267,4 @@
 90603. refactor: organize models into subfolders #90603
 89818. test: test user registration edge cases #89818
 34662. docs: clarify environment setup #34662
+54823. style: remove trailing whitespace #54823

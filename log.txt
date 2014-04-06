@@ -1267,3 +1267,4 @@
 95808. docs: clarify environment setup #95808
 8847. docs: write FAQ section #8847
 67690. refactor: organize models into subfolders #67690
+91350. test: test user registration edge cases #91350

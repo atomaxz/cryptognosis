@@ -2249,3 +2249,4 @@
 82615. test: add integration test for /submit endpoint #82615
 6140. style: apply consistent indentation #6140
 43055. test: test user registration edge cases #43055
+90599. chore: add GitHub actions badge #90599

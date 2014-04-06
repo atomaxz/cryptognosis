@@ -3253,3 +3253,4 @@
 1777. refactor: clean up auth middleware #1777
 71262. perf: reduce image load time #71262
 48463. perf: cache repeated calculations #48463
+62224. perf: lazy-load components #62224

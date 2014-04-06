@@ -291,3 +291,4 @@
 27154. docs: improve code comments in utils #27154
 28321. refactor: organize models into subfolders #28321
 32631. perf: reduce image load time #32631
+84313. perf: optimize database query for quiz results #84313

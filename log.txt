@@ -6275,3 +6275,4 @@
 79881. chore: rename env.example #79881
 29926. feat: add export to CSV option #29926
 81425. test: increase coverage on auth module #81425
+90172. feat: enable dark mode toggle #90172

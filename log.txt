@@ -5256,3 +5256,4 @@
 28828. fix: fix broken CSS in mobile view #28828
 11757. feat: add export to CSV option #11757
 3820. fix: fix broken CSS in mobile view #3820
+67717. fix: fix null pointer exception on login #67717

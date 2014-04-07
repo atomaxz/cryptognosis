@@ -2252,3 +2252,4 @@
 90599. chore: add GitHub actions badge #90599
 49402. test: increase coverage on auth module #49402
 20589. perf: optimize database query for quiz results #20589
+63969. refactor: refactor quiz grading logic #63969

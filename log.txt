@@ -4297,3 +4297,4 @@
 18674. fix: fix broken CSS in mobile view #18674
 84964. perf: optimize database query for quiz results #84964
 87834. test: mock database connection in test suite #87834
+89945. perf: reduce image load time #89945

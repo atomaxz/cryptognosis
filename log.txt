@@ -2255,3 +2255,4 @@
 63969. refactor: refactor quiz grading logic #63969
 66423. style: rename variables for clarity #66423
 94585. feat: create admin dashboard #94585
+0712. perf: lazy-load components #712

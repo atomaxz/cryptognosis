@@ -4295,3 +4295,4 @@
 40686. docs: add API usage examples #40686
 97473. fix: fix null pointer exception on login #97473
 18674. fix: fix broken CSS in mobile view #18674
+84964. perf: optimize database query for quiz results #84964

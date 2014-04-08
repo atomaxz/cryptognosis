@@ -4293,3 +4293,4 @@
 58727. refactor: split large controller into smaller functions #58727
 77527. docs: document token refresh logic #77527
 40686. docs: add API usage examples #40686
+97473. fix: fix null pointer exception on login #97473

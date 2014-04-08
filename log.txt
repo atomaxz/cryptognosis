@@ -1271,3 +1271,4 @@
 62827. style: remove trailing whitespace #62827
 22310. feat: support email verification #22310
 52369. fix: fix broken CSS in mobile view #52369
+84571. perf: optimize database query for quiz results #84571

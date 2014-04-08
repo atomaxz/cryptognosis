@@ -6283,3 +6283,4 @@
 23519. feat: enable dark mode toggle #23519
 20245. refactor: clean up auth middleware #20245
 69270. fix: fix broken CSS in mobile view #69270
+37371. refactor: clean up auth middleware #37371

@@ -5258,3 +5258,4 @@
 3820. fix: fix broken CSS in mobile view #3820
 67717. fix: fix null pointer exception on login #67717
 36482. feat: support email verification #36482
+92356. docs: improve code comments in utils #92356

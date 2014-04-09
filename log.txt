@@ -1276,3 +1276,4 @@
 89876. style: remove trailing whitespace #89876
 42482. test: test user registration edge cases #42482
 78716. test: add unit test for quiz service #78716
+27837. fix: prevent crash on empty input #27837

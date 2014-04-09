@@ -301,3 +301,4 @@
 28431. fix: handle 500 error in quiz API #28431
 68900. chore: rename env.example #68900
 58194. chore: add GitHub actions badge #58194
+95522. test: add integration test for /submit endpoint #95522

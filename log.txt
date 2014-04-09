@@ -4298,3 +4298,4 @@
 84964. perf: optimize database query for quiz results #84964
 87834. test: mock database connection in test suite #87834
 89945. perf: reduce image load time #89945
+9455. test: add integration test for /submit endpoint #9455

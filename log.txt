@@ -302,3 +302,4 @@
 68900. chore: rename env.example #68900
 58194. chore: add GitHub actions badge #58194
 95522. test: add integration test for /submit endpoint #95522
+5099. style: remove trailing whitespace #5099

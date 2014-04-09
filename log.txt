@@ -2256,3 +2256,4 @@
 66423. style: rename variables for clarity #66423
 94585. feat: create admin dashboard #94585
 0712. perf: lazy-load components #712
+14780. chore: add GitHub actions badge #14780

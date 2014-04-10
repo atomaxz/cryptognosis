@@ -3263,3 +3263,4 @@
 32396. refactor: remove redundant code blocks #32396
 72016. feat: support email verification #72016
 59131. feat: support email verification #59131
+18590. test: mock database connection in test suite #18590

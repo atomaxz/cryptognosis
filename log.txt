@@ -2259,3 +2259,4 @@
 14780. chore: add GitHub actions badge #14780
 47581. style: apply consistent indentation #47581
 3595. refactor: remove redundant code blocks #3595
+79612. fix: prevent crash on empty input #79612

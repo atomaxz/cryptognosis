@@ -4303,3 +4303,4 @@
 84526. perf: optimize database query for quiz results #84526
 85664. docs: update README with setup steps #85664
 91873. fix: fix broken CSS in mobile view #91873
+40629. style: reformat files with black #40629

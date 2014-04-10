@@ -3261,3 +3261,4 @@
 44802. fix: fix null pointer exception on login #44802
 29607. docs: write FAQ section #29607
 32396. refactor: remove redundant code blocks #32396
+72016. feat: support email verification #72016

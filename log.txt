@@ -4305,3 +4305,4 @@
 91873. fix: fix broken CSS in mobile view #91873
 40629. style: reformat files with black #40629
 72993. test: add unit test for quiz service #72993
+37604. perf: reduce image load time #37604

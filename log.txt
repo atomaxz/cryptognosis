@@ -1279,3 +1279,4 @@
 27837. fix: prevent crash on empty input #27837
 38034. fix: prevent crash on empty input #38034
 75308. feat: add export to CSV option #75308
+30649. docs: document token refresh logic #30649

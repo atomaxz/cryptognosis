@@ -307,3 +307,4 @@
 43562. fix: correct typo in registration form #43562
 1834. fix: handle 500 error in quiz API #1834
 88783. docs: document token refresh logic #88783
+39182. fix: fix broken CSS in mobile view #39182

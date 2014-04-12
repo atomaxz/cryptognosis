@@ -2265,3 +2265,4 @@
 55188. style: rename variables for clarity #55188
 43789. fix: correct typo in registration form #43789
 39080. refactor: split large controller into smaller functions #39080
+94057. test: test user registration edge cases #94057

@@ -5269,3 +5269,4 @@
 28969. perf: reduce image load time #28969
 0837. refactor: clean up auth middleware #837
 84793. docs: improve code comments in utils #84793
+88155. chore: bump dependencies #88155

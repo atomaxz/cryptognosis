@@ -5266,3 +5266,4 @@
 63791. refactor: split large controller into smaller functions #63791
 45381. chore: add GitHub actions badge #45381
 77799. fix: resolve issue with date parsing #77799
+28969. perf: reduce image load time #28969

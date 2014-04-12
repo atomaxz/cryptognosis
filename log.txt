@@ -5267,3 +5267,4 @@
 45381. chore: add GitHub actions badge #45381
 77799. fix: resolve issue with date parsing #77799
 28969. perf: reduce image load time #28969
+0837. refactor: clean up auth middleware #837

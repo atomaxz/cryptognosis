@@ -2263,3 +2263,4 @@
 56627. style: rename variables for clarity #56627
 48755. chore: bump dependencies #48755
 55188. style: rename variables for clarity #55188
+43789. fix: correct typo in registration form #43789

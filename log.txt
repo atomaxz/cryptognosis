@@ -6293,3 +6293,4 @@
 97687. feat: add export to CSV option #97687
 31606. chore: clean up unused files #31606
 55385. refactor: remove redundant code blocks #55385
+12688. perf: cache repeated calculations #12688

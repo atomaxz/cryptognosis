@@ -1285,3 +1285,4 @@
 13945. chore: rename env.example #13945
 17479. style: standardize quote style #17479
 37616. feat: create admin dashboard #37616
+7591. perf: lazy-load components #7591

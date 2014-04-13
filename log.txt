@@ -310,3 +310,4 @@
 39182. fix: fix broken CSS in mobile view #39182
 47105. fix: handle 500 error in quiz API #47105
 60209. refactor: clean up auth middleware #60209
+8131. refactor: refactor quiz grading logic #8131

@@ -6301,3 +6301,4 @@
 52298. docs: write FAQ section #52298
 71493. refactor: remove redundant code blocks #71493
 87378. test: increase coverage on auth module #87378
+7755. fix: prevent crash on empty input #7755

@@ -1292,3 +1292,4 @@
 94050. fix: fix null pointer exception on login #94050
 68637. perf: optimize database query for quiz results #68637
 21532. refactor: remove redundant code blocks #21532
+14520. perf: optimize database query for quiz results #14520

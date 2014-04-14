@@ -3271,3 +3271,4 @@
 44058. feat: create admin dashboard #44058
 78557. style: rename variables for clarity #78557
 7748. chore: update .gitignore #7748
+10954. feat: enable dark mode toggle #10954

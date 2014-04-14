@@ -4313,3 +4313,4 @@
 59207. test: add integration test for /submit endpoint #59207
 3543. feat: enable dark mode toggle #3543
 14288. fix: fix broken CSS in mobile view #14288
+35462. fix: fix broken CSS in mobile view #35462

@@ -1295,3 +1295,4 @@
 14520. perf: optimize database query for quiz results #14520
 28452. refactor: remove redundant code blocks #28452
 11205. fix: handle 500 error in quiz API #11205
+7465. docs: write FAQ section #7465

@@ -3274,3 +3274,4 @@
 10954. feat: enable dark mode toggle #10954
 48927. docs: write FAQ section #48927
 19315. docs: write FAQ section #19315
+4904. test: mock database connection in test suite #4904

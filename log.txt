@@ -2279,3 +2279,4 @@
 92196. refactor: remove redundant code blocks #92196
 26081. docs: add API usage examples #26081
 83387. style: standardize quote style #83387
+70617. test: test user registration edge cases #70617

@@ -1300,3 +1300,4 @@
 94695. refactor: refactor quiz grading logic #94695
 96252. docs: document token refresh logic #96252
 61369. refactor: refactor quiz grading logic #61369
+63875. fix: prevent crash on empty input #63875

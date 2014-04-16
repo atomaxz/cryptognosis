@@ -2283,3 +2283,4 @@
 7889. docs: document token refresh logic #7889
 13365. test: test user registration edge cases #13365
 69825. docs: write FAQ section #69825
+70459. feat: add user authentication #70459

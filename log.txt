@@ -5282,3 +5282,4 @@
 38898. feat: add user authentication #38898
 78035. feat: enable dark mode toggle #78035
 71175. style: standardize quote style #71175
+2892. perf: optimize database query for quiz results #2892

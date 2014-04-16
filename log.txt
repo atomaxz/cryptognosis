@@ -4320,3 +4320,4 @@
 93230. style: rename variables for clarity #93230
 67864. refactor: remove redundant code blocks #67864
 92595. docs: add API usage examples #92595
+21015. fix: fix broken CSS in mobile view #21015

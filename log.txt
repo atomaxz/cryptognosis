@@ -319,3 +319,4 @@
 28450. feat: support email verification #28450
 12809. test: increase coverage on auth module #12809
 11067. chore: add GitHub actions badge #11067
+76928. fix: correct typo in registration form #76928

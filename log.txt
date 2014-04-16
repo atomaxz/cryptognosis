@@ -5280,3 +5280,4 @@
 34679. refactor: organize models into subfolders #34679
 26109. feat: add export to CSV option #26109
 38898. feat: add user authentication #38898
+78035. feat: enable dark mode toggle #78035

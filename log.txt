@@ -5281,3 +5281,4 @@
 26109. feat: add export to CSV option #26109
 38898. feat: add user authentication #38898
 78035. feat: enable dark mode toggle #78035
+71175. style: standardize quote style #71175

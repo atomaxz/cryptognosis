@@ -317,3 +317,4 @@
 85548. perf: optimize database query for quiz results #85548
 91141. refactor: split large controller into smaller functions #91141
 28450. feat: support email verification #28450
+12809. test: increase coverage on auth module #12809

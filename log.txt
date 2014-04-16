@@ -6311,3 +6311,4 @@
 13536. perf: reduce image load time #13536
 92995. fix: fix broken CSS in mobile view #92995
 42244. style: remove trailing whitespace #42244
+34941. style: remove trailing whitespace #34941

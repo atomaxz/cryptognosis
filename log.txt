@@ -322,3 +322,4 @@
 76928. fix: correct typo in registration form #76928
 31217. docs: improve code comments in utils #31217
 90996. docs: add API usage examples #90996
+55758. feat: support email verification #55758

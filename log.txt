@@ -4327,3 +4327,4 @@
 15017. refactor: refactor quiz grading logic #15017
 33337. test: add unit test for quiz service #33337
 58888. style: standardize quote style #58888
+1279. perf: reduce image load time #1279

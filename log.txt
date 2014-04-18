@@ -5286,3 +5286,4 @@
 96375. perf: reduce image load time #96375
 29618. style: rename variables for clarity #29618
 65408. chore: clean up unused files #65408
+59742. test: test user registration edge cases #59742

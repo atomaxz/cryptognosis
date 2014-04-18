@@ -2286,3 +2286,4 @@
 70459. feat: add user authentication #70459
 43091. chore: update .gitignore #43091
 25849. perf: reduce image load time #25849
+84391. refactor: split large controller into smaller functions #84391

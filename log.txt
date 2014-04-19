@@ -5288,3 +5288,4 @@
 65408. chore: clean up unused files #65408
 59742. test: test user registration edge cases #59742
 23239. fix: resolve issue with date parsing #23239
+12440. chore: add GitHub actions badge #12440

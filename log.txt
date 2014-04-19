@@ -328,3 +328,4 @@
 85056. style: standardize quote style #85056
 29360. feat: add user authentication #29360
 89228. test: test user registration edge cases #89228
+76584. fix: resolve issue with date parsing #76584

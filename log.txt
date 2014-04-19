@@ -1302,3 +1302,4 @@
 61369. refactor: refactor quiz grading logic #61369
 63875. fix: prevent crash on empty input #63875
 79387. feat: enable dark mode toggle #79387
+15289. test: increase coverage on auth module #15289

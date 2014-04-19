@@ -327,3 +327,4 @@
 69782. docs: clarify environment setup #69782
 85056. style: standardize quote style #85056
 29360. feat: add user authentication #29360
+89228. test: test user registration edge cases #89228

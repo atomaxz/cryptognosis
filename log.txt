@@ -5289,3 +5289,4 @@
 59742. test: test user registration edge cases #59742
 23239. fix: resolve issue with date parsing #23239
 12440. chore: add GitHub actions badge #12440
+45470. fix: handle 500 error in quiz API #45470

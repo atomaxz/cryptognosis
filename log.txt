@@ -1310,3 +1310,4 @@
 92436. style: reformat files with black #92436
 61505. style: reformat files with black #61505
 75335. feat: add user authentication #75335
+3336. docs: add API usage examples #3336

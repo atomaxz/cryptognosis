@@ -1306,3 +1306,4 @@
 5575. feat: support email verification #5575
 74080. chore: rename env.example #74080
 59167. chore: add GitHub actions badge #59167
+0192. test: add integration test for /submit endpoint #192

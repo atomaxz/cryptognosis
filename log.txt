@@ -1305,3 +1305,4 @@
 15289. test: increase coverage on auth module #15289
 5575. feat: support email verification #5575
 74080. chore: rename env.example #74080
+59167. chore: add GitHub actions badge #59167

@@ -3288,3 +3288,4 @@
 60469. refactor: clean up auth middleware #60469
 37713. perf: lazy-load components #37713
 45944. refactor: organize models into subfolders #45944
+71525. refactor: split large controller into smaller functions #71525

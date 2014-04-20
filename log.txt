@@ -2290,3 +2290,4 @@
 35863. refactor: refactor quiz grading logic #35863
 94471. docs: write FAQ section #94471
 96102. style: rename variables for clarity #96102
+49601. docs: write FAQ section #49601

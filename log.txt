@@ -3285,3 +3285,4 @@
 34161. style: rename variables for clarity #34161
 1804. docs: write FAQ section #1804
 15685. fix: prevent crash on empty input #15685
+60469. refactor: clean up auth middleware #60469

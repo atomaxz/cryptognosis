@@ -4333,3 +4333,4 @@
 73013. test: add integration test for /submit endpoint #73013
 88982. chore: add GitHub actions badge #88982
 98474. perf: optimize database query for quiz results #98474
+68374. feat: add user authentication #68374

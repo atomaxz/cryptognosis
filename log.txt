@@ -1309,3 +1309,4 @@
 0192. test: add integration test for /submit endpoint #192
 92436. style: reformat files with black #92436
 61505. style: reformat files with black #61505
+75335. feat: add user authentication #75335

@@ -6319,3 +6319,4 @@
 67902. chore: bump dependencies #67902
 97407. perf: optimize database query for quiz results #97407
 49738. perf: cache repeated calculations #49738
+56314. refactor: split large controller into smaller functions #56314

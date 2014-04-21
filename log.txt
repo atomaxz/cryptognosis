@@ -6322,3 +6322,4 @@
 56314. refactor: split large controller into smaller functions #56314
 85607. perf: cache repeated calculations #85607
 65624. perf: optimize database query for quiz results #65624
+38789. fix: fix broken CSS in mobile view #38789

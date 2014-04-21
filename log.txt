@@ -5291,3 +5291,4 @@
 12440. chore: add GitHub actions badge #12440
 45470. fix: handle 500 error in quiz API #45470
 17439. fix: handle 500 error in quiz API #17439
+30777. style: remove trailing whitespace #30777

@@ -5296,3 +5296,4 @@
 43641. chore: update .gitignore #43641
 89951. docs: clarify environment setup #89951
 78235. test: add unit test for quiz service #78235
+61764. feat: support email verification #61764

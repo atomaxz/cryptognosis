@@ -6324,3 +6324,4 @@
 65624. perf: optimize database query for quiz results #65624
 38789. fix: fix broken CSS in mobile view #38789
 72402. style: standardize quote style #72402
+87079. refactor: refactor quiz grading logic #87079

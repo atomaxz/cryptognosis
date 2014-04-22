@@ -1312,3 +1312,4 @@
 75335. feat: add user authentication #75335
 3336. docs: add API usage examples #3336
 65539. chore: rename env.example #65539
+69661. test: increase coverage on auth module #69661

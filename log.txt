@@ -3293,3 +3293,4 @@
 29561. test: add unit test for quiz service #29561
 76472. feat: implement quiz timer feature #76472
 79695. refactor: organize models into subfolders #79695
+27620. refactor: clean up auth middleware #27620

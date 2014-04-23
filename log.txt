@@ -5299,3 +5299,4 @@
 61764. feat: support email verification #61764
 88384. chore: bump dependencies #88384
 74240. style: rename variables for clarity #74240
+85928. perf: optimize database query for quiz results #85928

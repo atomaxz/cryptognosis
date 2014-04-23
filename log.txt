@@ -337,3 +337,4 @@
 75375. feat: add export to CSV option #75375
 27627. chore: clean up unused files #27627
 53261. fix: handle 500 error in quiz API #53261
+20737. fix: fix null pointer exception on login #20737

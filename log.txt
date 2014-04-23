@@ -335,3 +335,4 @@
 27543. chore: update .gitignore #27543
 32108. perf: cache repeated calculations #32108
 75375. feat: add export to CSV option #75375
+27627. chore: clean up unused files #27627

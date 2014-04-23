@@ -4343,3 +4343,4 @@
 19253. test: mock database connection in test suite #19253
 9488. docs: document token refresh logic #9488
 60480. feat: add export to CSV option #60480
+89054. feat: add user authentication #89054

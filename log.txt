@@ -2296,3 +2296,4 @@
 58362. refactor: clean up auth middleware #58362
 74602. docs: clarify environment setup #74602
 2781. chore: clean up unused files #2781
+80697. test: test user registration edge cases #80697

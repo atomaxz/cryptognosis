@@ -3301,3 +3301,4 @@
 61536. perf: optimize database query for quiz results #61536
 26999. style: reformat files with black #26999
 50822. test: mock database connection in test suite #50822
+60245. feat: enable dark mode toggle #60245

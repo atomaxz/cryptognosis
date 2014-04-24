@@ -4348,3 +4348,4 @@
 91952. docs: improve code comments in utils #91952
 8771. refactor: refactor quiz grading logic #8771
 36090. fix: resolve issue with date parsing #36090
+21136. perf: lazy-load components #21136

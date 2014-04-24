@@ -5303,3 +5303,4 @@
 91841. fix: correct typo in registration form #91841
 65060. refactor: remove redundant code blocks #65060
 87881. feat: create admin dashboard #87881
+65949. style: reformat files with black #65949

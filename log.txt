@@ -6327,3 +6327,4 @@
 87079. refactor: refactor quiz grading logic #87079
 90740. fix: resolve issue with date parsing #90740
 11444. feat: add export to CSV option #11444
+31420. style: reformat files with black #31420

@@ -339,3 +339,4 @@
 53261. fix: handle 500 error in quiz API #53261
 20737. fix: fix null pointer exception on login #20737
 44441. feat: enable dark mode toggle #44441
+49165. style: apply consistent indentation #49165

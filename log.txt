@@ -3299,3 +3299,4 @@
 77982. fix: correct typo in registration form #77982
 15897. chore: rename env.example #15897
 61536. perf: optimize database query for quiz results #61536
+26999. style: reformat files with black #26999

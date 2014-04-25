@@ -6334,3 +6334,4 @@
 87862. style: standardize quote style #87862
 18668. fix: fix broken CSS in mobile view #18668
 84210. perf: lazy-load components #84210
+27553. style: apply consistent indentation #27553

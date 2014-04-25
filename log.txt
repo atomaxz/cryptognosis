@@ -3309,3 +3309,4 @@
 90523. docs: add API usage examples #90523
 6043. style: remove trailing whitespace #6043
 48707. style: rename variables for clarity #48707
+97063. perf: reduce image load time #97063

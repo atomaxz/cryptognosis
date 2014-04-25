@@ -5306,3 +5306,4 @@
 65949. style: reformat files with black #65949
 76001. fix: fix broken CSS in mobile view #76001
 36087. refactor: remove redundant code blocks #36087
+76692. chore: rename env.example #76692

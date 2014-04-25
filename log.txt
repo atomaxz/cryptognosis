@@ -6333,3 +6333,4 @@
 62146. refactor: organize models into subfolders #62146
 87862. style: standardize quote style #87862
 18668. fix: fix broken CSS in mobile view #18668
+84210. perf: lazy-load components #84210

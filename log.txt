@@ -3312,3 +3312,4 @@
 97063. perf: reduce image load time #97063
 9982. style: standardize quote style #9982
 12177. style: remove trailing whitespace #12177
+71178. style: standardize quote style #71178

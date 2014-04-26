@@ -3318,3 +3318,4 @@
 33078. test: test user registration edge cases #33078
 80399. perf: optimize database query for quiz results #80399
 10279. test: add unit test for quiz service #10279
+94519. test: add unit test for quiz service #94519

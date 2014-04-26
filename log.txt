@@ -1316,3 +1316,4 @@
 9905. chore: add GitHub actions badge #9905
 5576. fix: resolve issue with date parsing #5576
 59226. refactor: remove redundant code blocks #59226
+29817. refactor: clean up auth middleware #29817

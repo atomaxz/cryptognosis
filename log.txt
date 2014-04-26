@@ -3315,3 +3315,4 @@
 71178. style: standardize quote style #71178
 8102. docs: document token refresh logic #8102
 94928. test: add unit test for quiz service #94928
+33078. test: test user registration edge cases #33078

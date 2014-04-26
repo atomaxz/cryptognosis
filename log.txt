@@ -5307,3 +5307,4 @@
 76001. fix: fix broken CSS in mobile view #76001
 36087. refactor: remove redundant code blocks #36087
 76692. chore: rename env.example #76692
+12232. test: add integration test for /submit endpoint #12232

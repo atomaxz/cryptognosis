@@ -3313,3 +3313,4 @@
 9982. style: standardize quote style #9982
 12177. style: remove trailing whitespace #12177
 71178. style: standardize quote style #71178
+8102. docs: document token refresh logic #8102

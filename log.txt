@@ -5309,3 +5309,4 @@
 76692. chore: rename env.example #76692
 12232. test: add integration test for /submit endpoint #12232
 51323. perf: optimize database query for quiz results #51323
+56055. test: increase coverage on auth module #56055

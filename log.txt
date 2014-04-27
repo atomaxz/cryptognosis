@@ -2306,3 +2306,4 @@
 27953. chore: clean up unused files #27953
 35741. test: test user registration edge cases #35741
 76549. feat: add user authentication #76549
+4961. chore: bump dependencies #4961

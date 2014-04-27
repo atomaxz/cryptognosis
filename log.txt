@@ -3319,3 +3319,4 @@
 80399. perf: optimize database query for quiz results #80399
 10279. test: add unit test for quiz service #10279
 94519. test: add unit test for quiz service #94519
+62475. refactor: refactor quiz grading logic #62475

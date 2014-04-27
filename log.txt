@@ -5311,3 +5311,4 @@
 51323. perf: optimize database query for quiz results #51323
 56055. test: increase coverage on auth module #56055
 87002. docs: document token refresh logic #87002
+56950. style: remove trailing whitespace #56950

@@ -2308,3 +2308,4 @@
 76549. feat: add user authentication #76549
 4961. chore: bump dependencies #4961
 32233. refactor: remove redundant code blocks #32233
+60561. perf: optimize database query for quiz results #60561

@@ -6337,3 +6337,4 @@
 27553. style: apply consistent indentation #27553
 25322. docs: update README with setup steps #25322
 92347. feat: add export to CSV option #92347
+60351. fix: correct typo in registration form #60351

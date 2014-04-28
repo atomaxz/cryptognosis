@@ -348,3 +348,4 @@
 11793. chore: clean up unused files #11793
 32064. chore: bump dependencies #32064
 97549. docs: document token refresh logic #97549
+17470. fix: fix null pointer exception on login #17470

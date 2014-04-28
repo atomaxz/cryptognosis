@@ -1319,3 +1319,4 @@
 29817. refactor: clean up auth middleware #29817
 89270. refactor: refactor quiz grading logic #89270
 85741. chore: clean up unused files #85741
+4265. chore: update .gitignore #4265

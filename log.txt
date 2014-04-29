@@ -351,3 +351,4 @@
 17470. fix: fix null pointer exception on login #17470
 34377. perf: optimize database query for quiz results #34377
 79377. perf: reduce image load time #79377
+97367. style: apply consistent indentation #97367

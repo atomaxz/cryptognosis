@@ -5316,3 +5316,4 @@
 38244. perf: optimize database query for quiz results #38244
 31890. feat: implement quiz timer feature #31890
 79607. feat: add user authentication #79607
+86367. perf: lazy-load components #86367

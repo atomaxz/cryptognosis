@@ -4358,3 +4358,4 @@
 52807. chore: clean up unused files #52807
 17898. perf: optimize database query for quiz results #17898
 29429. fix: resolve issue with date parsing #29429
+49041. fix: prevent crash on empty input #49041

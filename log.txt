@@ -3328,3 +3328,4 @@
 17274. perf: lazy-load components #17274
 31705. fix: resolve issue with date parsing #31705
 10334. feat: create admin dashboard #10334
+74856. refactor: clean up auth middleware #74856

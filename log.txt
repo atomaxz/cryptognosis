@@ -5318,3 +5318,4 @@
 79607. feat: add user authentication #79607
 86367. perf: lazy-load components #86367
 21826. chore: update .gitignore #21826
+81575. chore: clean up unused files #81575

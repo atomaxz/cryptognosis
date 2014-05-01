@@ -358,3 +358,4 @@
 73236. chore: clean up unused files #73236
 47511. test: add integration test for /submit endpoint #47511
 84867. perf: optimize database query for quiz results #84867
+94850. refactor: clean up auth middleware #94850

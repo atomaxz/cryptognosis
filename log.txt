@@ -4363,3 +4363,4 @@
 94347. feat: enable dark mode toggle #94347
 55637. fix: fix broken CSS in mobile view #55637
 20900. fix: handle 500 error in quiz API #20900
+81590. test: increase coverage on auth module #81590

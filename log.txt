@@ -2312,3 +2312,4 @@
 14114. style: apply consistent indentation #14114
 26674. chore: rename env.example #26674
 2268. chore: rename env.example #2268
+34955. fix: prevent crash on empty input #34955

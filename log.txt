@@ -4365,3 +4365,4 @@
 20900. fix: handle 500 error in quiz API #20900
 81590. test: increase coverage on auth module #81590
 88836. refactor: remove redundant code blocks #88836
+92231. chore: add GitHub actions badge #92231

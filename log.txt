@@ -3336,3 +3336,4 @@
 85635. style: rename variables for clarity #85635
 86587. feat: add export to CSV option #86587
 81009. perf: optimize database query for quiz results #81009
+77929. perf: reduce image load time #77929

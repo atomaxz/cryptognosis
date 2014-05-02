@@ -6345,3 +6345,4 @@
 29421. docs: write FAQ section #29421
 44609. style: standardize quote style #44609
 68584. chore: bump dependencies #68584
+59703. fix: correct typo in registration form #59703

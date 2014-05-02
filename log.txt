@@ -6344,3 +6344,4 @@
 33793. test: test user registration edge cases #33793
 29421. docs: write FAQ section #29421
 44609. style: standardize quote style #44609
+68584. chore: bump dependencies #68584

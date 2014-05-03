@@ -5325,3 +5325,4 @@
 84926. docs: add API usage examples #84926
 39998. chore: clean up unused files #39998
 94952. fix: fix broken CSS in mobile view #94952
+86758. fix: fix null pointer exception on login #86758

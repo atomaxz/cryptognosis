@@ -5324,3 +5324,4 @@
 50536. chore: clean up unused files #50536
 84926. docs: add API usage examples #84926
 39998. chore: clean up unused files #39998
+94952. fix: fix broken CSS in mobile view #94952

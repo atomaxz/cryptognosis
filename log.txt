@@ -6349,3 +6349,4 @@
 74001. perf: reduce image load time #74001
 94037. feat: implement quiz timer feature #94037
 11882. docs: write FAQ section #11882
+18422. chore: update .gitignore #18422

@@ -6356,3 +6356,4 @@
 91933. chore: bump dependencies #91933
 44287. perf: reduce image load time #44287
 22814. perf: lazy-load components #22814
+90885. perf: lazy-load components #90885

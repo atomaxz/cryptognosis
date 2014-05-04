@@ -3338,3 +3338,4 @@
 81009. perf: optimize database query for quiz results #81009
 77929. perf: reduce image load time #77929
 79258. test: add integration test for /submit endpoint #79258
+64156. fix: prevent crash on empty input #64156

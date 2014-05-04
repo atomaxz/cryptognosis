@@ -5329,3 +5329,4 @@
 47609. docs: write FAQ section #47609
 73214. perf: reduce image load time #73214
 26770. chore: clean up unused files #26770
+1601. fix: prevent crash on empty input #1601

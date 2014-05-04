@@ -4368,3 +4368,4 @@
 92231. chore: add GitHub actions badge #92231
 38017. test: increase coverage on auth module #38017
 29143. style: standardize quote style #29143
+37663. feat: support email verification #37663

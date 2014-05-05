@@ -1335,3 +1335,4 @@
 1925. chore: bump dependencies #1925
 6782. refactor: clean up auth middleware #6782
 72057. chore: update .gitignore #72057
+94233. chore: bump dependencies #94233

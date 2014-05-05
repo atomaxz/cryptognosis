@@ -5335,3 +5335,4 @@
 23413. chore: add GitHub actions badge #23413
 7522. style: apply consistent indentation #7522
 44678. chore: update .gitignore #44678
+61967. feat: enable dark mode toggle #61967

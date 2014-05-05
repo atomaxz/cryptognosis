@@ -2328,3 +2328,4 @@
 91806. perf: cache repeated calculations #91806
 60006. chore: bump dependencies #60006
 38086. test: test user registration edge cases #38086
+38281. test: mock database connection in test suite #38281

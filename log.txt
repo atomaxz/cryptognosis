@@ -4369,3 +4369,4 @@
 38017. test: increase coverage on auth module #38017
 29143. style: standardize quote style #29143
 37663. feat: support email verification #37663
+31329. test: test user registration edge cases #31329

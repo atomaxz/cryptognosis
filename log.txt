@@ -1333,3 +1333,4 @@
 57172. chore: rename env.example #57172
 23226. docs: improve code comments in utils #23226
 1925. chore: bump dependencies #1925
+6782. refactor: clean up auth middleware #6782

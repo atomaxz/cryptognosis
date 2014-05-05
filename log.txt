@@ -364,3 +364,4 @@
 90585. refactor: split large controller into smaller functions #90585
 36238. feat: add user authentication #36238
 23619. feat: create admin dashboard #23619
+93712. test: mock database connection in test suite #93712

@@ -5340,3 +5340,4 @@
 55722. perf: optimize database query for quiz results #55722
 83267. docs: add API usage examples #83267
 17661. fix: fix broken CSS in mobile view #17661
+76993. feat: support email verification #76993

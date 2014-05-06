@@ -4372,3 +4372,4 @@
 31329. test: test user registration edge cases #31329
 3965. fix: prevent crash on empty input #3965
 12217. chore: add GitHub actions badge #12217
+82840. refactor: clean up auth middleware #82840

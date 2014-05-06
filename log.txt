@@ -2332,3 +2332,4 @@
 87618. style: reformat files with black #87618
 17773. test: increase coverage on auth module #17773
 31839. feat: add export to CSV option #31839
+31792. perf: lazy-load components #31792

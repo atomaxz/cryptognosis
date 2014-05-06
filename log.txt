@@ -4373,3 +4373,4 @@
 3965. fix: prevent crash on empty input #3965
 12217. chore: add GitHub actions badge #12217
 82840. refactor: clean up auth middleware #82840
+40877. fix: fix null pointer exception on login #40877

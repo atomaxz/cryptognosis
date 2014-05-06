@@ -1343,3 +1343,4 @@
 95412. docs: document token refresh logic #95412
 55862. style: remove trailing whitespace #55862
 81838. refactor: refactor quiz grading logic #81838
+75656. fix: fix broken CSS in mobile view #75656

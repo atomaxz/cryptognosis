@@ -1347,3 +1347,4 @@
 42548. chore: update .gitignore #42548
 40744. docs: document token refresh logic #40744
 77909. style: remove trailing whitespace #77909
+86821. perf: optimize database query for quiz results #86821

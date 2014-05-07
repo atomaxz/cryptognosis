@@ -1346,3 +1346,4 @@
 75656. fix: fix broken CSS in mobile view #75656
 42548. chore: update .gitignore #42548
 40744. docs: document token refresh logic #40744
+77909. style: remove trailing whitespace #77909

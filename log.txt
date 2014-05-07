@@ -4377,3 +4377,4 @@
 23221. refactor: organize models into subfolders #23221
 78332. test: add unit test for quiz service #78332
 34600. fix: prevent crash on empty input #34600
+13425. style: reformat files with black #13425

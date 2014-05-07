@@ -6360,3 +6360,4 @@
 81357. refactor: organize models into subfolders #81357
 39002. refactor: split large controller into smaller functions #39002
 41264. perf: cache repeated calculations #41264
+48631. feat: support email verification #48631

@@ -2338,3 +2338,4 @@
 76179. feat: add export to CSV option #76179
 82446. feat: add user authentication #82446
 82531. docs: clarify environment setup #82531
+10517. fix: resolve issue with date parsing #10517

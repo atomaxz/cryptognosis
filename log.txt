@@ -5343,3 +5343,4 @@
 76993. feat: support email verification #76993
 81585. docs: clarify environment setup #81585
 95870. perf: lazy-load components #95870
+68275. test: increase coverage on auth module #68275

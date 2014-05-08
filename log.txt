@@ -6361,3 +6361,4 @@
 39002. refactor: split large controller into smaller functions #39002
 41264. perf: cache repeated calculations #41264
 48631. feat: support email verification #48631
+59303. perf: optimize database query for quiz results #59303

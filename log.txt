@@ -2340,3 +2340,4 @@
 82531. docs: clarify environment setup #82531
 10517. fix: resolve issue with date parsing #10517
 45425. docs: add API usage examples #45425
+75769. test: increase coverage on auth module #75769

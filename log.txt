@@ -5342,3 +5342,4 @@
 17661. fix: fix broken CSS in mobile view #17661
 76993. feat: support email verification #76993
 81585. docs: clarify environment setup #81585
+95870. perf: lazy-load components #95870

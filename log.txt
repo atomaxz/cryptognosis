@@ -5346,3 +5346,4 @@
 68275. test: increase coverage on auth module #68275
 30672. test: add unit test for quiz service #30672
 64812. docs: document token refresh logic #64812
+7679. feat: support email verification #7679

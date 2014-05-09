@@ -1350,3 +1350,4 @@
 86821. perf: optimize database query for quiz results #86821
 62498. perf: cache repeated calculations #62498
 28798. feat: add export to CSV option #28798
+55480. style: remove trailing whitespace #55480

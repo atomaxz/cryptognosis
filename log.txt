@@ -4380,3 +4380,4 @@
 13425. style: reformat files with black #13425
 1307. fix: correct typo in registration form #1307
 6126. style: rename variables for clarity #6126
+6335. chore: bump dependencies #6335

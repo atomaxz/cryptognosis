@@ -2342,3 +2342,4 @@
 45425. docs: add API usage examples #45425
 75769. test: increase coverage on auth module #75769
 20058. perf: cache repeated calculations #20058
+34280. test: test user registration edge cases #34280

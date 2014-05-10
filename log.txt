@@ -372,3 +372,4 @@
 24755. feat: create admin dashboard #24755
 71738. docs: update README with setup steps #71738
 75626. refactor: organize models into subfolders #75626
+20944. test: increase coverage on auth module #20944

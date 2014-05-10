@@ -4382,3 +4382,4 @@
 6126. style: rename variables for clarity #6126
 6335. chore: bump dependencies #6335
 0733. docs: add API usage examples #733
+40127. fix: fix broken CSS in mobile view #40127

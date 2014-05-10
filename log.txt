@@ -5350,3 +5350,4 @@
 21166. docs: clarify environment setup #21166
 72604. perf: lazy-load components #72604
 40828. feat: add user authentication #40828
+9580. feat: enable dark mode toggle #9580

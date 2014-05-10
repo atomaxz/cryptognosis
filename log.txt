@@ -1353,3 +1353,4 @@
 55480. style: remove trailing whitespace #55480
 8231. perf: optimize database query for quiz results #8231
 70178. chore: clean up unused files #70178
+23920. refactor: refactor quiz grading logic #23920

@@ -5349,3 +5349,4 @@
 7679. feat: support email verification #7679
 21166. docs: clarify environment setup #21166
 72604. perf: lazy-load components #72604
+40828. feat: add user authentication #40828

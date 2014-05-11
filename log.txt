@@ -6370,3 +6370,4 @@
 57302. feat: create admin dashboard #57302
 56920. fix: prevent crash on empty input #56920
 67982. style: rename variables for clarity #67982
+64122. refactor: clean up auth middleware #64122

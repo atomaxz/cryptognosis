@@ -6368,3 +6368,4 @@
 74728. perf: lazy-load components #74728
 48425. style: rename variables for clarity #48425
 57302. feat: create admin dashboard #57302
+56920. fix: prevent crash on empty input #56920

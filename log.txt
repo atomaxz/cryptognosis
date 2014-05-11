@@ -4383,3 +4383,4 @@
 6335. chore: bump dependencies #6335
 0733. docs: add API usage examples #733
 40127. fix: fix broken CSS in mobile view #40127
+43637. perf: reduce image load time #43637

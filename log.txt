@@ -3365,3 +3365,4 @@
 88743. perf: reduce image load time #88743
 25692. docs: add API usage examples #25692
 47301. chore: bump dependencies #47301
+2261. perf: cache repeated calculations #2261

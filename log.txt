@@ -2348,3 +2348,4 @@
 76642. style: reformat files with black #76642
 22991. docs: write FAQ section #22991
 96779. test: increase coverage on auth module #96779
+10714. chore: add GitHub actions badge #10714

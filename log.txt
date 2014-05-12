@@ -6373,3 +6373,4 @@
 64122. refactor: clean up auth middleware #64122
 29005. docs: add API usage examples #29005
 48535. style: remove trailing whitespace #48535
+65924. feat: support email verification #65924

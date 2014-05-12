@@ -1358,3 +1358,4 @@
 33852. test: add integration test for /submit endpoint #33852
 92556. refactor: organize models into subfolders #92556
 6209. fix: fix broken CSS in mobile view #6209
+63328. fix: prevent crash on empty input #63328

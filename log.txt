@@ -2350,3 +2350,4 @@
 96779. test: increase coverage on auth module #96779
 10714. chore: add GitHub actions badge #10714
 87621. test: add unit test for quiz service #87621
+59845. chore: add GitHub actions badge #59845

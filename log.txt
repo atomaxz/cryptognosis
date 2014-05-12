@@ -1359,3 +1359,4 @@
 92556. refactor: organize models into subfolders #92556
 6209. fix: fix broken CSS in mobile view #6209
 63328. fix: prevent crash on empty input #63328
+85212. style: remove trailing whitespace #85212

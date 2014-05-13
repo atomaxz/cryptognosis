@@ -5354,3 +5354,4 @@
 33724. fix: fix broken CSS in mobile view #33724
 68249. refactor: refactor quiz grading logic #68249
 3366. docs: clarify environment setup #3366
+52425. feat: support email verification #52425

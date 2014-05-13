@@ -6374,3 +6374,4 @@
 29005. docs: add API usage examples #29005
 48535. style: remove trailing whitespace #48535
 65924. feat: support email verification #65924
+17626. fix: prevent crash on empty input #17626

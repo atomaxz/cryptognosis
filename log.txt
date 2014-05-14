@@ -5356,3 +5356,4 @@
 3366. docs: clarify environment setup #3366
 52425. feat: support email verification #52425
 22764. refactor: clean up auth middleware #22764
+4299. chore: add GitHub actions badge #4299

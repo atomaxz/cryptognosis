@@ -2354,3 +2354,4 @@
 55310. refactor: organize models into subfolders #55310
 1120. style: apply consistent indentation #1120
 25015. perf: optimize database query for quiz results #25015
+51608. refactor: clean up auth middleware #51608

@@ -4389,3 +4389,4 @@
 77405. chore: bump dependencies #77405
 58845. style: reformat files with black #58845
 39146. fix: correct typo in registration form #39146
+17224. perf: lazy-load components #17224

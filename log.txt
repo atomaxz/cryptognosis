@@ -3376,3 +3376,4 @@
 11358. refactor: organize models into subfolders #11358
 85829. feat: implement quiz timer feature #85829
 93448. chore: rename env.example #93448
+73522. perf: lazy-load components #73522

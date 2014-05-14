@@ -2353,3 +2353,4 @@
 59845. chore: add GitHub actions badge #59845
 55310. refactor: organize models into subfolders #55310
 1120. style: apply consistent indentation #1120
+25015. perf: optimize database query for quiz results #25015

@@ -6376,3 +6376,4 @@
 65924. feat: support email verification #65924
 17626. fix: prevent crash on empty input #17626
 29928. perf: lazy-load components #29928
+40192. style: remove trailing whitespace #40192

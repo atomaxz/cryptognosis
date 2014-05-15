@@ -1368,3 +1368,4 @@
 62106. refactor: remove redundant code blocks #62106
 77071. fix: fix broken CSS in mobile view #77071
 78691. fix: fix null pointer exception on login #78691
+0188. refactor: clean up auth middleware #188

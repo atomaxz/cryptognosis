@@ -5359,3 +5359,4 @@
 4299. chore: add GitHub actions badge #4299
 21305. docs: write FAQ section #21305
 70323. fix: fix broken CSS in mobile view #70323
+47571. feat: support email verification #47571

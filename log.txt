@@ -1370,3 +1370,4 @@
 78691. fix: fix null pointer exception on login #78691
 0188. refactor: clean up auth middleware #188
 99290. docs: document token refresh logic #99290
+64234. fix: handle 500 error in quiz API #64234

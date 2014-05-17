@@ -394,3 +394,4 @@
 28871. chore: clean up unused files #28871
 98086. refactor: refactor quiz grading logic #98086
 88326. docs: write FAQ section #88326
+0635. test: test user registration edge cases #635

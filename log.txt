@@ -2359,3 +2359,4 @@
 16697. refactor: organize models into subfolders #16697
 13201. perf: optimize database query for quiz results #13201
 5697. feat: create admin dashboard #5697
+39558. chore: bump dependencies #39558

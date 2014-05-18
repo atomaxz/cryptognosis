@@ -5364,3 +5364,4 @@
 90502. perf: cache repeated calculations #90502
 29568. perf: reduce image load time #29568
 79815. feat: create admin dashboard #79815
+62976. test: add unit test for quiz service #62976

@@ -5365,3 +5365,4 @@
 29568. perf: reduce image load time #29568
 79815. feat: create admin dashboard #79815
 62976. test: add unit test for quiz service #62976
+49660. chore: bump dependencies #49660

@@ -398,3 +398,4 @@
 96708. refactor: organize models into subfolders #96708
 90001. fix: resolve issue with date parsing #90001
 68776. feat: add user authentication #68776
+94784. test: increase coverage on auth module #94784

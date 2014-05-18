@@ -2361,3 +2361,4 @@
 5697. feat: create admin dashboard #5697
 39558. chore: bump dependencies #39558
 0689. chore: rename env.example #689
+67200. fix: fix null pointer exception on login #67200

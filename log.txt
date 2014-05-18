@@ -2366,3 +2366,4 @@
 11169. docs: improve code comments in utils #11169
 46107. style: remove trailing whitespace #46107
 20524. style: rename variables for clarity #20524
+1045. fix: prevent crash on empty input #1045

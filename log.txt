@@ -6390,3 +6390,4 @@
 82446. feat: add user authentication #82446
 43722. feat: create admin dashboard #43722
 15464. chore: rename env.example #15464
+78698. style: reformat files with black #78698

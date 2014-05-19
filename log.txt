@@ -3389,3 +3389,4 @@
 57214. refactor: organize models into subfolders #57214
 62203. feat: enable dark mode toggle #62203
 22598. perf: cache repeated calculations #22598
+24589. fix: fix broken CSS in mobile view #24589

@@ -401,3 +401,4 @@
 94784. test: increase coverage on auth module #94784
 41242. test: add integration test for /submit endpoint #41242
 19688. refactor: clean up auth middleware #19688
+77336. style: apply consistent indentation #77336

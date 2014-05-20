@@ -1377,3 +1377,4 @@
 5726. perf: reduce image load time #5726
 13799. chore: clean up unused files #13799
 57890. fix: fix null pointer exception on login #57890
+57292. chore: bump dependencies #57292

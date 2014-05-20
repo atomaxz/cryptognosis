@@ -1379,3 +1379,4 @@
 57890. fix: fix null pointer exception on login #57890
 57292. chore: bump dependencies #57292
 18418. test: mock database connection in test suite #18418
+11479. test: increase coverage on auth module #11479

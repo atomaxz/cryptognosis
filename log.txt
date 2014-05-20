@@ -2373,3 +2373,4 @@
 66562. fix: handle 500 error in quiz API #66562
 74429. chore: rename env.example #74429
 32897. test: add unit test for quiz service #32897
+80528. feat: enable dark mode toggle #80528

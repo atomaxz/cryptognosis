@@ -404,3 +404,4 @@
 77336. style: apply consistent indentation #77336
 83305. feat: enable dark mode toggle #83305
 23683. chore: clean up unused files #23683
+3920. feat: support email verification #3920

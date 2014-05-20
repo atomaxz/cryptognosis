@@ -2369,3 +2369,4 @@
 1045. fix: prevent crash on empty input #1045
 14383. chore: update .gitignore #14383
 85812. feat: enable dark mode toggle #85812
+83186. style: apply consistent indentation #83186

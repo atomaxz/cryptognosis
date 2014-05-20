@@ -2370,3 +2370,4 @@
 14383. chore: update .gitignore #14383
 85812. feat: enable dark mode toggle #85812
 83186. style: apply consistent indentation #83186
+66562. fix: handle 500 error in quiz API #66562

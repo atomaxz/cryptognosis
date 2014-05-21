@@ -6395,3 +6395,4 @@
 76206. docs: write FAQ section #76206
 18029. style: apply consistent indentation #18029
 58895. test: add integration test for /submit endpoint #58895
+22332. perf: optimize database query for quiz results #22332

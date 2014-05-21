@@ -3399,3 +3399,4 @@
 81496. perf: optimize database query for quiz results #81496
 28584. fix: fix broken CSS in mobile view #28584
 53954. style: apply consistent indentation #53954
+8374. chore: bump dependencies #8374

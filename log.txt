@@ -407,3 +407,4 @@
 3920. feat: support email verification #3920
 66694. chore: clean up unused files #66694
 55213. test: add integration test for /submit endpoint #55213
+0606. docs: document token refresh logic #606

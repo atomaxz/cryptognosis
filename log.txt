@@ -6399,3 +6399,4 @@
 27299. fix: correct typo in registration form #27299
 41564. style: reformat files with black #41564
 48331. docs: add API usage examples #48331
+38996. chore: rename env.example #38996

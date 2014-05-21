@@ -5372,3 +5372,4 @@
 46595. chore: add GitHub actions badge #46595
 41452. test: increase coverage on auth module #41452
 47645. refactor: organize models into subfolders #47645
+12392. test: add integration test for /submit endpoint #12392

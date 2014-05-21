@@ -3395,3 +3395,4 @@
 39847. chore: update .gitignore #39847
 75333. perf: cache repeated calculations #75333
 67962. test: add unit test for quiz service #67962
+95700. chore: add GitHub actions badge #95700

@@ -3400,3 +3400,4 @@
 28584. fix: fix broken CSS in mobile view #28584
 53954. style: apply consistent indentation #53954
 8374. chore: bump dependencies #8374
+43705. perf: reduce image load time #43705

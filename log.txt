@@ -5377,3 +5377,4 @@
 15564. feat: add user authentication #15564
 69135. docs: clarify environment setup #69135
 35899. perf: optimize database query for quiz results #35899
+9140. test: mock database connection in test suite #9140

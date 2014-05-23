@@ -2381,3 +2381,4 @@
 99273. docs: add API usage examples #99273
 80905. docs: add API usage examples #80905
 59144. docs: write FAQ section #59144
+95943. fix: fix broken CSS in mobile view #95943

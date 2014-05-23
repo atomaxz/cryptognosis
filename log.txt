@@ -4408,3 +4408,4 @@
 71158. chore: rename env.example #71158
 95976. perf: lazy-load components #95976
 40739. chore: add GitHub actions badge #40739
+69003. perf: reduce image load time #69003

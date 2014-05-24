@@ -2382,3 +2382,4 @@
 80905. docs: add API usage examples #80905
 59144. docs: write FAQ section #59144
 95943. fix: fix broken CSS in mobile view #95943
+97234. refactor: split large controller into smaller functions #97234

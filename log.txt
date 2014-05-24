@@ -1386,3 +1386,4 @@
 20233. fix: handle 500 error in quiz API #20233
 28746. perf: reduce image load time #28746
 82850. docs: improve code comments in utils #82850
+92210. fix: handle 500 error in quiz API #92210

@@ -412,3 +412,4 @@
 28760. fix: fix null pointer exception on login #28760
 97131. chore: add GitHub actions badge #97131
 92081. perf: lazy-load components #92081
+95396. style: remove trailing whitespace #95396

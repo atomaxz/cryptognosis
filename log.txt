@@ -3404,3 +3404,4 @@
 94184. chore: clean up unused files #94184
 9493. style: remove trailing whitespace #9493
 82030. perf: cache repeated calculations #82030
+73908. docs: update README with setup steps #73908

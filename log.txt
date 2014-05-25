@@ -2385,3 +2385,4 @@
 97234. refactor: split large controller into smaller functions #97234
 2662. test: add integration test for /submit endpoint #2662
 55002. docs: clarify environment setup #55002
+0442. perf: optimize database query for quiz results #442

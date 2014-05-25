@@ -1391,3 +1391,4 @@
 53665. perf: reduce image load time #53665
 36272. fix: fix null pointer exception on login #36272
 23210. test: add unit test for quiz service #23210
+91899. fix: fix null pointer exception on login #91899

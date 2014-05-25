@@ -418,3 +418,4 @@
 75553. refactor: organize models into subfolders #75553
 77909. style: remove trailing whitespace #77909
 54093. style: rename variables for clarity #54093
+68845. feat: enable dark mode toggle #68845

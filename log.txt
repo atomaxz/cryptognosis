@@ -4416,3 +4416,4 @@
 36101. chore: bump dependencies #36101
 76398. docs: write FAQ section #76398
 74360. fix: prevent crash on empty input #74360
+20799. fix: handle 500 error in quiz API #20799

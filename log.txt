@@ -4415,3 +4415,4 @@
 45910. refactor: clean up auth middleware #45910
 36101. chore: bump dependencies #36101
 76398. docs: write FAQ section #76398
+74360. fix: prevent crash on empty input #74360

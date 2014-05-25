@@ -4414,3 +4414,4 @@
 87844. fix: correct typo in registration form #87844
 45910. refactor: clean up auth middleware #45910
 36101. chore: bump dependencies #36101
+76398. docs: write FAQ section #76398

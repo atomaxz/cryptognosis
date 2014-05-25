@@ -4417,3 +4417,4 @@
 76398. docs: write FAQ section #76398
 74360. fix: prevent crash on empty input #74360
 20799. fix: handle 500 error in quiz API #20799
+5076. refactor: split large controller into smaller functions #5076

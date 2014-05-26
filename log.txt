@@ -6410,3 +6410,4 @@
 15583. refactor: remove redundant code blocks #15583
 75319. style: apply consistent indentation #75319
 49435. fix: correct typo in registration form #49435
+71731. perf: reduce image load time #71731

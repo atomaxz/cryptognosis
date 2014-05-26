@@ -2386,3 +2386,4 @@
 2662. test: add integration test for /submit endpoint #2662
 55002. docs: clarify environment setup #55002
 0442. perf: optimize database query for quiz results #442
+36527. test: test user registration edge cases #36527

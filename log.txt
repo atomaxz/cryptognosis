@@ -1394,3 +1394,4 @@
 91899. fix: fix null pointer exception on login #91899
 11360. fix: fix null pointer exception on login #11360
 35065. feat: enable dark mode toggle #35065
+42331. style: remove trailing whitespace #42331

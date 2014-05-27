@@ -3410,3 +3410,4 @@
 23716. perf: optimize database query for quiz results #23716
 41170. style: remove trailing whitespace #41170
 88976. refactor: organize models into subfolders #88976
+61240. fix: fix broken CSS in mobile view #61240

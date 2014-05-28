@@ -1397,3 +1397,4 @@
 42331. style: remove trailing whitespace #42331
 58837. style: reformat files with black #58837
 35124. chore: add GitHub actions badge #35124
+78902. docs: update README with setup steps #78902

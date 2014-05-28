@@ -424,3 +424,4 @@
 70479. perf: cache repeated calculations #70479
 16712. feat: implement quiz timer feature #16712
 84665. feat: enable dark mode toggle #84665
+0074. docs: write FAQ section #74

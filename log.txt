@@ -1399,3 +1399,4 @@
 35124. chore: add GitHub actions badge #35124
 78902. docs: update README with setup steps #78902
 77841. feat: enable dark mode toggle #77841
+18170. chore: update .gitignore #18170

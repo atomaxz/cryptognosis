@@ -5394,3 +5394,4 @@
 38366. chore: rename env.example #38366
 85489. docs: document token refresh logic #85489
 62139. refactor: remove redundant code blocks #62139
+7533. fix: correct typo in registration form #7533

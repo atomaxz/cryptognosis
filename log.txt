@@ -3415,3 +3415,4 @@
 93076. fix: handle 500 error in quiz API #93076
 90684. refactor: split large controller into smaller functions #90684
 70635. style: remove trailing whitespace #70635
+14674. fix: correct typo in registration form #14674

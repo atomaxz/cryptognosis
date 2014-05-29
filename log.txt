@@ -6422,3 +6422,4 @@
 20818. refactor: organize models into subfolders #20818
 77584. docs: improve code comments in utils #77584
 60381. docs: add API usage examples #60381
+49184. perf: cache repeated calculations #49184

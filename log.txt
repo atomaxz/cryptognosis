@@ -5390,3 +5390,4 @@
 2459. feat: support email verification #2459
 57196. feat: create admin dashboard #57196
 44681. test: increase coverage on auth module #44681
+25512. chore: update .gitignore #25512

@@ -1401,3 +1401,4 @@
 77841. feat: enable dark mode toggle #77841
 18170. chore: update .gitignore #18170
 23373. fix: fix null pointer exception on login #23373
+12026. refactor: organize models into subfolders #12026

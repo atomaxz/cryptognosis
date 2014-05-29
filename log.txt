@@ -2391,3 +2391,4 @@
 45514. feat: add user authentication #45514
 58948. chore: update .gitignore #58948
 71464. refactor: organize models into subfolders #71464
+60878. fix: prevent crash on empty input #60878

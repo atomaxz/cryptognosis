@@ -5391,3 +5391,4 @@
 57196. feat: create admin dashboard #57196
 44681. test: increase coverage on auth module #44681
 25512. chore: update .gitignore #25512
+38366. chore: rename env.example #38366

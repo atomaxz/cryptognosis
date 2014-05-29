@@ -6417,3 +6417,4 @@
 7258. refactor: organize models into subfolders #7258
 25512. chore: update .gitignore #25512
 7446. perf: cache repeated calculations #7446
+44295. refactor: clean up auth middleware #44295

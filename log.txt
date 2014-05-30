@@ -5396,3 +5396,4 @@
 62139. refactor: remove redundant code blocks #62139
 7533. fix: correct typo in registration form #7533
 27766. docs: document token refresh logic #27766
+30564. test: test user registration edge cases #30564

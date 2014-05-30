@@ -3419,3 +3419,4 @@
 3356. refactor: clean up auth middleware #3356
 0015. docs: improve code comments in utils #15
 64639. refactor: refactor quiz grading logic #64639
+73501. refactor: clean up auth middleware #73501

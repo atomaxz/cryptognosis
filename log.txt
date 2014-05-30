@@ -434,3 +434,4 @@
 36127. fix: correct typo in registration form #36127
 2817. chore: update .gitignore #2817
 66448. test: add unit test for quiz service #66448
+71688. docs: clarify environment setup #71688

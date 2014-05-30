@@ -2392,3 +2392,4 @@
 58948. chore: update .gitignore #58948
 71464. refactor: organize models into subfolders #71464
 60878. fix: prevent crash on empty input #60878
+64381. perf: optimize database query for quiz results #64381

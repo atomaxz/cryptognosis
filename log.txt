@@ -6425,3 +6425,4 @@
 49184. perf: cache repeated calculations #49184
 18176. fix: handle 500 error in quiz API #18176
 99263. feat: create admin dashboard #99263
+76978. chore: update .gitignore #76978

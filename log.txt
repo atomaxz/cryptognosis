@@ -1404,3 +1404,4 @@
 12026. refactor: organize models into subfolders #12026
 1190. feat: support email verification #1190
 11511. docs: write FAQ section #11511
+47317. style: rename variables for clarity #47317

@@ -4427,3 +4427,4 @@
 53697. feat: create admin dashboard #53697
 28233. fix: correct typo in registration form #28233
 13199. fix: fix broken CSS in mobile view #13199
+99135. fix: correct typo in registration form #99135

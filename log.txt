@@ -3420,3 +3420,4 @@
 0015. docs: improve code comments in utils #15
 64639. refactor: refactor quiz grading logic #64639
 73501. refactor: clean up auth middleware #73501
+9504. fix: handle 500 error in quiz API #9504

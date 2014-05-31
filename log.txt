@@ -4430,3 +4430,4 @@
 99135. fix: correct typo in registration form #99135
 37094. chore: rename env.example #37094
 76484. style: remove trailing whitespace #76484
+51559. feat: enable dark mode toggle #51559

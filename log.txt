@@ -5399,3 +5399,4 @@
 30564. test: test user registration edge cases #30564
 7978. fix: fix null pointer exception on login #7978
 83362. refactor: refactor quiz grading logic #83362
+42502. chore: bump dependencies #42502

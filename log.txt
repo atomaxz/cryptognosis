@@ -435,3 +435,4 @@
 2817. chore: update .gitignore #2817
 66448. test: add unit test for quiz service #66448
 71688. docs: clarify environment setup #71688
+78679. chore: clean up unused files #78679

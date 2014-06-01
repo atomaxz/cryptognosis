@@ -6428,3 +6428,4 @@
 76978. chore: update .gitignore #76978
 10286. feat: support email verification #10286
 80968. feat: create admin dashboard #80968
+50122. docs: write FAQ section #50122

@@ -6431,3 +6431,4 @@
 50122. docs: write FAQ section #50122
 96988. fix: correct typo in registration form #96988
 83029. chore: bump dependencies #83029
+36785. fix: fix null pointer exception on login #36785

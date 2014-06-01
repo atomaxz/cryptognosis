@@ -2399,3 +2399,4 @@
 26814. fix: resolve issue with date parsing #26814
 73671. perf: optimize database query for quiz results #73671
 59005. refactor: organize models into subfolders #59005
+64945. feat: support email verification #64945

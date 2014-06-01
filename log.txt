@@ -2401,3 +2401,4 @@
 59005. refactor: organize models into subfolders #59005
 64945. feat: support email verification #64945
 33477. perf: optimize database query for quiz results #33477
+54386. test: add unit test for quiz service #54386

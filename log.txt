@@ -1409,3 +1409,4 @@
 6208. perf: reduce image load time #6208
 86116. style: reformat files with black #86116
 84044. test: mock database connection in test suite #84044
+57937. refactor: clean up auth middleware #57937

@@ -4434,3 +4434,4 @@
 7565. docs: improve code comments in utils #7565
 97657. chore: update .gitignore #97657
 84540. chore: update .gitignore #84540
+72785. fix: handle 500 error in quiz API #72785

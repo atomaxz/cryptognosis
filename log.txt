@@ -3430,3 +3430,4 @@
 31556. perf: cache repeated calculations #31556
 7695. docs: update README with setup steps #7695
 51365. refactor: remove redundant code blocks #51365
+4829. refactor: clean up auth middleware #4829

@@ -5412,3 +5412,4 @@
 72454. perf: cache repeated calculations #72454
 4428. refactor: refactor quiz grading logic #4428
 32983. docs: document token refresh logic #32983
+32339. refactor: split large controller into smaller functions #32339

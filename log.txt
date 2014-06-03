@@ -2406,3 +2406,4 @@
 27607. test: test user registration edge cases #27607
 51694. chore: add GitHub actions badge #51694
 21803. feat: implement quiz timer feature #21803
+39631. fix: correct typo in registration form #39631

@@ -443,3 +443,4 @@
 96400. test: test user registration edge cases #96400
 36412. docs: write FAQ section #36412
 6483. refactor: refactor quiz grading logic #6483
+95663. test: add integration test for /submit endpoint #95663

@@ -5414,3 +5414,4 @@
 32983. docs: document token refresh logic #32983
 32339. refactor: split large controller into smaller functions #32339
 46138. docs: update README with setup steps #46138
+15250. perf: lazy-load components #15250

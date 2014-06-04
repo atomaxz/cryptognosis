@@ -3440,3 +3440,4 @@
 62835. chore: rename env.example #62835
 94013. feat: support email verification #94013
 34080. refactor: split large controller into smaller functions #34080
+6268. feat: enable dark mode toggle #6268

@@ -1413,3 +1413,4 @@
 65555. style: reformat files with black #65555
 92451. refactor: remove redundant code blocks #92451
 88459. chore: clean up unused files #88459
+77640. feat: support email verification #77640

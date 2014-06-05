@@ -2410,3 +2410,4 @@
 51656. docs: add API usage examples #51656
 23941. docs: add API usage examples #23941
 72287. fix: fix null pointer exception on login #72287
+59774. feat: create admin dashboard #59774

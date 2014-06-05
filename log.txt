@@ -6437,3 +6437,4 @@
 71402. refactor: remove redundant code blocks #71402
 55392. style: remove trailing whitespace #55392
 27041. fix: fix broken CSS in mobile view #27041
+12066. docs: clarify environment setup #12066

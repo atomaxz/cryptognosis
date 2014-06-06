@@ -5418,3 +5418,4 @@
 26198. chore: bump dependencies #26198
 26088. fix: handle 500 error in quiz API #26088
 46883. style: rename variables for clarity #46883
+96904. refactor: remove redundant code blocks #96904

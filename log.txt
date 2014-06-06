@@ -6443,3 +6443,4 @@
 98591. chore: bump dependencies #98591
 73324. perf: reduce image load time #73324
 66253. feat: add user authentication #66253
+6616. perf: lazy-load components #6616

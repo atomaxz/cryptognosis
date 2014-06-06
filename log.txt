@@ -4445,3 +4445,4 @@
 18402. refactor: split large controller into smaller functions #18402
 71063. perf: lazy-load components #71063
 15282. test: add integration test for /submit endpoint #15282
+86716. refactor: clean up auth middleware #86716

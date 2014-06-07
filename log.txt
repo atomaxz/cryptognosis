@@ -3441,3 +3441,4 @@
 94013. feat: support email verification #94013
 34080. refactor: split large controller into smaller functions #34080
 6268. feat: enable dark mode toggle #6268
+8133. fix: prevent crash on empty input #8133

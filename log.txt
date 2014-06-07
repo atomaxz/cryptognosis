@@ -5420,3 +5420,4 @@
 46883. style: rename variables for clarity #46883
 96904. refactor: remove redundant code blocks #96904
 12431. refactor: split large controller into smaller functions #12431
+79437. test: increase coverage on auth module #79437

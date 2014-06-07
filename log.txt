@@ -4447,3 +4447,4 @@
 15282. test: add integration test for /submit endpoint #15282
 86716. refactor: clean up auth middleware #86716
 96760. chore: update .gitignore #96760
+88406. fix: fix null pointer exception on login #88406

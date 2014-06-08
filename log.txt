@@ -2416,3 +2416,4 @@
 72203. perf: cache repeated calculations #72203
 23846. refactor: remove redundant code blocks #23846
 2561. fix: correct typo in registration form #2561
+50886. feat: add export to CSV option #50886

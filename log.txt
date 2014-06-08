@@ -4450,3 +4450,4 @@
 88406. fix: fix null pointer exception on login #88406
 1231. docs: clarify environment setup #1231
 39328. chore: clean up unused files #39328
+60106. test: test user registration edge cases #60106

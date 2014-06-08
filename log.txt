@@ -1420,3 +1420,4 @@
 78239. docs: add API usage examples #78239
 91318. style: standardize quote style #91318
 91977. style: remove trailing whitespace #91977
+86653. perf: lazy-load components #86653

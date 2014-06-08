@@ -3444,3 +3444,4 @@
 8133. fix: prevent crash on empty input #8133
 96244. refactor: clean up auth middleware #96244
 15457. chore: clean up unused files #15457
+34839. refactor: organize models into subfolders #34839

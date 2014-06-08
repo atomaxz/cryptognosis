@@ -5421,3 +5421,4 @@
 96904. refactor: remove redundant code blocks #96904
 12431. refactor: split large controller into smaller functions #12431
 79437. test: increase coverage on auth module #79437
+94497. refactor: organize models into subfolders #94497

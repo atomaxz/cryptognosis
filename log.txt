@@ -4452,3 +4452,4 @@
 39328. chore: clean up unused files #39328
 60106. test: test user registration edge cases #60106
 0464. docs: add API usage examples #464
+26368. test: mock database connection in test suite #26368

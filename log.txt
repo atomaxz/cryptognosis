@@ -3446,3 +3446,4 @@
 15457. chore: clean up unused files #15457
 34839. refactor: organize models into subfolders #34839
 81403. refactor: organize models into subfolders #81403
+59459. docs: update README with setup steps #59459

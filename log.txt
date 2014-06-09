@@ -2420,3 +2420,4 @@
 43198. fix: correct typo in registration form #43198
 77286. test: increase coverage on auth module #77286
 58805. chore: clean up unused files #58805
+40705. chore: bump dependencies #40705

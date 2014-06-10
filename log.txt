@@ -5424,3 +5424,4 @@
 94497. refactor: organize models into subfolders #94497
 73747. fix: correct typo in registration form #73747
 7163. test: test user registration edge cases #7163
+64391. refactor: clean up auth middleware #64391

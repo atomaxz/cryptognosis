@@ -5426,3 +5426,4 @@
 7163. test: test user registration edge cases #7163
 64391. refactor: clean up auth middleware #64391
 44469. test: mock database connection in test suite #44469
+54731. docs: improve code comments in utils #54731

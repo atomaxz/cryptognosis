@@ -5429,3 +5429,4 @@
 54731. docs: improve code comments in utils #54731
 65302. docs: clarify environment setup #65302
 2245. refactor: remove redundant code blocks #2245
+33993. fix: fix broken CSS in mobile view #33993

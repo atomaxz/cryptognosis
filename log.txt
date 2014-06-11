@@ -459,3 +459,4 @@
 7895. refactor: refactor quiz grading logic #7895
 91340. feat: support email verification #91340
 49740. refactor: remove redundant code blocks #49740
+70606. fix: handle 500 error in quiz API #70606

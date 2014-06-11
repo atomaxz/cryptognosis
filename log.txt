@@ -2425,3 +2425,4 @@
 37567. docs: add API usage examples #37567
 68852. perf: cache repeated calculations #68852
 12955. docs: clarify environment setup #12955
+81818. fix: fix null pointer exception on login #81818

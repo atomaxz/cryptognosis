@@ -6454,3 +6454,4 @@
 91350. test: test user registration edge cases #91350
 66325. style: apply consistent indentation #66325
 97406. fix: fix broken CSS in mobile view #97406
+0049. feat: add user authentication #49

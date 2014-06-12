@@ -467,3 +467,4 @@
 48960. test: add unit test for quiz service #48960
 0064. refactor: organize models into subfolders #64
 90690. docs: add API usage examples #90690
+57848. perf: lazy-load components #57848

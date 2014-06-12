@@ -6453,3 +6453,4 @@
 57978. fix: handle 500 error in quiz API #57978
 91350. test: test user registration edge cases #91350
 66325. style: apply consistent indentation #66325
+97406. fix: fix broken CSS in mobile view #97406

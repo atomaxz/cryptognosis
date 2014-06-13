@@ -1435,3 +1435,4 @@
 76296. refactor: refactor quiz grading logic #76296
 69593. refactor: refactor quiz grading logic #69593
 67279. feat: support email verification #67279
+72824. chore: add GitHub actions badge #72824

@@ -471,3 +471,4 @@
 29066. fix: fix broken CSS in mobile view #29066
 2524. perf: optimize database query for quiz results #2524
 47502. feat: add export to CSV option #47502
+55076. perf: cache repeated calculations #55076

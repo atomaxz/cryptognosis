@@ -2428,3 +2428,4 @@
 81818. fix: fix null pointer exception on login #81818
 32428. docs: clarify environment setup #32428
 81571. docs: add API usage examples #81571
+62168. refactor: organize models into subfolders #62168

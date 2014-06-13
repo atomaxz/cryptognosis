@@ -470,3 +470,4 @@
 57848. perf: lazy-load components #57848
 29066. fix: fix broken CSS in mobile view #29066
 2524. perf: optimize database query for quiz results #2524
+47502. feat: add export to CSV option #47502

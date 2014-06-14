@@ -5437,3 +5437,4 @@
 11761. feat: implement quiz timer feature #11761
 7895. refactor: refactor quiz grading logic #7895
 83693. test: increase coverage on auth module #83693
+95590. fix: resolve issue with date parsing #95590

@@ -3458,3 +3458,4 @@
 86153. perf: cache repeated calculations #86153
 29317. style: reformat files with black #29317
 91859. feat: enable dark mode toggle #91859
+25322. docs: update README with setup steps #25322

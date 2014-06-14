@@ -4462,3 +4462,4 @@
 74825. feat: implement quiz timer feature #74825
 82693. docs: clarify environment setup #82693
 28168. test: mock database connection in test suite #28168
+98630. perf: optimize database query for quiz results #98630

@@ -5436,3 +5436,4 @@
 70847. perf: cache repeated calculations #70847
 11761. feat: implement quiz timer feature #11761
 7895. refactor: refactor quiz grading logic #7895
+83693. test: increase coverage on auth module #83693

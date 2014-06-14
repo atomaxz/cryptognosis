@@ -3457,3 +3457,4 @@
 89453. feat: support email verification #89453
 86153. perf: cache repeated calculations #86153
 29317. style: reformat files with black #29317
+91859. feat: enable dark mode toggle #91859

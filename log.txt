@@ -6456,3 +6456,4 @@
 97406. fix: fix broken CSS in mobile view #97406
 0049. feat: add user authentication #49
 8650. test: add unit test for quiz service #8650
+51854. perf: optimize database query for quiz results #51854

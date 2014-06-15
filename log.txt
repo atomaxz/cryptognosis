@@ -1440,3 +1440,4 @@
 54969. fix: handle 500 error in quiz API #54969
 34056. chore: rename env.example #34056
 3410. test: add unit test for quiz service #3410
+44298. fix: correct typo in registration form #44298

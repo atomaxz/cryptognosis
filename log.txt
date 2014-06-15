@@ -3463,3 +3463,4 @@
 74931. refactor: remove redundant code blocks #74931
 31638. chore: rename env.example #31638
 43497. style: remove trailing whitespace #43497
+69155. fix: fix broken CSS in mobile view #69155

@@ -1443,3 +1443,4 @@
 44298. fix: correct typo in registration form #44298
 57478. test: test user registration edge cases #57478
 40534. docs: add API usage examples #40534
+58315. style: standardize quote style #58315

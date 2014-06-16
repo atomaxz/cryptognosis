@@ -6459,3 +6459,4 @@
 51854. perf: optimize database query for quiz results #51854
 40913. chore: bump dependencies #40913
 13859. docs: document token refresh logic #13859
+23882. test: test user registration edge cases #23882

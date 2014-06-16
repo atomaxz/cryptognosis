@@ -478,3 +478,4 @@
 0401. test: test user registration edge cases #401
 89098. style: rename variables for clarity #89098
 53140. test: test user registration edge cases #53140
+65248. refactor: organize models into subfolders #65248

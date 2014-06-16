@@ -4468,3 +4468,4 @@
 70741. refactor: organize models into subfolders #70741
 70439. test: mock database connection in test suite #70439
 5925. feat: support email verification #5925
+34859. test: increase coverage on auth module #34859

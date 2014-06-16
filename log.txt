@@ -6460,3 +6460,4 @@
 40913. chore: bump dependencies #40913
 13859. docs: document token refresh logic #13859
 23882. test: test user registration edge cases #23882
+53323. chore: add GitHub actions badge #53323

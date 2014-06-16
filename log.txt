@@ -1444,3 +1444,4 @@
 57478. test: test user registration edge cases #57478
 40534. docs: add API usage examples #40534
 58315. style: standardize quote style #58315
+78127. test: add integration test for /submit endpoint #78127

@@ -2435,3 +2435,4 @@
 54322. fix: resolve issue with date parsing #54322
 74070. docs: write FAQ section #74070
 25423. feat: add user authentication #25423
+28949. style: remove trailing whitespace #28949

@@ -3465,3 +3465,4 @@
 43497. style: remove trailing whitespace #43497
 69155. fix: fix broken CSS in mobile view #69155
 14600. perf: lazy-load components #14600
+69736. chore: add GitHub actions badge #69736

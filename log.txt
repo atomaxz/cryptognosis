@@ -5443,3 +5443,4 @@
 48836. docs: write FAQ section #48836
 1175. feat: implement quiz timer feature #1175
 13199. fix: fix broken CSS in mobile view #13199
+93454. feat: enable dark mode toggle #93454

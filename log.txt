@@ -4471,3 +4471,4 @@
 34859. test: increase coverage on auth module #34859
 55571. feat: add user authentication #55571
 31201. feat: create admin dashboard #31201
+37653. test: add unit test for quiz service #37653

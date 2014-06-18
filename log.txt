@@ -4470,3 +4470,4 @@
 5925. feat: support email verification #5925
 34859. test: increase coverage on auth module #34859
 55571. feat: add user authentication #55571
+31201. feat: create admin dashboard #31201

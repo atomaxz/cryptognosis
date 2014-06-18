@@ -5446,3 +5446,4 @@
 93454. feat: enable dark mode toggle #93454
 72232. fix: fix broken CSS in mobile view #72232
 38207. perf: optimize database query for quiz results #38207
+69797. perf: optimize database query for quiz results #69797

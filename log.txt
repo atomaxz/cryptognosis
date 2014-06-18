@@ -6463,3 +6463,4 @@
 53323. chore: add GitHub actions badge #53323
 46340. docs: document token refresh logic #46340
 30755. refactor: clean up auth middleware #30755
+81487. test: increase coverage on auth module #81487

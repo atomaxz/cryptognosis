@@ -1452,3 +1452,4 @@
 88471. perf: lazy-load components #88471
 88043. docs: add API usage examples #88043
 13812. style: apply consistent indentation #13812
+1206. test: test user registration edge cases #1206

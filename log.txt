@@ -3477,3 +3477,4 @@
 1884. refactor: remove redundant code blocks #1884
 58022. docs: add API usage examples #58022
 54245. chore: update .gitignore #54245
+3939. chore: add GitHub actions badge #3939

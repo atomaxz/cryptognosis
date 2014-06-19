@@ -1458,3 +1458,4 @@
 64550. fix: fix null pointer exception on login #64550
 14719. perf: reduce image load time #14719
 79050. fix: handle 500 error in quiz API #79050
+26572. refactor: clean up auth middleware #26572

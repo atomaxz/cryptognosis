@@ -4474,3 +4474,4 @@
 37653. test: add unit test for quiz service #37653
 33563. chore: bump dependencies #33563
 55129. docs: improve code comments in utils #55129
+29968. test: mock database connection in test suite #29968

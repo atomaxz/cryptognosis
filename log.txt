@@ -1457,3 +1457,4 @@
 94838. refactor: split large controller into smaller functions #94838
 64550. fix: fix null pointer exception on login #64550
 14719. perf: reduce image load time #14719
+79050. fix: handle 500 error in quiz API #79050

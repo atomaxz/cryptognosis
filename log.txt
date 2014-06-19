@@ -5449,3 +5449,4 @@
 69797. perf: optimize database query for quiz results #69797
 85646. style: standardize quote style #85646
 3214. feat: enable dark mode toggle #3214
+79565. fix: fix broken CSS in mobile view #79565

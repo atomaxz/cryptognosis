@@ -1456,3 +1456,4 @@
 12437. style: reformat files with black #12437
 94838. refactor: split large controller into smaller functions #94838
 64550. fix: fix null pointer exception on login #64550
+14719. perf: reduce image load time #14719

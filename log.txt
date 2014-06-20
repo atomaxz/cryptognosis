@@ -486,3 +486,4 @@
 93809. refactor: remove redundant code blocks #93809
 50328. style: rename variables for clarity #50328
 80063. docs: improve code comments in utils #80063
+5388. test: test user registration edge cases #5388

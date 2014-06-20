@@ -5452,3 +5452,4 @@
 79565. fix: fix broken CSS in mobile view #79565
 8131. refactor: refactor quiz grading logic #8131
 37604. perf: reduce image load time #37604
+86389. test: test user registration edge cases #86389

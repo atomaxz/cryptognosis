@@ -2448,3 +2448,4 @@
 14241. perf: cache repeated calculations #14241
 64305. docs: clarify environment setup #64305
 26381. docs: update README with setup steps #26381
+19738. fix: fix null pointer exception on login #19738

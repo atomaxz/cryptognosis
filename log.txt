@@ -6472,3 +6472,4 @@
 29350. chore: add GitHub actions badge #29350
 59795. feat: add user authentication #59795
 70517. fix: resolve issue with date parsing #70517
+97813. perf: optimize database query for quiz results #97813

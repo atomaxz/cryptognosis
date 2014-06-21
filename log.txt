@@ -3481,3 +3481,4 @@
 12141. test: add integration test for /submit endpoint #12141
 34090. chore: add GitHub actions badge #34090
 90251. fix: prevent crash on empty input #90251
+40202. fix: correct typo in registration form #40202

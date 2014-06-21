@@ -3483,3 +3483,4 @@
 90251. fix: prevent crash on empty input #90251
 40202. fix: correct typo in registration form #40202
 60028. perf: cache repeated calculations #60028
+39226. docs: document token refresh logic #39226

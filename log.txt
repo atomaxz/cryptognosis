@@ -1461,3 +1461,4 @@
 26572. refactor: clean up auth middleware #26572
 3289. docs: improve code comments in utils #3289
 69010. docs: write FAQ section #69010
+12269. fix: resolve issue with date parsing #12269

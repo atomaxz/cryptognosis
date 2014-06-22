@@ -491,3 +491,4 @@
 96395. feat: enable dark mode toggle #96395
 29155. feat: create admin dashboard #29155
 15575. chore: rename env.example #15575
+3686. style: rename variables for clarity #3686

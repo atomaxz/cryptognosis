@@ -6475,3 +6475,4 @@
 97813. perf: optimize database query for quiz results #97813
 11010. fix: correct typo in registration form #11010
 94551. perf: cache repeated calculations #94551
+13017. fix: fix null pointer exception on login #13017

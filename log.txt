@@ -6477,3 +6477,4 @@
 94551. perf: cache repeated calculations #94551
 13017. fix: fix null pointer exception on login #13017
 90139. fix: correct typo in registration form #90139
+48339. fix: resolve issue with date parsing #48339

@@ -6479,3 +6479,4 @@
 90139. fix: correct typo in registration form #90139
 48339. fix: resolve issue with date parsing #48339
 93811. docs: add API usage examples #93811
+5791. chore: update .gitignore #5791

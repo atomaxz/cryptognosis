@@ -2451,3 +2451,4 @@
 19738. fix: fix null pointer exception on login #19738
 23773. test: add integration test for /submit endpoint #23773
 29330. style: remove trailing whitespace #29330
+1506. chore: add GitHub actions badge #1506

@@ -3488,3 +3488,4 @@
 2661. perf: reduce image load time #2661
 44862. refactor: organize models into subfolders #44862
 0368. feat: create admin dashboard #368
+4944. docs: write FAQ section #4944

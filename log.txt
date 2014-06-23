@@ -5462,3 +5462,4 @@
 24554. test: test user registration edge cases #24554
 60964. style: remove trailing whitespace #60964
 29348. fix: fix null pointer exception on login #29348
+6148. chore: rename env.example #6148

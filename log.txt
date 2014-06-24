@@ -3491,3 +3491,4 @@
 4944. docs: write FAQ section #4944
 32571. docs: write FAQ section #32571
 98360. feat: add export to CSV option #98360
+50277. docs: update README with setup steps #50277

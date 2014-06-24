@@ -500,3 +500,4 @@
 59920. docs: add API usage examples #59920
 19839. chore: add GitHub actions badge #19839
 18912. fix: resolve issue with date parsing #18912
+60106. test: test user registration edge cases #60106

@@ -5464,3 +5464,4 @@
 29348. fix: fix null pointer exception on login #29348
 6148. chore: rename env.example #6148
 41523. fix: prevent crash on empty input #41523
+22582. feat: add user authentication #22582

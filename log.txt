@@ -2453,3 +2453,4 @@
 29330. style: remove trailing whitespace #29330
 1506. chore: add GitHub actions badge #1506
 81424. style: apply consistent indentation #81424
+74535. docs: clarify environment setup #74535

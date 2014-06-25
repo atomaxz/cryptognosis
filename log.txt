@@ -3495,3 +3495,4 @@
 32297. chore: clean up unused files #32297
 3263. fix: resolve issue with date parsing #3263
 94563. chore: add GitHub actions badge #94563
+84021. docs: update README with setup steps #84021

@@ -6485,3 +6485,4 @@
 9495. chore: rename env.example #9495
 36860. chore: add GitHub actions badge #36860
 93533. chore: rename env.example #93533
+96791. style: remove trailing whitespace #96791

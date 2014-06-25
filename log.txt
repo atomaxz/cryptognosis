@@ -503,3 +503,4 @@
 60106. test: test user registration edge cases #60106
 88118. docs: improve code comments in utils #88118
 18117. refactor: organize models into subfolders #18117
+35179. fix: correct typo in registration form #35179

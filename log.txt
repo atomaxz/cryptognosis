@@ -3497,3 +3497,4 @@
 94563. chore: add GitHub actions badge #94563
 84021. docs: update README with setup steps #84021
 21069. docs: write FAQ section #21069
+72116. chore: rename env.example #72116

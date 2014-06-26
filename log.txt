@@ -1472,3 +1472,4 @@
 57431. feat: create admin dashboard #57431
 46521. refactor: organize models into subfolders #46521
 66891. style: apply consistent indentation #66891
+18694. chore: update .gitignore #18694

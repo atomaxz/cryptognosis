@@ -3498,3 +3498,4 @@
 84021. docs: update README with setup steps #84021
 21069. docs: write FAQ section #21069
 72116. chore: rename env.example #72116
+64832. chore: bump dependencies #64832

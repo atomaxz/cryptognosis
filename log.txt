@@ -4495,3 +4495,4 @@
 3285. perf: lazy-load components #3285
 88963. docs: improve code comments in utils #88963
 70763. perf: lazy-load components #70763
+43754. fix: fix broken CSS in mobile view #43754

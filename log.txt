@@ -4494,3 +4494,4 @@
 80008. chore: update .gitignore #80008
 3285. perf: lazy-load components #3285
 88963. docs: improve code comments in utils #88963
+70763. perf: lazy-load components #70763

@@ -1476,3 +1476,4 @@
 83791. perf: reduce image load time #83791
 98403. docs: write FAQ section #98403
 75498. refactor: clean up auth middleware #75498
+98309. docs: improve code comments in utils #98309

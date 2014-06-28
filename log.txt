@@ -4502,3 +4502,4 @@
 98616. refactor: organize models into subfolders #98616
 78096. perf: optimize database query for quiz results #78096
 25583. chore: add GitHub actions badge #25583
+49957. feat: enable dark mode toggle #49957

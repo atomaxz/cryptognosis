@@ -3502,3 +3502,4 @@
 12929. test: mock database connection in test suite #12929
 92449. test: add integration test for /submit endpoint #92449
 23148. refactor: clean up auth middleware #23148
+97975. feat: enable dark mode toggle #97975

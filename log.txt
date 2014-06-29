@@ -1479,3 +1479,4 @@
 98309. docs: improve code comments in utils #98309
 76796. style: rename variables for clarity #76796
 99910. fix: fix broken CSS in mobile view #99910
+54794. fix: handle 500 error in quiz API #54794

@@ -513,3 +513,4 @@
 52638. test: add unit test for quiz service #52638
 7822. style: standardize quote style #7822
 85550. test: test user registration edge cases #85550
+50237. docs: add API usage examples #50237

@@ -2465,3 +2465,4 @@
 79733. perf: lazy-load components #79733
 67290. chore: clean up unused files #67290
 23216. refactor: split large controller into smaller functions #23216
+51242. fix: correct typo in registration form #51242

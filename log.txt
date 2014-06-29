@@ -4504,3 +4504,4 @@
 25583. chore: add GitHub actions badge #25583
 49957. feat: enable dark mode toggle #49957
 45856. docs: clarify environment setup #45856
+72981. style: apply consistent indentation #72981

@@ -4509,3 +4509,4 @@
 41482. style: apply consistent indentation #41482
 94482. test: increase coverage on auth module #94482
 78900. fix: prevent crash on empty input #78900
+83206. fix: prevent crash on empty input #83206

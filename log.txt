@@ -6496,3 +6496,4 @@
 34053. chore: rename env.example #34053
 61731. perf: optimize database query for quiz results #61731
 0060. refactor: organize models into subfolders #60
+49406. chore: update .gitignore #49406

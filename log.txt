@@ -5484,3 +5484,4 @@
 88198. refactor: refactor quiz grading logic #88198
 82910. chore: update .gitignore #82910
 48838. feat: support email verification #48838
+36402. fix: fix broken CSS in mobile view #36402

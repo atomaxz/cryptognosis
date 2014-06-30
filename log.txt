@@ -6498,3 +6498,4 @@
 0060. refactor: organize models into subfolders #60
 49406. chore: update .gitignore #49406
 30687. test: test user registration edge cases #30687
+58768. style: remove trailing whitespace #58768

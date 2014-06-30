@@ -3504,3 +3504,4 @@
 23148. refactor: clean up auth middleware #23148
 97975. feat: enable dark mode toggle #97975
 5929. docs: write FAQ section #5929
+18433. test: mock database connection in test suite #18433

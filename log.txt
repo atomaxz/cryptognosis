@@ -1482,3 +1482,4 @@
 54794. fix: handle 500 error in quiz API #54794
 34367. test: add unit test for quiz service #34367
 79996. chore: bump dependencies #79996
+86883. test: increase coverage on auth module #86883

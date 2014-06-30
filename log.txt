@@ -4511,3 +4511,4 @@
 78900. fix: prevent crash on empty input #78900
 83206. fix: prevent crash on empty input #83206
 7946. feat: create admin dashboard #7946
+80354. fix: resolve issue with date parsing #80354

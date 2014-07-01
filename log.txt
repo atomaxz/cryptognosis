@@ -3505,3 +3505,4 @@
 97975. feat: enable dark mode toggle #97975
 5929. docs: write FAQ section #5929
 18433. test: mock database connection in test suite #18433
+99811. fix: fix null pointer exception on login #99811

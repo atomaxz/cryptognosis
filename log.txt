@@ -4516,3 +4516,4 @@
 7381. perf: cache repeated calculations #7381
 45047. docs: improve code comments in utils #45047
 2701. fix: correct typo in registration form #2701
+53588. test: test user registration edge cases #53588

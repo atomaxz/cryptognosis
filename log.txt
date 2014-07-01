@@ -4519,3 +4519,4 @@
 53588. test: test user registration edge cases #53588
 8888. docs: document token refresh logic #8888
 23590. fix: fix broken CSS in mobile view #23590
+57192. feat: add user authentication #57192

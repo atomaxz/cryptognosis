@@ -1484,3 +1484,4 @@
 79996. chore: bump dependencies #79996
 86883. test: increase coverage on auth module #86883
 33433. test: add integration test for /submit endpoint #33433
+6367. perf: reduce image load time #6367

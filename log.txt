@@ -523,3 +523,4 @@
 23973. docs: clarify environment setup #23973
 11202. refactor: clean up auth middleware #11202
 36845. test: add unit test for quiz service #36845
+18897. test: add integration test for /submit endpoint #18897

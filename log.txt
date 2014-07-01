@@ -524,3 +524,4 @@
 11202. refactor: clean up auth middleware #11202
 36845. test: add unit test for quiz service #36845
 18897. test: add integration test for /submit endpoint #18897
+58597. docs: write FAQ section #58597

@@ -4518,3 +4518,4 @@
 2701. fix: correct typo in registration form #2701
 53588. test: test user registration edge cases #53588
 8888. docs: document token refresh logic #8888
+23590. fix: fix broken CSS in mobile view #23590

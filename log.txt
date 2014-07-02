@@ -5488,3 +5488,4 @@
 84758. fix: prevent crash on empty input #84758
 16052. perf: cache repeated calculations #16052
 39972. fix: resolve issue with date parsing #39972
+12464. chore: bump dependencies #12464

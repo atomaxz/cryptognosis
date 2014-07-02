@@ -532,3 +532,4 @@
 49703. perf: lazy-load components #49703
 23236. feat: add user authentication #23236
 51835. docs: improve code comments in utils #51835
+35406. feat: add user authentication #35406

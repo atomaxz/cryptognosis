@@ -529,3 +529,4 @@
 34670. chore: clean up unused files #34670
 92012. fix: fix broken CSS in mobile view #92012
 37615. test: increase coverage on auth module #37615
+49703. perf: lazy-load components #49703

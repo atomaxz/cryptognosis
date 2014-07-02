@@ -1486,3 +1486,4 @@
 33433. test: add integration test for /submit endpoint #33433
 6367. perf: reduce image load time #6367
 3385. docs: update README with setup steps #3385
+57269. fix: handle 500 error in quiz API #57269

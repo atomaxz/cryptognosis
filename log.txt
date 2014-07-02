@@ -527,3 +527,4 @@
 58597. docs: write FAQ section #58597
 16490. perf: lazy-load components #16490
 34670. chore: clean up unused files #34670
+92012. fix: fix broken CSS in mobile view #92012

@@ -5490,3 +5490,4 @@
 39972. fix: resolve issue with date parsing #39972
 12464. chore: bump dependencies #12464
 41201. perf: lazy-load components #41201
+15395. feat: add user authentication #15395

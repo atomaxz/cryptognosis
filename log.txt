@@ -2475,3 +2475,4 @@
 54939. fix: correct typo in registration form #54939
 37910. test: add integration test for /submit endpoint #37910
 64382. chore: rename env.example #64382
+95774. fix: handle 500 error in quiz API #95774

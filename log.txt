@@ -2481,3 +2481,4 @@
 64846. style: rename variables for clarity #64846
 36344. feat: enable dark mode toggle #36344
 22588. feat: add export to CSV option #22588
+83432. perf: lazy-load components #83432

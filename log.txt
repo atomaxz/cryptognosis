@@ -4521,3 +4521,4 @@
 23590. fix: fix broken CSS in mobile view #23590
 57192. feat: add user authentication #57192
 13777. docs: add API usage examples #13777
+68674. docs: document token refresh logic #68674

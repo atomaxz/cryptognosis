@@ -4523,3 +4523,4 @@
 13777. docs: add API usage examples #13777
 68674. docs: document token refresh logic #68674
 92542. chore: add GitHub actions badge #92542
+60199. feat: enable dark mode toggle #60199

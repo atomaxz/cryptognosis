@@ -535,3 +535,4 @@
 35406. feat: add user authentication #35406
 36047. test: increase coverage on auth module #36047
 32345. fix: correct typo in registration form #32345
+16326. test: increase coverage on auth module #16326

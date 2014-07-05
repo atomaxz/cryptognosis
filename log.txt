@@ -538,3 +538,4 @@
 16326. test: increase coverage on auth module #16326
 70461. refactor: split large controller into smaller functions #70461
 72171. test: increase coverage on auth module #72171
+67899. feat: create admin dashboard #67899

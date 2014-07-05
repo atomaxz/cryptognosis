@@ -536,3 +536,4 @@
 36047. test: increase coverage on auth module #36047
 32345. fix: correct typo in registration form #32345
 16326. test: increase coverage on auth module #16326
+70461. refactor: split large controller into smaller functions #70461

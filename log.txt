@@ -5503,3 +5503,4 @@
 17748. refactor: organize models into subfolders #17748
 7863. refactor: clean up auth middleware #7863
 93003. refactor: remove redundant code blocks #93003
+34225. fix: correct typo in registration form #34225

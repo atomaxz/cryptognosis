@@ -2490,3 +2490,4 @@
 37092. style: apply consistent indentation #37092
 45988. docs: clarify environment setup #45988
 94257. docs: document token refresh logic #94257
+86950. test: mock database connection in test suite #86950

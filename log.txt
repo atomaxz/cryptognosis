@@ -6508,3 +6508,4 @@
 79980. perf: optimize database query for quiz results #79980
 27925. chore: add GitHub actions badge #27925
 46612. feat: add user authentication #46612
+72252. refactor: split large controller into smaller functions #72252

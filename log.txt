@@ -6512,3 +6512,4 @@
 3780. perf: optimize database query for quiz results #3780
 6271. perf: reduce image load time #6271
 41975. docs: clarify environment setup #41975
+64497. feat: add export to CSV option #64497

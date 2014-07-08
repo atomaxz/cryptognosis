@@ -2493,3 +2493,4 @@
 86950. test: mock database connection in test suite #86950
 76605. style: reformat files with black #76605
 7968. docs: update README with setup steps #7968
+67348. perf: optimize database query for quiz results #67348

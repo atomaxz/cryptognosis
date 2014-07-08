@@ -5505,3 +5505,4 @@
 93003. refactor: remove redundant code blocks #93003
 34225. fix: correct typo in registration form #34225
 51833. docs: add API usage examples #51833
+64426. docs: update README with setup steps #64426

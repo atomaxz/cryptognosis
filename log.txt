@@ -3514,3 +3514,4 @@
 16698. docs: document token refresh logic #16698
 70262. style: apply consistent indentation #70262
 41117. fix: fix broken CSS in mobile view #41117
+47251. fix: fix broken CSS in mobile view #47251

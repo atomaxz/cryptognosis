@@ -5508,3 +5508,4 @@
 64426. docs: update README with setup steps #64426
 70687. chore: bump dependencies #70687
 94717. style: reformat files with black #94717
+38028. test: test user registration edge cases #38028

@@ -1508,3 +1508,4 @@
 55777. refactor: refactor quiz grading logic #55777
 57242. refactor: split large controller into smaller functions #57242
 48790. fix: correct typo in registration form #48790
+11415. docs: document token refresh logic #11415

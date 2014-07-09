@@ -1509,3 +1509,4 @@
 57242. refactor: split large controller into smaller functions #57242
 48790. fix: correct typo in registration form #48790
 11415. docs: document token refresh logic #11415
+63487. fix: fix null pointer exception on login #63487

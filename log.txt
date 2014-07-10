@@ -3518,3 +3518,4 @@
 79312. fix: resolve issue with date parsing #79312
 43668. refactor: organize models into subfolders #43668
 59205. docs: clarify environment setup #59205
+64815. refactor: clean up auth middleware #64815

@@ -1512,3 +1512,4 @@
 63487. fix: fix null pointer exception on login #63487
 24068. docs: document token refresh logic #24068
 32550. docs: improve code comments in utils #32550
+22537. test: increase coverage on auth module #22537

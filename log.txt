@@ -6520,3 +6520,4 @@
 50977. chore: add GitHub actions badge #50977
 72319. refactor: refactor quiz grading logic #72319
 57643. test: add integration test for /submit endpoint #57643
+98809. refactor: clean up auth middleware #98809

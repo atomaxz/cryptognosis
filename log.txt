@@ -5514,3 +5514,4 @@
 44206. perf: cache repeated calculations #44206
 88102. test: increase coverage on auth module #88102
 70670. refactor: clean up auth middleware #70670
+6440. refactor: remove redundant code blocks #6440

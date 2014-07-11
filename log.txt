@@ -5516,3 +5516,4 @@
 70670. refactor: clean up auth middleware #70670
 6440. refactor: remove redundant code blocks #6440
 51203. refactor: organize models into subfolders #51203
+55848. fix: fix broken CSS in mobile view #55848

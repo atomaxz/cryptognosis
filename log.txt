@@ -6522,3 +6522,4 @@
 57643. test: add integration test for /submit endpoint #57643
 98809. refactor: clean up auth middleware #98809
 70515. style: apply consistent indentation #70515
+85558. refactor: remove redundant code blocks #85558

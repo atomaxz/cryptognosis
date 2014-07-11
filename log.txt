@@ -2504,3 +2504,4 @@
 34206. docs: add API usage examples #34206
 78225. fix: fix broken CSS in mobile view #78225
 47179. fix: prevent crash on empty input #47179
+62451. docs: update README with setup steps #62451

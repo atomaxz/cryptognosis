@@ -2503,3 +2503,4 @@
 43828. feat: implement quiz timer feature #43828
 34206. docs: add API usage examples #34206
 78225. fix: fix broken CSS in mobile view #78225
+47179. fix: prevent crash on empty input #47179

@@ -1514,3 +1514,4 @@
 32550. docs: improve code comments in utils #32550
 22537. test: increase coverage on auth module #22537
 27275. style: remove trailing whitespace #27275
+29647. feat: support email verification #29647

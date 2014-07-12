@@ -4535,3 +4535,4 @@
 54674. test: add unit test for quiz service #54674
 10815. feat: add export to CSV option #10815
 40080. refactor: organize models into subfolders #40080
+28970. feat: add user authentication #28970

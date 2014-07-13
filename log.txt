@@ -5521,3 +5521,4 @@
 5302. refactor: refactor quiz grading logic #5302
 13623. test: add integration test for /submit endpoint #13623
 27775. test: mock database connection in test suite #27775
+23064. refactor: remove redundant code blocks #23064

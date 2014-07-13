@@ -6529,3 +6529,4 @@
 21359. feat: add export to CSV option #21359
 27891. refactor: refactor quiz grading logic #27891
 23759. chore: clean up unused files #23759
+97015. fix: fix null pointer exception on login #97015

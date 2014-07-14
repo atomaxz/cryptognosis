@@ -561,3 +561,4 @@
 41923. fix: fix broken CSS in mobile view #41923
 44429. docs: clarify environment setup #44429
 35748. feat: add user authentication #35748
+50746. chore: rename env.example #50746

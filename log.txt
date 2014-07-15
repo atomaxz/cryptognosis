@@ -2514,3 +2514,4 @@
 72045. docs: update README with setup steps #72045
 54519. perf: lazy-load components #54519
 95019. docs: clarify environment setup #95019
+37984. feat: enable dark mode toggle #37984

@@ -2512,3 +2512,4 @@
 48885. chore: update .gitignore #48885
 68194. refactor: clean up auth middleware #68194
 72045. docs: update README with setup steps #72045
+54519. perf: lazy-load components #54519

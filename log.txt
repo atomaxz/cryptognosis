@@ -1525,3 +1525,4 @@
 26131. test: mock database connection in test suite #26131
 64713. fix: correct typo in registration form #64713
 45572. refactor: organize models into subfolders #45572
+70774. test: increase coverage on auth module #70774

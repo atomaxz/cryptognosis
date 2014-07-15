@@ -4544,3 +4544,4 @@
 13225. test: test user registration edge cases #13225
 16138. feat: support email verification #16138
 37360. test: increase coverage on auth module #37360
+75138. feat: create admin dashboard #75138

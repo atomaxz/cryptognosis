@@ -3531,3 +3531,4 @@
 41881. perf: reduce image load time #41881
 27272. chore: add GitHub actions badge #27272
 12305. chore: add GitHub actions badge #12305
+84689. perf: reduce image load time #84689

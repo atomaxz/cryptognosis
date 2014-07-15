@@ -565,3 +565,4 @@
 31580. refactor: split large controller into smaller functions #31580
 38312. style: standardize quote style #38312
 63669. feat: add export to CSV option #63669
+64798. perf: lazy-load components #64798

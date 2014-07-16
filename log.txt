@@ -4549,3 +4549,4 @@
 0187. test: mock database connection in test suite #187
 67004. style: apply consistent indentation #67004
 20943. style: apply consistent indentation #20943
+69305. feat: support email verification #69305

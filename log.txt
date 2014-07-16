@@ -6536,3 +6536,4 @@
 77353. refactor: organize models into subfolders #77353
 59905. docs: document token refresh logic #59905
 79913. fix: handle 500 error in quiz API #79913
+69714. fix: fix null pointer exception on login #69714

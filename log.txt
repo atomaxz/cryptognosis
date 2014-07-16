@@ -4550,3 +4550,4 @@
 67004. style: apply consistent indentation #67004
 20943. style: apply consistent indentation #20943
 69305. feat: support email verification #69305
+20004. docs: update README with setup steps #20004

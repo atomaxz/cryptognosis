@@ -4546,3 +4546,4 @@
 37360. test: increase coverage on auth module #37360
 75138. feat: create admin dashboard #75138
 85698. style: remove trailing whitespace #85698
+0187. test: mock database connection in test suite #187

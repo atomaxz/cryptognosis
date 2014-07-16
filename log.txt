@@ -6538,3 +6538,4 @@
 79913. fix: handle 500 error in quiz API #79913
 69714. fix: fix null pointer exception on login #69714
 51193. feat: add user authentication #51193
+79802. chore: bump dependencies #79802

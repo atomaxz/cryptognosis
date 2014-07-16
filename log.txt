@@ -6535,3 +6535,4 @@
 99620. refactor: split large controller into smaller functions #99620
 77353. refactor: organize models into subfolders #77353
 59905. docs: document token refresh logic #59905
+79913. fix: handle 500 error in quiz API #79913

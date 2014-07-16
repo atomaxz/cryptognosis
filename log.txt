@@ -574,3 +574,4 @@
 15539. style: remove trailing whitespace #15539
 23143. fix: handle 500 error in quiz API #23143
 95507. feat: enable dark mode toggle #95507
+23139. perf: reduce image load time #23139

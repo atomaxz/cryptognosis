@@ -572,3 +572,4 @@
 64027. chore: bump dependencies #64027
 39924. fix: correct typo in registration form #39924
 15539. style: remove trailing whitespace #15539
+23143. fix: handle 500 error in quiz API #23143

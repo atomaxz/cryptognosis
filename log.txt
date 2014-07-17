@@ -3538,3 +3538,4 @@
 92378. style: reformat files with black #92378
 71389. refactor: split large controller into smaller functions #71389
 9822. docs: document token refresh logic #9822
+79044. docs: write FAQ section #79044

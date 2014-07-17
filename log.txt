@@ -6541,3 +6541,4 @@
 79802. chore: bump dependencies #79802
 63986. feat: support email verification #63986
 5835. docs: improve code comments in utils #5835
+15842. docs: clarify environment setup #15842

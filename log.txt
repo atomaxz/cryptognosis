@@ -2518,3 +2518,4 @@
 20612. refactor: refactor quiz grading logic #20612
 88813. docs: clarify environment setup #88813
 48380. test: test user registration edge cases #48380
+2861. feat: enable dark mode toggle #2861

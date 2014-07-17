@@ -1531,3 +1531,4 @@
 62805. feat: add user authentication #62805
 77485. perf: cache repeated calculations #77485
 97312. docs: document token refresh logic #97312
+26811. style: apply consistent indentation #26811

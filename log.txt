@@ -6546,3 +6546,4 @@
 17741. chore: bump dependencies #17741
 92056. fix: correct typo in registration form #92056
 21989. refactor: organize models into subfolders #21989
+42913. test: increase coverage on auth module #42913

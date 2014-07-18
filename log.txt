@@ -1532,3 +1532,4 @@
 77485. perf: cache repeated calculations #77485
 97312. docs: document token refresh logic #97312
 26811. style: apply consistent indentation #26811
+5173. docs: write FAQ section #5173

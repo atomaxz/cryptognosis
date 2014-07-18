@@ -5536,3 +5536,4 @@
 90705. refactor: refactor quiz grading logic #90705
 92655. style: apply consistent indentation #92655
 31929. style: standardize quote style #31929
+14997. perf: reduce image load time #14997

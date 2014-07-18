@@ -2521,3 +2521,4 @@
 2861. feat: enable dark mode toggle #2861
 12348. feat: create admin dashboard #12348
 76971. test: test user registration edge cases #76971
+46530. refactor: remove redundant code blocks #46530

@@ -3542,3 +3542,4 @@
 66976. feat: enable dark mode toggle #66976
 86985. perf: cache repeated calculations #86985
 70285. perf: lazy-load components #70285
+67940. style: remove trailing whitespace #67940

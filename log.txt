@@ -6553,3 +6553,4 @@
 42794. feat: add export to CSV option #42794
 7352. fix: fix null pointer exception on login #7352
 9960. feat: implement quiz timer feature #9960
+42314. test: mock database connection in test suite #42314

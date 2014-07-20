@@ -2527,3 +2527,4 @@
 82381. feat: add export to CSV option #82381
 27029. test: mock database connection in test suite #27029
 82135. fix: resolve issue with date parsing #82135
+31948. chore: add GitHub actions badge #31948

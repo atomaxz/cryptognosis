@@ -2526,3 +2526,4 @@
 71875. docs: improve code comments in utils #71875
 82381. feat: add export to CSV option #82381
 27029. test: mock database connection in test suite #27029
+82135. fix: resolve issue with date parsing #82135

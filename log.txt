@@ -1536,3 +1536,4 @@
 62181. docs: clarify environment setup #62181
 12901. refactor: refactor quiz grading logic #12901
 79619. fix: handle 500 error in quiz API #79619
+90900. fix: fix null pointer exception on login #90900

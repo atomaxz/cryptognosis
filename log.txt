@@ -1538,3 +1538,4 @@
 79619. fix: handle 500 error in quiz API #79619
 90900. fix: fix null pointer exception on login #90900
 56842. style: apply consistent indentation #56842
+12517. perf: reduce image load time #12517

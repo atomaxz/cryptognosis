@@ -2533,3 +2533,4 @@
 85729. style: apply consistent indentation #85729
 18233. fix: resolve issue with date parsing #18233
 67089. chore: add GitHub actions badge #67089
+5747. refactor: clean up auth middleware #5747

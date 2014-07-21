@@ -2530,3 +2530,4 @@
 31948. chore: add GitHub actions badge #31948
 63132. feat: enable dark mode toggle #63132
 38929. perf: reduce image load time #38929
+85729. style: apply consistent indentation #85729

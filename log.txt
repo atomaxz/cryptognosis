@@ -5545,3 +5545,4 @@
 76374. refactor: refactor quiz grading logic #76374
 49782. perf: lazy-load components #49782
 82534. docs: document token refresh logic #82534
+72218. chore: add GitHub actions badge #72218

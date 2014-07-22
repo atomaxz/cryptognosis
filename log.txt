@@ -2535,3 +2535,4 @@
 67089. chore: add GitHub actions badge #67089
 5747. refactor: clean up auth middleware #5747
 48098. fix: handle 500 error in quiz API #48098
+74016. feat: create admin dashboard #74016

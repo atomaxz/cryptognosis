@@ -2536,3 +2536,4 @@
 5747. refactor: clean up auth middleware #5747
 48098. fix: handle 500 error in quiz API #48098
 74016. feat: create admin dashboard #74016
+61511. test: mock database connection in test suite #61511

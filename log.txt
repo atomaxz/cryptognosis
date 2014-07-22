@@ -5546,3 +5546,4 @@
 49782. perf: lazy-load components #49782
 82534. docs: document token refresh logic #82534
 72218. chore: add GitHub actions badge #72218
+12978. fix: correct typo in registration form #12978

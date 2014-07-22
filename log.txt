@@ -1542,3 +1542,4 @@
 20012. refactor: refactor quiz grading logic #20012
 73396. style: standardize quote style #73396
 72292. chore: update .gitignore #72292
+1602. test: increase coverage on auth module #1602

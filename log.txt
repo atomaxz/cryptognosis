@@ -2539,3 +2539,4 @@
 61511. test: mock database connection in test suite #61511
 57324. chore: update .gitignore #57324
 71612. perf: lazy-load components #71612
+93631. docs: update README with setup steps #93631

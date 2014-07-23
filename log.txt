@@ -3557,3 +3557,4 @@
 19083. style: apply consistent indentation #19083
 25295. feat: create admin dashboard #25295
 77788. refactor: refactor quiz grading logic #77788
+80719. test: add integration test for /submit endpoint #80719

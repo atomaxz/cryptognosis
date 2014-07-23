@@ -1543,3 +1543,4 @@
 73396. style: standardize quote style #73396
 72292. chore: update .gitignore #72292
 1602. test: increase coverage on auth module #1602
+33625. style: apply consistent indentation #33625

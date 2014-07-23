@@ -2538,3 +2538,4 @@
 74016. feat: create admin dashboard #74016
 61511. test: mock database connection in test suite #61511
 57324. chore: update .gitignore #57324
+71612. perf: lazy-load components #71612

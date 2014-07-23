@@ -6565,3 +6565,4 @@
 53277. feat: enable dark mode toggle #53277
 54946. docs: document token refresh logic #54946
 42630. docs: update README with setup steps #42630
+57559. refactor: clean up auth middleware #57559

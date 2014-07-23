@@ -585,3 +585,4 @@
 26603. refactor: remove redundant code blocks #26603
 74350. perf: cache repeated calculations #74350
 90391. docs: document token refresh logic #90391
+17439. fix: handle 500 error in quiz API #17439

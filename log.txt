@@ -6561,3 +6561,4 @@
 81452. style: reformat files with black #81452
 34035. docs: write FAQ section #34035
 92380. refactor: split large controller into smaller functions #92380
+89110. feat: support email verification #89110

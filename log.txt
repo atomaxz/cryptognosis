@@ -4563,3 +4563,4 @@
 2875. perf: reduce image load time #2875
 52040. feat: enable dark mode toggle #52040
 66950. fix: resolve issue with date parsing #66950
+76039. refactor: clean up auth middleware #76039

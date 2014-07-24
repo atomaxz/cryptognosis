@@ -4566,3 +4566,4 @@
 76039. refactor: clean up auth middleware #76039
 29329. refactor: refactor quiz grading logic #29329
 60691. fix: resolve issue with date parsing #60691
+27224. fix: fix broken CSS in mobile view #27224

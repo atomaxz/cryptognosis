@@ -5552,3 +5552,4 @@
 45900. style: reformat files with black #45900
 61242. docs: improve code comments in utils #61242
 23765. docs: write FAQ section #23765
+96188. test: test user registration edge cases #96188

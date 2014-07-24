@@ -1545,3 +1545,4 @@
 1602. test: increase coverage on auth module #1602
 33625. style: apply consistent indentation #33625
 4968. style: standardize quote style #4968
+27639. chore: rename env.example #27639

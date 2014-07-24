@@ -6569,3 +6569,4 @@
 91393. docs: improve code comments in utils #91393
 74843. refactor: refactor quiz grading logic #74843
 14204. docs: update README with setup steps #14204
+82252. fix: handle 500 error in quiz API #82252

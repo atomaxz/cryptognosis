@@ -591,3 +591,4 @@
 65409. docs: write FAQ section #65409
 57304. test: add unit test for quiz service #57304
 60786. test: test user registration edge cases #60786
+76015. docs: document token refresh logic #76015

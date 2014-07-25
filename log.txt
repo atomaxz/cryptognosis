@@ -593,3 +593,4 @@
 60786. test: test user registration edge cases #60786
 76015. docs: document token refresh logic #76015
 60551. perf: cache repeated calculations #60551
+74671. feat: add user authentication #74671

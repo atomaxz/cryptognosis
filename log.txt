@@ -3559,3 +3559,4 @@
 77788. refactor: refactor quiz grading logic #77788
 80719. test: add integration test for /submit endpoint #80719
 47388. perf: cache repeated calculations #47388
+19970. fix: correct typo in registration form #19970

@@ -4571,3 +4571,4 @@
 84373. refactor: refactor quiz grading logic #84373
 90359. refactor: refactor quiz grading logic #90359
 83903. refactor: remove redundant code blocks #83903
+99449. fix: prevent crash on empty input #99449

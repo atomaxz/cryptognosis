@@ -6573,3 +6573,4 @@
 85953. test: add unit test for quiz service #85953
 14235. chore: clean up unused files #14235
 6540. docs: clarify environment setup #6540
+27072. test: test user registration edge cases #27072

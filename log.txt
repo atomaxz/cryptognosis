@@ -601,3 +601,4 @@
 95333. chore: rename env.example #95333
 80969. test: add unit test for quiz service #80969
 58167. chore: bump dependencies #58167
+23207. perf: lazy-load components #23207

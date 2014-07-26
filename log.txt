@@ -2548,3 +2548,4 @@
 93511. chore: clean up unused files #93511
 27573. refactor: clean up auth middleware #27573
 62407. docs: clarify environment setup #62407
+74319. chore: bump dependencies #74319

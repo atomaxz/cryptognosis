@@ -597,3 +597,4 @@
 5211. perf: optimize database query for quiz results #5211
 93892. style: rename variables for clarity #93892
 41975. docs: clarify environment setup #41975
+60375. test: test user registration edge cases #60375

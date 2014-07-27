@@ -5556,3 +5556,4 @@
 59666. refactor: split large controller into smaller functions #59666
 5431. refactor: split large controller into smaller functions #5431
 45964. style: reformat files with black #45964
+7684. docs: update README with setup steps #7684

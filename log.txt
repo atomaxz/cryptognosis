@@ -1553,3 +1553,4 @@
 8320. docs: clarify environment setup #8320
 3424. chore: rename env.example #3424
 26378. chore: bump dependencies #26378
+18363. style: apply consistent indentation #18363

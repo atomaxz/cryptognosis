@@ -602,3 +602,4 @@
 80969. test: add unit test for quiz service #80969
 58167. chore: bump dependencies #58167
 23207. perf: lazy-load components #23207
+55042. fix: fix broken CSS in mobile view #55042

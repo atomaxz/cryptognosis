@@ -4577,3 +4577,4 @@
 9281. feat: implement quiz timer feature #9281
 79655. docs: clarify environment setup #79655
 47976. feat: create admin dashboard #47976
+48794. test: increase coverage on auth module #48794

@@ -6575,3 +6575,4 @@
 6540. docs: clarify environment setup #6540
 27072. test: test user registration edge cases #27072
 51893. chore: rename env.example #51893
+69608. test: increase coverage on auth module #69608

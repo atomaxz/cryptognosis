@@ -606,3 +606,4 @@
 77457. refactor: refactor quiz grading logic #77457
 89028. feat: add export to CSV option #89028
 47417. chore: update .gitignore #47417
+39858. perf: optimize database query for quiz results #39858

@@ -2552,3 +2552,4 @@
 39083. fix: fix broken CSS in mobile view #39083
 42269. test: add integration test for /submit endpoint #42269
 1743. docs: clarify environment setup #1743
+72451. perf: reduce image load time #72451

@@ -6578,3 +6578,4 @@
 69608. test: increase coverage on auth module #69608
 17683. chore: add GitHub actions badge #17683
 84700. test: mock database connection in test suite #84700
+0749. chore: clean up unused files #749

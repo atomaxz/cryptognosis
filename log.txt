@@ -605,3 +605,4 @@
 55042. fix: fix broken CSS in mobile view #55042
 77457. refactor: refactor quiz grading logic #77457
 89028. feat: add export to CSV option #89028
+47417. chore: update .gitignore #47417

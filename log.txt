@@ -5561,3 +5561,4 @@
 28198. perf: cache repeated calculations #28198
 86947. refactor: refactor quiz grading logic #86947
 62370. docs: add API usage examples #62370
+21522. chore: add GitHub actions badge #21522

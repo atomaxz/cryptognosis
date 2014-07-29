@@ -4578,3 +4578,4 @@
 79655. docs: clarify environment setup #79655
 47976. feat: create admin dashboard #47976
 48794. test: increase coverage on auth module #48794
+74161. feat: support email verification #74161

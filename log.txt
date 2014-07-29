@@ -610,3 +610,4 @@
 87569. fix: prevent crash on empty input #87569
 39572. refactor: remove redundant code blocks #39572
 92631. perf: reduce image load time #92631
+79303. perf: optimize database query for quiz results #79303

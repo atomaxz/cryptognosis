@@ -6581,3 +6581,4 @@
 0749. chore: clean up unused files #749
 85846. test: add unit test for quiz service #85846
 69048. feat: support email verification #69048
+77371. perf: optimize database query for quiz results #77371

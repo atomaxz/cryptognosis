@@ -2554,3 +2554,4 @@
 1743. docs: clarify environment setup #1743
 72451. perf: reduce image load time #72451
 59596. style: standardize quote style #59596
+66230. docs: update README with setup steps #66230

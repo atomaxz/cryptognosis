@@ -1561,3 +1561,4 @@
 86220. chore: update .gitignore #86220
 64842. fix: resolve issue with date parsing #64842
 16234. refactor: refactor quiz grading logic #16234
+71173. fix: prevent crash on empty input #71173

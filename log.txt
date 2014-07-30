@@ -1564,3 +1564,4 @@
 71173. fix: prevent crash on empty input #71173
 1207. chore: add GitHub actions badge #1207
 11432. docs: add API usage examples #11432
+31811. fix: correct typo in registration form #31811

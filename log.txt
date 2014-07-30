@@ -6583,3 +6583,4 @@
 69048. feat: support email verification #69048
 77371. perf: optimize database query for quiz results #77371
 61431. style: standardize quote style #61431
+55329. perf: optimize database query for quiz results #55329

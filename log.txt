@@ -4580,3 +4580,4 @@
 48794. test: increase coverage on auth module #48794
 74161. feat: support email verification #74161
 5910. test: add integration test for /submit endpoint #5910
+44446. test: test user registration edge cases #44446

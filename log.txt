@@ -2563,3 +2563,4 @@
 52559. docs: document token refresh logic #52559
 72903. docs: improve code comments in utils #72903
 40921. test: add unit test for quiz service #40921
+29820. fix: fix broken CSS in mobile view #29820

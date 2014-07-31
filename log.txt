@@ -5567,3 +5567,4 @@
 4222. refactor: refactor quiz grading logic #4222
 20558. feat: add user authentication #20558
 12084. test: mock database connection in test suite #12084
+80688. perf: lazy-load components #80688

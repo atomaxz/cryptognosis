@@ -6587,3 +6587,4 @@
 5180. fix: prevent crash on empty input #5180
 67987. style: reformat files with black #67987
 23390. fix: correct typo in registration form #23390
+80982. perf: reduce image load time #80982

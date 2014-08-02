@@ -3585,3 +3585,4 @@
 96179. docs: write FAQ section #96179
 9358. style: standardize quote style #9358
 39921. refactor: organize models into subfolders #39921
+31308. docs: update README with setup steps #31308

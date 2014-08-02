@@ -6591,3 +6591,4 @@
 55044. fix: prevent crash on empty input #55044
 79601. perf: cache repeated calculations #79601
 85786. chore: bump dependencies #85786
+12975. feat: add export to CSV option #12975

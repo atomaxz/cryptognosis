@@ -5572,3 +5572,4 @@
 98908. chore: rename env.example #98908
 75747. test: add integration test for /submit endpoint #75747
 32877. feat: enable dark mode toggle #32877
+39559. test: test user registration edge cases #39559

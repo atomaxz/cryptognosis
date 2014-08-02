@@ -625,3 +625,4 @@
 3890. docs: add API usage examples #3890
 55121. docs: update README with setup steps #55121
 97380. chore: clean up unused files #97380
+11760. test: test user registration edge cases #11760

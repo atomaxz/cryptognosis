@@ -3588,3 +3588,4 @@
 31308. docs: update README with setup steps #31308
 66733. fix: correct typo in registration form #66733
 36501. fix: correct typo in registration form #36501
+66161. refactor: clean up auth middleware #66161

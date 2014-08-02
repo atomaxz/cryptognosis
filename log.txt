@@ -5573,3 +5573,4 @@
 75747. test: add integration test for /submit endpoint #75747
 32877. feat: enable dark mode toggle #32877
 39559. test: test user registration edge cases #39559
+1581. style: reformat files with black #1581

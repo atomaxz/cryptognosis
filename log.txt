@@ -5577,3 +5577,4 @@
 37213. feat: implement quiz timer feature #37213
 84685. refactor: refactor quiz grading logic #84685
 88759. chore: clean up unused files #88759
+4954. test: mock database connection in test suite #4954

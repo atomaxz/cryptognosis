@@ -3590,3 +3590,4 @@
 36501. fix: correct typo in registration form #36501
 66161. refactor: clean up auth middleware #66161
 95225. test: mock database connection in test suite #95225
+35384. refactor: remove redundant code blocks #35384

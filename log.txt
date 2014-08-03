@@ -2574,3 +2574,4 @@
 92416. perf: cache repeated calculations #92416
 8772. docs: add API usage examples #8772
 46186. test: mock database connection in test suite #46186
+27876. feat: enable dark mode toggle #27876

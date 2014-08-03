@@ -629,3 +629,4 @@
 63895. feat: add user authentication #63895
 98634. perf: cache repeated calculations #98634
 34274. chore: add GitHub actions badge #34274
+29409. test: test user registration edge cases #29409

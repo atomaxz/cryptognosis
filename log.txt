@@ -6595,3 +6595,4 @@
 97753. chore: update .gitignore #97753
 25891. test: mock database connection in test suite #25891
 40588. feat: add user authentication #40588
+83267. docs: add API usage examples #83267

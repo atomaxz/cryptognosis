@@ -1573,3 +1573,4 @@
 46751. docs: add API usage examples #46751
 1858. chore: update .gitignore #1858
 95074. perf: cache repeated calculations #95074
+24647. docs: write FAQ section #24647

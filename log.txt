@@ -4590,3 +4590,4 @@
 20525. test: test user registration edge cases #20525
 49858. perf: reduce image load time #49858
 38044. feat: create admin dashboard #38044
+24959. fix: fix null pointer exception on login #24959

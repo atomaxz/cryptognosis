@@ -5581,3 +5581,4 @@
 50909. refactor: organize models into subfolders #50909
 83425. docs: add API usage examples #83425
 77393. test: test user registration edge cases #77393
+86038. style: apply consistent indentation #86038

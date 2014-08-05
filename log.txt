@@ -634,3 +634,4 @@
 19689. test: add integration test for /submit endpoint #19689
 16999. test: test user registration edge cases #16999
 55843. feat: support email verification #55843
+58250. test: add unit test for quiz service #58250

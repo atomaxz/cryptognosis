@@ -631,3 +631,4 @@
 34274. chore: add GitHub actions badge #34274
 29409. test: test user registration edge cases #29409
 85422. docs: write FAQ section #85422
+19689. test: add integration test for /submit endpoint #19689

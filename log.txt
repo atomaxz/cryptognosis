@@ -3597,3 +3597,4 @@
 5196. style: remove trailing whitespace #5196
 52889. perf: optimize database query for quiz results #52889
 64931. fix: fix null pointer exception on login #64931
+1802. test: mock database connection in test suite #1802

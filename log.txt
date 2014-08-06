@@ -4602,3 +4602,4 @@
 25560. fix: fix null pointer exception on login #25560
 40001. refactor: refactor quiz grading logic #40001
 24623. perf: lazy-load components #24623
+60728. refactor: split large controller into smaller functions #60728

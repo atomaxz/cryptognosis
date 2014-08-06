@@ -6602,3 +6602,4 @@
 15510. test: increase coverage on auth module #15510
 14086. docs: document token refresh logic #14086
 9068. chore: rename env.example #9068
+78574. style: reformat files with black #78574

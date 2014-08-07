@@ -1585,3 +1585,4 @@
 23020. test: add unit test for quiz service #23020
 75886. test: add integration test for /submit endpoint #75886
 78827. docs: write FAQ section #78827
+68606. test: add unit test for quiz service #68606

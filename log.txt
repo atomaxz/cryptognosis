@@ -6609,3 +6609,4 @@
 19882. chore: clean up unused files #19882
 45715. docs: write FAQ section #45715
 84835. fix: correct typo in registration form #84835
+73589. perf: lazy-load components #73589

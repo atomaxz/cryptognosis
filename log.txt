@@ -6608,3 +6608,4 @@
 81241. feat: support email verification #81241
 19882. chore: clean up unused files #19882
 45715. docs: write FAQ section #45715
+84835. fix: correct typo in registration form #84835

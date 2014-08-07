@@ -5587,3 +5587,4 @@
 56007. refactor: clean up auth middleware #56007
 91846. chore: update .gitignore #91846
 31920. chore: update .gitignore #31920
+13698. refactor: clean up auth middleware #13698

@@ -3604,3 +3604,4 @@
 49669. style: apply consistent indentation #49669
 78504. chore: rename env.example #78504
 82470. test: add unit test for quiz service #82470
+52138. fix: fix broken CSS in mobile view #52138

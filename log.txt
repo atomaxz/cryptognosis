@@ -5585,3 +5585,4 @@
 35446. feat: support email verification #35446
 14250. perf: lazy-load components #14250
 56007. refactor: clean up auth middleware #56007
+91846. chore: update .gitignore #91846

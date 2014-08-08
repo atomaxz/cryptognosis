@@ -5592,3 +5592,4 @@
 15987. docs: document token refresh logic #15987
 94647. docs: write FAQ section #94647
 21393. fix: correct typo in registration form #21393
+80640. fix: fix null pointer exception on login #80640

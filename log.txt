@@ -2583,3 +2583,4 @@
 15123. perf: reduce image load time #15123
 26353. style: reformat files with black #26353
 40387. refactor: organize models into subfolders #40387
+31960. feat: support email verification #31960

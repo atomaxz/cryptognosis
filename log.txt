@@ -2582,3 +2582,4 @@
 64673. docs: improve code comments in utils #64673
 15123. perf: reduce image load time #15123
 26353. style: reformat files with black #26353
+40387. refactor: organize models into subfolders #40387

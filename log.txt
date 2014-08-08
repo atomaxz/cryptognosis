@@ -5593,3 +5593,4 @@
 94647. docs: write FAQ section #94647
 21393. fix: correct typo in registration form #21393
 80640. fix: fix null pointer exception on login #80640
+82220. docs: update README with setup steps #82220

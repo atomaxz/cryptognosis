@@ -6610,3 +6610,4 @@
 45715. docs: write FAQ section #45715
 84835. fix: correct typo in registration form #84835
 73589. perf: lazy-load components #73589
+99790. perf: optimize database query for quiz results #99790

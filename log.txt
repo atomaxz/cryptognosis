@@ -5594,3 +5594,4 @@
 21393. fix: correct typo in registration form #21393
 80640. fix: fix null pointer exception on login #80640
 82220. docs: update README with setup steps #82220
+68066. fix: fix broken CSS in mobile view #68066

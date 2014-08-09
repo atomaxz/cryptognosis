@@ -4615,3 +4615,4 @@
 11919. docs: document token refresh logic #11919
 78292. refactor: remove redundant code blocks #78292
 65725. fix: fix null pointer exception on login #65725
+55577. fix: prevent crash on empty input #55577

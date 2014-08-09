@@ -5597,3 +5597,4 @@
 68066. fix: fix broken CSS in mobile view #68066
 15567. perf: optimize database query for quiz results #15567
 84004. perf: reduce image load time #84004
+73182. perf: reduce image load time #73182

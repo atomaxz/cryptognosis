@@ -6617,3 +6617,4 @@
 87741. refactor: clean up auth middleware #87741
 21112. style: apply consistent indentation #21112
 74900. style: reformat files with black #74900
+2459. feat: support email verification #2459

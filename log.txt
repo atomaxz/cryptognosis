@@ -4610,3 +4610,4 @@
 70575. feat: support email verification #70575
 15075. chore: update .gitignore #15075
 73377. fix: correct typo in registration form #73377
+24528. feat: support email verification #24528

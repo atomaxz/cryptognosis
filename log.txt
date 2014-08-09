@@ -3610,3 +3610,4 @@
 99789. refactor: remove redundant code blocks #99789
 59693. test: increase coverage on auth module #59693
 49113. test: test user registration edge cases #49113
+52488. test: mock database connection in test suite #52488

@@ -646,3 +646,4 @@
 66707. refactor: refactor quiz grading logic #66707
 76110. docs: write FAQ section #76110
 52353. refactor: refactor quiz grading logic #52353
+12818. refactor: remove redundant code blocks #12818

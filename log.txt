@@ -1592,3 +1592,4 @@
 92240. perf: cache repeated calculations #92240
 89546. test: test user registration edge cases #89546
 37653. test: add unit test for quiz service #37653
+94255. fix: correct typo in registration form #94255

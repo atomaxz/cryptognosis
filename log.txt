@@ -3608,3 +3608,4 @@
 66165. chore: rename env.example #66165
 47245. docs: document token refresh logic #47245
 99789. refactor: remove redundant code blocks #99789
+59693. test: increase coverage on auth module #59693

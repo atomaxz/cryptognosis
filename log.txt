@@ -4611,3 +4611,4 @@
 15075. chore: update .gitignore #15075
 73377. fix: correct typo in registration form #73377
 24528. feat: support email verification #24528
+86654. refactor: organize models into subfolders #86654

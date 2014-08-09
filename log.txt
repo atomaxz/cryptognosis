@@ -5595,3 +5595,4 @@
 80640. fix: fix null pointer exception on login #80640
 82220. docs: update README with setup steps #82220
 68066. fix: fix broken CSS in mobile view #68066
+15567. perf: optimize database query for quiz results #15567

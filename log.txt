@@ -651,3 +651,4 @@
 27959. test: increase coverage on auth module #27959
 67727. docs: add API usage examples #67727
 3992. refactor: refactor quiz grading logic #3992
+55689. refactor: clean up auth middleware #55689

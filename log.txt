@@ -5599,3 +5599,4 @@
 84004. perf: reduce image load time #84004
 73182. perf: reduce image load time #73182
 66586. feat: implement quiz timer feature #66586
+8914. feat: support email verification #8914

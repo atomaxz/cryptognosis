@@ -1597,3 +1597,4 @@
 13109. fix: handle 500 error in quiz API #13109
 70871. style: reformat files with black #70871
 12707. chore: add GitHub actions badge #12707
+67016. test: increase coverage on auth module #67016

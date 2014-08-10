@@ -4619,3 +4619,4 @@
 15627. fix: correct typo in registration form #15627
 16159. feat: support email verification #16159
 76177. fix: resolve issue with date parsing #76177
+19008. feat: add export to CSV option #19008

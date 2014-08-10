@@ -6618,3 +6618,4 @@
 21112. style: apply consistent indentation #21112
 74900. style: reformat files with black #74900
 2459. feat: support email verification #2459
+8514. perf: lazy-load components #8514

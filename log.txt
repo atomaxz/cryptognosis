@@ -648,3 +648,4 @@
 52353. refactor: refactor quiz grading logic #52353
 12818. refactor: remove redundant code blocks #12818
 66391. fix: resolve issue with date parsing #66391
+27959. test: increase coverage on auth module #27959

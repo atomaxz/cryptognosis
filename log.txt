@@ -1594,3 +1594,4 @@
 37653. test: add unit test for quiz service #37653
 94255. fix: correct typo in registration form #94255
 81405. perf: optimize database query for quiz results #81405
+13109. fix: handle 500 error in quiz API #13109

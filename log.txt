@@ -2586,3 +2586,4 @@
 31960. feat: support email verification #31960
 69406. test: mock database connection in test suite #69406
 93876. refactor: organize models into subfolders #93876
+66663. test: increase coverage on auth module #66663

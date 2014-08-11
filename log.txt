@@ -654,3 +654,4 @@
 55689. refactor: clean up auth middleware #55689
 74238. refactor: remove redundant code blocks #74238
 47779. fix: fix broken CSS in mobile view #47779
+47585. style: standardize quote style #47585

@@ -4622,3 +4622,4 @@
 19008. feat: add export to CSV option #19008
 88121. test: add integration test for /submit endpoint #88121
 92566. style: apply consistent indentation #92566
+85811. perf: lazy-load components #85811

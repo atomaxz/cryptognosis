@@ -3614,3 +3614,4 @@
 7895. refactor: refactor quiz grading logic #7895
 50122. docs: write FAQ section #50122
 94400. fix: handle 500 error in quiz API #94400
+10103. style: reformat files with black #10103

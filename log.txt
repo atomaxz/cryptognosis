@@ -656,3 +656,4 @@
 47779. fix: fix broken CSS in mobile view #47779
 47585. style: standardize quote style #47585
 51052. feat: support email verification #51052
+39531. style: standardize quote style #39531

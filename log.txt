@@ -6624,3 +6624,4 @@
 39440. perf: reduce image load time #39440
 19727. perf: reduce image load time #19727
 34700. fix: fix broken CSS in mobile view #34700
+51180. fix: resolve issue with date parsing #51180

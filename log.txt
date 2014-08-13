@@ -1606,3 +1606,4 @@
 3308. fix: fix null pointer exception on login #3308
 12572. feat: add user authentication #12572
 60054. chore: add GitHub actions badge #60054
+36188. feat: create admin dashboard #36188

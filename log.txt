@@ -5607,3 +5607,4 @@
 29804. style: reformat files with black #29804
 60331. style: remove trailing whitespace #60331
 89486. refactor: organize models into subfolders #89486
+83012. perf: lazy-load components #83012

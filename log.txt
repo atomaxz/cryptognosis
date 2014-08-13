@@ -6627,3 +6627,4 @@
 51180. fix: resolve issue with date parsing #51180
 4315. fix: fix null pointer exception on login #4315
 89082. test: test user registration edge cases #89082
+51397. feat: add export to CSV option #51397

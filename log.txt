@@ -5609,3 +5609,4 @@
 89486. refactor: organize models into subfolders #89486
 83012. perf: lazy-load components #83012
 31629. style: standardize quote style #31629
+38418. feat: support email verification #38418

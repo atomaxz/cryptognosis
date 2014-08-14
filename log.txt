@@ -6629,3 +6629,4 @@
 89082. test: test user registration edge cases #89082
 51397. feat: add export to CSV option #51397
 66100. feat: support email verification #66100
+53470. fix: correct typo in registration form #53470

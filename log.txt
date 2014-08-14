@@ -5617,3 +5617,4 @@
 87585. test: add unit test for quiz service #87585
 89024. perf: lazy-load components #89024
 7611. style: reformat files with black #7611
+68947. refactor: remove redundant code blocks #68947

@@ -663,3 +663,4 @@
 91549. chore: bump dependencies #91549
 41488. fix: correct typo in registration form #41488
 88139. style: remove trailing whitespace #88139
+17570. test: test user registration edge cases #17570

@@ -3622,3 +3622,4 @@
 86258. style: standardize quote style #86258
 75438. fix: correct typo in registration form #75438
 9239. fix: resolve issue with date parsing #9239
+86491. style: standardize quote style #86491

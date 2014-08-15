@@ -6633,3 +6633,4 @@
 21713. test: add unit test for quiz service #21713
 4463. style: rename variables for clarity #4463
 68529. fix: fix null pointer exception on login #68529
+43509. test: mock database connection in test suite #43509

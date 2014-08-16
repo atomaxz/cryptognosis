@@ -6636,3 +6636,4 @@
 43509. test: mock database connection in test suite #43509
 17541. perf: optimize database query for quiz results #17541
 53271. fix: correct typo in registration form #53271
+32422. fix: fix broken CSS in mobile view #32422

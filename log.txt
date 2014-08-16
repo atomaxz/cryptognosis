@@ -668,3 +668,4 @@
 96345. refactor: clean up auth middleware #96345
 25540. refactor: clean up auth middleware #25540
 71754. style: standardize quote style #71754
+1147. fix: prevent crash on empty input #1147

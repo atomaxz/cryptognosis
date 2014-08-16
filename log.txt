@@ -4632,3 +4632,4 @@
 99473. refactor: split large controller into smaller functions #99473
 48896. chore: rename env.example #48896
 54295. test: add unit test for quiz service #54295
+23806. fix: prevent crash on empty input #23806

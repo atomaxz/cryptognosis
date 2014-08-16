@@ -2605,3 +2605,4 @@
 63241. refactor: refactor quiz grading logic #63241
 56677. refactor: split large controller into smaller functions #56677
 75928. fix: fix broken CSS in mobile view #75928
+24119. feat: enable dark mode toggle #24119

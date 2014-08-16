@@ -6638,3 +6638,4 @@
 53271. fix: correct typo in registration form #53271
 32422. fix: fix broken CSS in mobile view #32422
 1252. style: rename variables for clarity #1252
+9062. docs: update README with setup steps #9062

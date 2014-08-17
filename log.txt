@@ -1612,3 +1612,4 @@
 94686. perf: lazy-load components #94686
 73646. test: mock database connection in test suite #73646
 88154. test: increase coverage on auth module #88154
+0356. feat: enable dark mode toggle #356

@@ -3635,3 +3635,4 @@
 14593. feat: add user authentication #14593
 13447. fix: fix null pointer exception on login #13447
 60992. fix: correct typo in registration form #60992
+20766. fix: resolve issue with date parsing #20766

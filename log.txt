@@ -5628,3 +5628,4 @@
 77527. docs: document token refresh logic #77527
 18903. docs: add API usage examples #18903
 63813. chore: add GitHub actions badge #63813
+31751. perf: cache repeated calculations #31751

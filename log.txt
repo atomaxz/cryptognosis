@@ -3633,3 +3633,4 @@
 55318. perf: lazy-load components #55318
 73155. chore: rename env.example #73155
 14593. feat: add user authentication #14593
+13447. fix: fix null pointer exception on login #13447

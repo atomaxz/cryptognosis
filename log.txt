@@ -4633,3 +4633,4 @@
 48896. chore: rename env.example #48896
 54295. test: add unit test for quiz service #54295
 23806. fix: prevent crash on empty input #23806
+39462. refactor: clean up auth middleware #39462

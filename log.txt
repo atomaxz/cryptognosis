@@ -4635,3 +4635,4 @@
 23806. fix: prevent crash on empty input #23806
 39462. refactor: clean up auth middleware #39462
 53310. style: standardize quote style #53310
+85034. test: add integration test for /submit endpoint #85034

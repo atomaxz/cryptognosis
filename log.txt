@@ -5630,3 +5630,4 @@
 63813. chore: add GitHub actions badge #63813
 31751. perf: cache repeated calculations #31751
 55960. docs: improve code comments in utils #55960
+59341. test: increase coverage on auth module #59341

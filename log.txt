@@ -6641,3 +6641,4 @@
 9062. docs: update README with setup steps #9062
 72276. docs: add API usage examples #72276
 37202. fix: handle 500 error in quiz API #37202
+86528. perf: lazy-load components #86528

@@ -2607,3 +2607,4 @@
 75928. fix: fix broken CSS in mobile view #75928
 24119. feat: enable dark mode toggle #24119
 99154. test: increase coverage on auth module #99154
+63762. style: rename variables for clarity #63762

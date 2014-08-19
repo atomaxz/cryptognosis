@@ -6644,3 +6644,4 @@
 86528. perf: lazy-load components #86528
 81867. perf: optimize database query for quiz results #81867
 17124. feat: support email verification #17124
+49623. fix: fix broken CSS in mobile view #49623

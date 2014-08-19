@@ -1617,3 +1617,4 @@
 25972. chore: bump dependencies #25972
 88884. perf: optimize database query for quiz results #88884
 91315. fix: fix broken CSS in mobile view #91315
+33305. refactor: clean up auth middleware #33305

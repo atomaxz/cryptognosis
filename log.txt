@@ -4638,3 +4638,4 @@
 85034. test: add integration test for /submit endpoint #85034
 72943. feat: implement quiz timer feature #72943
 42114. chore: rename env.example #42114
+28955. refactor: clean up auth middleware #28955

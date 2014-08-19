@@ -2611,3 +2611,4 @@
 37638. perf: lazy-load components #37638
 11540. style: standardize quote style #11540
 71901. style: apply consistent indentation #71901
+18341. fix: handle 500 error in quiz API #18341

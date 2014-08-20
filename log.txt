@@ -2618,3 +2618,4 @@
 32510. chore: clean up unused files #32510
 12275. test: test user registration edge cases #12275
 55694. docs: add API usage examples #55694
+19628. test: increase coverage on auth module #19628

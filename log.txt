@@ -6649,3 +6649,4 @@
 36430. chore: update .gitignore #36430
 35219. fix: fix null pointer exception on login #35219
 29565. style: reformat files with black #29565
+36980. refactor: remove redundant code blocks #36980

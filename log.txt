@@ -3638,3 +3638,4 @@
 20766. fix: resolve issue with date parsing #20766
 57735. style: reformat files with black #57735
 37156. chore: clean up unused files #37156
+84725. refactor: clean up auth middleware #84725

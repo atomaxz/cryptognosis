@@ -3643,3 +3643,4 @@
 15031. test: mock database connection in test suite #15031
 87177. refactor: organize models into subfolders #87177
 77762. feat: add export to CSV option #77762
+40155. feat: enable dark mode toggle #40155

@@ -5635,3 +5635,4 @@
 88583. refactor: refactor quiz grading logic #88583
 13319. feat: support email verification #13319
 21926. feat: support email verification #21926
+0025. perf: cache repeated calculations #25

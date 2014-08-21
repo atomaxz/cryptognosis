@@ -5639,3 +5639,4 @@
 44698. refactor: organize models into subfolders #44698
 58346. style: apply consistent indentation #58346
 44940. chore: bump dependencies #44940
+84266. fix: fix null pointer exception on login #84266

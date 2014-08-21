@@ -4641,3 +4641,4 @@
 28955. refactor: clean up auth middleware #28955
 72918. docs: write FAQ section #72918
 94817. docs: improve code comments in utils #94817
+73613. fix: prevent crash on empty input #73613

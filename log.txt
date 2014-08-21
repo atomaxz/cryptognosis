@@ -1622,3 +1622,4 @@
 51120. perf: optimize database query for quiz results #51120
 26379. chore: update .gitignore #26379
 47412. perf: reduce image load time #47412
+72186. fix: fix null pointer exception on login #72186

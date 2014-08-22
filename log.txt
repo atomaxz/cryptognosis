@@ -682,3 +682,4 @@
 46200. test: test user registration edge cases #46200
 69455. fix: fix null pointer exception on login #69455
 68294. feat: support email verification #68294
+78349. docs: update README with setup steps #78349

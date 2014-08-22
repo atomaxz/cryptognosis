@@ -2623,3 +2623,4 @@
 41016. refactor: refactor quiz grading logic #41016
 50793. perf: lazy-load components #50793
 63151. docs: write FAQ section #63151
+33992. chore: update .gitignore #33992

@@ -684,3 +684,4 @@
 68294. feat: support email verification #68294
 78349. docs: update README with setup steps #78349
 13239. perf: cache repeated calculations #13239
+16937. style: standardize quote style #16937

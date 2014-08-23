@@ -1626,3 +1626,4 @@
 77572. perf: cache repeated calculations #77572
 25352. style: reformat files with black #25352
 52971. perf: cache repeated calculations #52971
+8069. fix: fix broken CSS in mobile view #8069

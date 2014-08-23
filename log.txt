@@ -686,3 +686,4 @@
 13239. perf: cache repeated calculations #13239
 16937. style: standardize quote style #16937
 17100. feat: create admin dashboard #17100
+51602. docs: document token refresh logic #51602

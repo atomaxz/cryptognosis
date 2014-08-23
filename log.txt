@@ -1627,3 +1627,4 @@
 25352. style: reformat files with black #25352
 52971. perf: cache repeated calculations #52971
 8069. fix: fix broken CSS in mobile view #8069
+12811. style: remove trailing whitespace #12811

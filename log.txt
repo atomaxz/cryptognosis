@@ -5642,3 +5642,4 @@
 84266. fix: fix null pointer exception on login #84266
 60055. fix: fix broken CSS in mobile view #60055
 85898. fix: prevent crash on empty input #85898
+75049. refactor: clean up auth middleware #75049

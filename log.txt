@@ -6658,3 +6658,4 @@
 71619. fix: handle 500 error in quiz API #71619
 87356. chore: add GitHub actions badge #87356
 34346. test: mock database connection in test suite #34346
+73422. perf: optimize database query for quiz results #73422

@@ -6661,3 +6661,4 @@
 73422. perf: optimize database query for quiz results #73422
 38906. refactor: split large controller into smaller functions #38906
 66270. style: rename variables for clarity #66270
+2155. fix: prevent crash on empty input #2155

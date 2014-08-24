@@ -4645,3 +4645,4 @@
 69702. style: apply consistent indentation #69702
 54074. docs: update README with setup steps #54074
 76053. refactor: organize models into subfolders #76053
+56980. perf: lazy-load components #56980

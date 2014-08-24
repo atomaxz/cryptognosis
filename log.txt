@@ -2629,3 +2629,4 @@
 19058. refactor: organize models into subfolders #19058
 76902. fix: handle 500 error in quiz API #76902
 45769. style: apply consistent indentation #45769
+52241. chore: update .gitignore #52241

@@ -5648,3 +5648,4 @@
 44247. perf: lazy-load components #44247
 30919. docs: add API usage examples #30919
 99820. test: add unit test for quiz service #99820
+62199. perf: lazy-load components #62199

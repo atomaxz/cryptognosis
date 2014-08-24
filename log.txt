@@ -1629,3 +1629,4 @@
 8069. fix: fix broken CSS in mobile view #8069
 12811. style: remove trailing whitespace #12811
 17427. fix: handle 500 error in quiz API #17427
+17028. fix: correct typo in registration form #17028

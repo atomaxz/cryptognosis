@@ -1632,3 +1632,4 @@
 17028. fix: correct typo in registration form #17028
 64181. perf: reduce image load time #64181
 20281. feat: implement quiz timer feature #20281
+26452. perf: lazy-load components #26452

@@ -2630,3 +2630,4 @@
 76902. fix: handle 500 error in quiz API #76902
 45769. style: apply consistent indentation #45769
 52241. chore: update .gitignore #52241
+70421. fix: prevent crash on empty input #70421

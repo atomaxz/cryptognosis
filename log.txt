@@ -1635,3 +1635,4 @@
 26452. perf: lazy-load components #26452
 22504. test: increase coverage on auth module #22504
 17584. test: mock database connection in test suite #17584
+86582. refactor: clean up auth middleware #86582

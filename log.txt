@@ -692,3 +692,4 @@
 53607. refactor: split large controller into smaller functions #53607
 67064. perf: reduce image load time #67064
 62096. style: apply consistent indentation #62096
+99347. refactor: organize models into subfolders #99347

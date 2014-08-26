@@ -4651,3 +4651,4 @@
 12210. refactor: clean up auth middleware #12210
 71052. perf: optimize database query for quiz results #71052
 95544. style: standardize quote style #95544
+10746. perf: reduce image load time #10746

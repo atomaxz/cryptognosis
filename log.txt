@@ -3657,3 +3657,4 @@
 37555. style: standardize quote style #37555
 73703. docs: improve code comments in utils #73703
 85095. refactor: clean up auth middleware #85095
+49183. feat: support email verification #49183

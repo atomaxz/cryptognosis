@@ -691,3 +691,4 @@
 9016. perf: reduce image load time #9016
 53607. refactor: split large controller into smaller functions #53607
 67064. perf: reduce image load time #67064
+62096. style: apply consistent indentation #62096

@@ -4654,3 +4654,4 @@
 10746. perf: reduce image load time #10746
 38702. test: mock database connection in test suite #38702
 36276. chore: bump dependencies #36276
+72647. style: remove trailing whitespace #72647

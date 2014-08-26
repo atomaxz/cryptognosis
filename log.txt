@@ -2632,3 +2632,4 @@
 52241. chore: update .gitignore #52241
 70421. fix: prevent crash on empty input #70421
 11421. fix: fix broken CSS in mobile view #11421
+10931. style: reformat files with black #10931

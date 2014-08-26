@@ -4653,3 +4653,4 @@
 95544. style: standardize quote style #95544
 10746. perf: reduce image load time #10746
 38702. test: mock database connection in test suite #38702
+36276. chore: bump dependencies #36276

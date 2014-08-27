@@ -4658,3 +4658,4 @@
 71569. perf: optimize database query for quiz results #71569
 24834. refactor: split large controller into smaller functions #24834
 7752. docs: document token refresh logic #7752
+46275. fix: fix broken CSS in mobile view #46275

@@ -1638,3 +1638,4 @@
 86582. refactor: clean up auth middleware #86582
 31414. docs: document token refresh logic #31414
 64690. style: standardize quote style #64690
+11486. docs: update README with setup steps #11486

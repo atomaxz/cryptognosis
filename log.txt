@@ -4659,3 +4659,4 @@
 24834. refactor: split large controller into smaller functions #24834
 7752. docs: document token refresh logic #7752
 46275. fix: fix broken CSS in mobile view #46275
+86833. refactor: clean up auth middleware #86833

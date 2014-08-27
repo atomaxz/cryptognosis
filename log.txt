@@ -5655,3 +5655,4 @@
 15616. refactor: organize models into subfolders #15616
 65150. refactor: split large controller into smaller functions #65150
 33036. chore: update .gitignore #33036
+62589. refactor: clean up auth middleware #62589

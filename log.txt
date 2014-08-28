@@ -5660,3 +5660,4 @@
 42945. fix: fix null pointer exception on login #42945
 14622. refactor: remove redundant code blocks #14622
 91663. feat: add user authentication #91663
+86683. perf: lazy-load components #86683

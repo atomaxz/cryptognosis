@@ -698,3 +698,4 @@
 51703. feat: add export to CSV option #51703
 61541. feat: support email verification #61541
 62670. docs: update README with setup steps #62670
+89945. perf: reduce image load time #89945

@@ -702,3 +702,4 @@
 16123. fix: resolve issue with date parsing #16123
 75984. test: add integration test for /submit endpoint #75984
 40461. fix: handle 500 error in quiz API #40461
+56448. test: add unit test for quiz service #56448

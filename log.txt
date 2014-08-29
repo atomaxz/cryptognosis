@@ -701,3 +701,4 @@
 89945. perf: reduce image load time #89945
 16123. fix: resolve issue with date parsing #16123
 75984. test: add integration test for /submit endpoint #75984
+40461. fix: handle 500 error in quiz API #40461

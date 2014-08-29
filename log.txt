@@ -3665,3 +3665,4 @@
 60039. fix: fix null pointer exception on login #60039
 47165. docs: document token refresh logic #47165
 10093. fix: correct typo in registration form #10093
+6041. docs: document token refresh logic #6041

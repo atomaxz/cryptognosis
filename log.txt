@@ -4662,3 +4662,4 @@
 86833. refactor: clean up auth middleware #86833
 29087. feat: implement quiz timer feature #29087
 66521. style: apply consistent indentation #66521
+31390. chore: add GitHub actions badge #31390

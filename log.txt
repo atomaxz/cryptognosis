@@ -1643,3 +1643,4 @@
 69862. chore: add GitHub actions badge #69862
 73553. feat: support email verification #73553
 5939. style: standardize quote style #5939
+94440. chore: update .gitignore #94440

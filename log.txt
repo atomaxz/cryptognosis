@@ -5661,3 +5661,4 @@
 14622. refactor: remove redundant code blocks #14622
 91663. feat: add user authentication #91663
 86683. perf: lazy-load components #86683
+22252. test: increase coverage on auth module #22252

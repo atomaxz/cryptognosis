@@ -3667,3 +3667,4 @@
 10093. fix: correct typo in registration form #10093
 6041. docs: document token refresh logic #6041
 25358. test: test user registration edge cases #25358
+32475. style: rename variables for clarity #32475

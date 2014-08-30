@@ -4668,3 +4668,4 @@
 56657. chore: clean up unused files #56657
 90969. style: apply consistent indentation #90969
 79577. style: standardize quote style #79577
+64181. perf: reduce image load time #64181

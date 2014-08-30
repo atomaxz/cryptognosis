@@ -3669,3 +3669,4 @@
 25358. test: test user registration edge cases #25358
 32475. style: rename variables for clarity #32475
 68579. fix: prevent crash on empty input #68579
+8782. chore: add GitHub actions badge #8782

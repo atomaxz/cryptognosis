@@ -1645,3 +1645,4 @@
 5939. style: standardize quote style #5939
 94440. chore: update .gitignore #94440
 74010. fix: resolve issue with date parsing #74010
+41429. style: reformat files with black #41429

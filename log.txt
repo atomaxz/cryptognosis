@@ -3674,3 +3674,4 @@
 1905. feat: support email verification #1905
 0664. perf: lazy-load components #664
 62331. feat: enable dark mode toggle #62331
+38336. fix: fix null pointer exception on login #38336

@@ -6673,3 +6673,4 @@
 45078. docs: add API usage examples #45078
 56312. chore: bump dependencies #56312
 58135. test: increase coverage on auth module #58135
+5783. style: standardize quote style #5783

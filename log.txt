@@ -4671,3 +4671,4 @@
 64181. perf: reduce image load time #64181
 23439. fix: fix broken CSS in mobile view #23439
 89908. test: increase coverage on auth module #89908
+69060. chore: bump dependencies #69060

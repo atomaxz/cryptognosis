@@ -3672,3 +3672,4 @@
 8782. chore: add GitHub actions badge #8782
 76950. chore: add GitHub actions badge #76950
 1905. feat: support email verification #1905
+0664. perf: lazy-load components #664

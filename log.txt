@@ -3673,3 +3673,4 @@
 76950. chore: add GitHub actions badge #76950
 1905. feat: support email verification #1905
 0664. perf: lazy-load components #664
+62331. feat: enable dark mode toggle #62331

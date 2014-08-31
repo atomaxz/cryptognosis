@@ -6672,3 +6672,4 @@
 99363. chore: bump dependencies #99363
 45078. docs: add API usage examples #45078
 56312. chore: bump dependencies #56312
+58135. test: increase coverage on auth module #58135

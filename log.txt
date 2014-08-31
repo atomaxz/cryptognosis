@@ -6676,3 +6676,4 @@
 5783. style: standardize quote style #5783
 17278. feat: implement quiz timer feature #17278
 62797. refactor: split large controller into smaller functions #62797
+74178. fix: fix null pointer exception on login #74178

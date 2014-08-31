@@ -3671,3 +3671,4 @@
 68579. fix: prevent crash on empty input #68579
 8782. chore: add GitHub actions badge #8782
 76950. chore: add GitHub actions badge #76950
+1905. feat: support email verification #1905

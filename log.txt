@@ -4672,3 +4672,4 @@
 23439. fix: fix broken CSS in mobile view #23439
 89908. test: increase coverage on auth module #89908
 69060. chore: bump dependencies #69060
+73655. style: remove trailing whitespace #73655

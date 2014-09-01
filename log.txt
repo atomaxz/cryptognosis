@@ -4673,3 +4673,4 @@
 89908. test: increase coverage on auth module #89908
 69060. chore: bump dependencies #69060
 73655. style: remove trailing whitespace #73655
+86661. docs: add API usage examples #86661

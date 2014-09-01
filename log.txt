@@ -2644,3 +2644,4 @@
 75440. chore: rename env.example #75440
 85006. chore: rename env.example #85006
 64694. test: add integration test for /submit endpoint #64694
+2069. perf: optimize database query for quiz results #2069

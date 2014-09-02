@@ -4676,3 +4676,4 @@
 86661. docs: add API usage examples #86661
 73801. chore: update .gitignore #73801
 65282. chore: rename env.example #65282
+24560. perf: cache repeated calculations #24560

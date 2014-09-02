@@ -6683,3 +6683,4 @@
 85432. feat: add user authentication #85432
 87929. refactor: clean up auth middleware #87929
 67514. test: increase coverage on auth module #67514
+24214. chore: add GitHub actions badge #24214

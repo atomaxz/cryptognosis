@@ -709,3 +709,4 @@
 14128. perf: lazy-load components #14128
 31718. refactor: remove redundant code blocks #31718
 41319. perf: lazy-load components #41319
+59900. chore: update .gitignore #59900

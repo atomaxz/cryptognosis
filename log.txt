@@ -3679,3 +3679,4 @@
 15623. test: increase coverage on auth module #15623
 32272. style: apply consistent indentation #32272
 49478. refactor: remove redundant code blocks #49478
+25321. fix: correct typo in registration form #25321

@@ -3677,3 +3677,4 @@
 38336. fix: fix null pointer exception on login #38336
 67857. docs: write FAQ section #67857
 15623. test: increase coverage on auth module #15623
+32272. style: apply consistent indentation #32272

@@ -5673,3 +5673,4 @@
 61846. fix: fix null pointer exception on login #61846
 12131. chore: update .gitignore #12131
 71330. docs: write FAQ section #71330
+72807. perf: reduce image load time #72807

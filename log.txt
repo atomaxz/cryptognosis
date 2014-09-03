@@ -714,3 +714,4 @@
 30362. test: add unit test for quiz service #30362
 10012. fix: fix null pointer exception on login #10012
 87030. style: remove trailing whitespace #87030
+52477. refactor: refactor quiz grading logic #52477

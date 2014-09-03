@@ -4680,3 +4680,4 @@
 13117. refactor: organize models into subfolders #13117
 12654. style: standardize quote style #12654
 75403. refactor: organize models into subfolders #75403
+72158. feat: support email verification #72158

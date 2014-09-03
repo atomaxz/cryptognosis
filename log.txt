@@ -1653,3 +1653,4 @@
 31525. feat: add export to CSV option #31525
 0888. test: add unit test for quiz service #888
 16285. fix: prevent crash on empty input #16285
+30631. perf: optimize database query for quiz results #30631

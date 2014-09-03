@@ -713,3 +713,4 @@
 49009. feat: create admin dashboard #49009
 30362. test: add unit test for quiz service #30362
 10012. fix: fix null pointer exception on login #10012
+87030. style: remove trailing whitespace #87030

@@ -5674,3 +5674,4 @@
 12131. chore: update .gitignore #12131
 71330. docs: write FAQ section #71330
 72807. perf: reduce image load time #72807
+94411. feat: enable dark mode toggle #94411

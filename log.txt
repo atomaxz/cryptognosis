@@ -5675,3 +5675,4 @@
 71330. docs: write FAQ section #71330
 72807. perf: reduce image load time #72807
 94411. feat: enable dark mode toggle #94411
+41746. test: mock database connection in test suite #41746

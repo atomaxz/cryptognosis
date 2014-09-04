@@ -3687,3 +3687,4 @@
 83085. refactor: clean up auth middleware #83085
 58531. chore: rename env.example #58531
 39595. style: standardize quote style #39595
+53391. docs: document token refresh logic #53391

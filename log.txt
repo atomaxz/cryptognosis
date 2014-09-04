@@ -1660,3 +1660,4 @@
 1884. refactor: remove redundant code blocks #1884
 72577. perf: reduce image load time #72577
 78883. feat: implement quiz timer feature #78883
+41085. feat: add user authentication #41085

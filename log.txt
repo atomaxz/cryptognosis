@@ -3686,3 +3686,4 @@
 10959. fix: correct typo in registration form #10959
 83085. refactor: clean up auth middleware #83085
 58531. chore: rename env.example #58531
+39595. style: standardize quote style #39595

@@ -3690,3 +3690,4 @@
 53391. docs: document token refresh logic #53391
 38295. feat: support email verification #38295
 68894. refactor: refactor quiz grading logic #68894
+57442. perf: cache repeated calculations #57442

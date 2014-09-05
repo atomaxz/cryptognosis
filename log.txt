@@ -5678,3 +5678,4 @@
 41746. test: mock database connection in test suite #41746
 16823. refactor: split large controller into smaller functions #16823
 82472. docs: document token refresh logic #82472
+71716. refactor: remove redundant code blocks #71716

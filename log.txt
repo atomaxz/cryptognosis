@@ -2654,3 +2654,4 @@
 22214. test: add unit test for quiz service #22214
 82594. refactor: split large controller into smaller functions #82594
 97450. fix: prevent crash on empty input #97450
+12207. fix: prevent crash on empty input #12207

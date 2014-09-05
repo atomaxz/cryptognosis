@@ -716,3 +716,4 @@
 87030. style: remove trailing whitespace #87030
 52477. refactor: refactor quiz grading logic #52477
 40568. feat: add user authentication #40568
+77980. perf: reduce image load time #77980

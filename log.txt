@@ -3691,3 +3691,4 @@
 38295. feat: support email verification #38295
 68894. refactor: refactor quiz grading logic #68894
 57442. perf: cache repeated calculations #57442
+44442. test: increase coverage on auth module #44442

@@ -2657,3 +2657,4 @@
 12207. fix: prevent crash on empty input #12207
 33499. feat: add export to CSV option #33499
 29205. feat: add export to CSV option #29205
+48350. chore: bump dependencies #48350

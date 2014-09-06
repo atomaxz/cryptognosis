@@ -3693,3 +3693,4 @@
 57442. perf: cache repeated calculations #57442
 44442. test: increase coverage on auth module #44442
 53321. perf: reduce image load time #53321
+20123. perf: lazy-load components #20123

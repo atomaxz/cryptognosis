@@ -4683,3 +4683,4 @@
 72158. feat: support email verification #72158
 45542. style: rename variables for clarity #45542
 86987. fix: fix null pointer exception on login #86987
+88081. test: mock database connection in test suite #88081

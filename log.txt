@@ -2662,3 +2662,4 @@
 37261. style: rename variables for clarity #37261
 46612. feat: add user authentication #46612
 84784. docs: clarify environment setup #84784
+15174. fix: prevent crash on empty input #15174

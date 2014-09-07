@@ -2661,3 +2661,4 @@
 89459. style: rename variables for clarity #89459
 37261. style: rename variables for clarity #37261
 46612. feat: add user authentication #46612
+84784. docs: clarify environment setup #84784

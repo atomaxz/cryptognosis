@@ -2663,3 +2663,4 @@
 46612. feat: add user authentication #46612
 84784. docs: clarify environment setup #84784
 15174. fix: prevent crash on empty input #15174
+15982. docs: write FAQ section #15982

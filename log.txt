@@ -2664,3 +2664,4 @@
 84784. docs: clarify environment setup #84784
 15174. fix: prevent crash on empty input #15174
 15982. docs: write FAQ section #15982
+57055. test: mock database connection in test suite #57055

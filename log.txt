@@ -5685,3 +5685,4 @@
 27426. docs: update README with setup steps #27426
 10267. perf: cache repeated calculations #10267
 88591. chore: rename env.example #88591
+6800. fix: resolve issue with date parsing #6800

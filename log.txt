@@ -6696,3 +6696,4 @@
 81822. docs: document token refresh logic #81822
 51660. feat: create admin dashboard #51660
 69634. fix: fix broken CSS in mobile view #69634
+55211. fix: handle 500 error in quiz API #55211

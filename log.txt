@@ -725,3 +725,4 @@
 81984. refactor: remove redundant code blocks #81984
 45333. refactor: refactor quiz grading logic #45333
 48534. perf: lazy-load components #48534
+34410. feat: support email verification #34410

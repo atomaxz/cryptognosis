@@ -2668,3 +2668,4 @@
 24010. perf: cache repeated calculations #24010
 6587. style: reformat files with black #6587
 15284. docs: write FAQ section #15284
+85857. style: standardize quote style #85857

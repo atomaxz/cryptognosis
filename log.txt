@@ -6699,3 +6699,4 @@
 55211. fix: handle 500 error in quiz API #55211
 5243. chore: add GitHub actions badge #5243
 53724. refactor: clean up auth middleware #53724
+4805. chore: clean up unused files #4805

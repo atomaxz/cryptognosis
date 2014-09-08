@@ -1668,3 +1668,4 @@
 42176. fix: resolve issue with date parsing #42176
 45571. perf: reduce image load time #45571
 45262. docs: update README with setup steps #45262
+24144. perf: lazy-load components #24144

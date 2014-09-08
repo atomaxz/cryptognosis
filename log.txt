@@ -6700,3 +6700,4 @@
 5243. chore: add GitHub actions badge #5243
 53724. refactor: clean up auth middleware #53724
 4805. chore: clean up unused files #4805
+47240. chore: rename env.example #47240

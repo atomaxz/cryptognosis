@@ -5689,3 +5689,4 @@
 83107. test: add integration test for /submit endpoint #83107
 89826. docs: clarify environment setup #89826
 60901. test: add unit test for quiz service #60901
+88468. perf: optimize database query for quiz results #88468

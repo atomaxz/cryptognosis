@@ -729,3 +729,4 @@
 83821. fix: handle 500 error in quiz API #83821
 35265. refactor: refactor quiz grading logic #35265
 85274. chore: add GitHub actions badge #85274
+62647. fix: handle 500 error in quiz API #62647

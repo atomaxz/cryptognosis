@@ -1672,3 +1672,4 @@
 66232. chore: update .gitignore #66232
 26037. perf: optimize database query for quiz results #26037
 36692. feat: implement quiz timer feature #36692
+33939. fix: fix null pointer exception on login #33939

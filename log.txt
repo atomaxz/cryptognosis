@@ -731,3 +731,4 @@
 85274. chore: add GitHub actions badge #85274
 62647. fix: handle 500 error in quiz API #62647
 46948. refactor: organize models into subfolders #46948
+71962. docs: update README with setup steps #71962

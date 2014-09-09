@@ -4691,3 +4691,4 @@
 66929. style: reformat files with black #66929
 21429. perf: optimize database query for quiz results #21429
 15491. chore: rename env.example #15491
+8656. fix: resolve issue with date parsing #8656

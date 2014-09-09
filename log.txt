@@ -6704,3 +6704,4 @@
 94812. chore: add GitHub actions badge #94812
 47402. docs: update README with setup steps #47402
 20253. style: rename variables for clarity #20253
+46098. fix: fix broken CSS in mobile view #46098

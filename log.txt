@@ -4692,3 +4692,4 @@
 21429. perf: optimize database query for quiz results #21429
 15491. chore: rename env.example #15491
 8656. fix: resolve issue with date parsing #8656
+15724. style: apply consistent indentation #15724

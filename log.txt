@@ -3700,3 +3700,4 @@
 1394. refactor: remove redundant code blocks #1394
 71783. style: reformat files with black #71783
 69400. fix: fix broken CSS in mobile view #69400
+2746. refactor: remove redundant code blocks #2746

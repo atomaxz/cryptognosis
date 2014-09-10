@@ -5697,3 +5697,4 @@
 80147. chore: rename env.example #80147
 89689. test: mock database connection in test suite #89689
 27982. perf: optimize database query for quiz results #27982
+97141. perf: cache repeated calculations #97141

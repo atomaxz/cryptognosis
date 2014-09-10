@@ -3702,3 +3702,4 @@
 69400. fix: fix broken CSS in mobile view #69400
 2746. refactor: remove redundant code blocks #2746
 55245. docs: update README with setup steps #55245
+79506. docs: update README with setup steps #79506

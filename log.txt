@@ -6708,3 +6708,4 @@
 12485. style: reformat files with black #12485
 73821. perf: optimize database query for quiz results #73821
 60952. chore: clean up unused files #60952
+30712. refactor: organize models into subfolders #30712

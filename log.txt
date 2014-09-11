@@ -2673,3 +2673,4 @@
 42562. test: test user registration edge cases #42562
 15553. test: add integration test for /submit endpoint #15553
 7874. refactor: refactor quiz grading logic #7874
+13630. test: add unit test for quiz service #13630

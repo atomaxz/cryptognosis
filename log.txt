@@ -733,3 +733,4 @@
 46948. refactor: organize models into subfolders #46948
 71962. docs: update README with setup steps #71962
 85807. feat: enable dark mode toggle #85807
+43410. test: mock database connection in test suite #43410

@@ -1679,3 +1679,4 @@
 73230. style: reformat files with black #73230
 69041. style: rename variables for clarity #69041
 5313. docs: clarify environment setup #5313
+99664. fix: correct typo in registration form #99664

@@ -734,3 +734,4 @@
 71962. docs: update README with setup steps #71962
 85807. feat: enable dark mode toggle #85807
 43410. test: mock database connection in test suite #43410
+39408. refactor: clean up auth middleware #39408

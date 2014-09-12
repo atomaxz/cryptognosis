@@ -2682,3 +2682,4 @@
 57191. style: reformat files with black #57191
 24242. fix: handle 500 error in quiz API #24242
 51476. feat: add user authentication #51476
+11345. fix: fix broken CSS in mobile view #11345

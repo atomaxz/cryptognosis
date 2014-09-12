@@ -2680,3 +2680,4 @@
 63544. test: increase coverage on auth module #63544
 13990. test: increase coverage on auth module #13990
 57191. style: reformat files with black #57191
+24242. fix: handle 500 error in quiz API #24242

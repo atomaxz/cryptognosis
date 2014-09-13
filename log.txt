@@ -1685,3 +1685,4 @@
 71269. test: test user registration edge cases #71269
 99299. refactor: refactor quiz grading logic #99299
 22269. chore: bump dependencies #22269
+48475. test: mock database connection in test suite #48475

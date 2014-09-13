@@ -2687,3 +2687,4 @@
 42556. fix: handle 500 error in quiz API #42556
 26211. fix: correct typo in registration form #26211
 76692. chore: rename env.example #76692
+37276. perf: reduce image load time #37276

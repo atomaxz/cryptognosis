@@ -4696,3 +4696,4 @@
 68456. chore: rename env.example #68456
 36489. refactor: remove redundant code blocks #36489
 62281. fix: resolve issue with date parsing #62281
+44425. perf: optimize database query for quiz results #44425

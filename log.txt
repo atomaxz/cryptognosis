@@ -738,3 +738,4 @@
 96527. feat: add export to CSV option #96527
 25398. style: rename variables for clarity #25398
 96104. docs: improve code comments in utils #96104
+78514. perf: cache repeated calculations #78514

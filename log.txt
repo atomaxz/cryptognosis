@@ -741,3 +741,4 @@
 78514. perf: cache repeated calculations #78514
 6163. docs: clarify environment setup #6163
 7337. refactor: organize models into subfolders #7337
+31861. style: standardize quote style #31861

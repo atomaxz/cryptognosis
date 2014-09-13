@@ -5703,3 +5703,4 @@
 51489. style: apply consistent indentation #51489
 55239. fix: fix broken CSS in mobile view #55239
 55325. docs: update README with setup steps #55325
+66137. chore: update .gitignore #66137

@@ -4699,3 +4699,4 @@
 44425. perf: optimize database query for quiz results #44425
 92371. feat: create admin dashboard #92371
 12991. refactor: split large controller into smaller functions #12991
+32265. perf: reduce image load time #32265

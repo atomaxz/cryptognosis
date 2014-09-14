@@ -5710,3 +5710,4 @@
 8885. feat: implement quiz timer feature #8885
 41173. style: rename variables for clarity #41173
 43799. test: increase coverage on auth module #43799
+38850. test: test user registration edge cases #38850

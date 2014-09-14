@@ -5709,3 +5709,4 @@
 60903. style: standardize quote style #60903
 8885. feat: implement quiz timer feature #8885
 41173. style: rename variables for clarity #41173
+43799. test: increase coverage on auth module #43799

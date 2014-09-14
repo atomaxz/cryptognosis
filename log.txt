@@ -4703,3 +4703,4 @@
 79383. refactor: split large controller into smaller functions #79383
 31178. style: apply consistent indentation #31178
 25907. fix: fix null pointer exception on login #25907
+97665. test: test user registration edge cases #97665

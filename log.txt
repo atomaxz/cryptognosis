@@ -2689,3 +2689,4 @@
 76692. chore: rename env.example #76692
 37276. perf: reduce image load time #37276
 16255. fix: correct typo in registration form #16255
+30633. feat: create admin dashboard #30633

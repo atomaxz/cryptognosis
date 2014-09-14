@@ -1686,3 +1686,4 @@
 99299. refactor: refactor quiz grading logic #99299
 22269. chore: bump dependencies #22269
 48475. test: mock database connection in test suite #48475
+9202. perf: lazy-load components #9202

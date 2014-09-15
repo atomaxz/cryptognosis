@@ -3718,3 +3718,4 @@
 63154. refactor: split large controller into smaller functions #63154
 94239. perf: cache repeated calculations #94239
 32813. perf: reduce image load time #32813
+73736. style: standardize quote style #73736

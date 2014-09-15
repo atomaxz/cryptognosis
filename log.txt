@@ -5714,3 +5714,4 @@
 14358. docs: add API usage examples #14358
 84173. perf: lazy-load components #84173
 25018. style: rename variables for clarity #25018
+49067. chore: bump dependencies #49067

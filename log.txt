@@ -2691,3 +2691,4 @@
 16255. fix: correct typo in registration form #16255
 30633. feat: create admin dashboard #30633
 22323. refactor: remove redundant code blocks #22323
+56138. feat: add user authentication #56138

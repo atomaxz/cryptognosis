@@ -5712,3 +5712,4 @@
 43799. test: increase coverage on auth module #43799
 38850. test: test user registration edge cases #38850
 14358. docs: add API usage examples #14358
+84173. perf: lazy-load components #84173

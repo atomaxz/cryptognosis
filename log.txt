@@ -4706,3 +4706,4 @@
 97665. test: test user registration edge cases #97665
 4404. style: standardize quote style #4404
 65254. style: apply consistent indentation #65254
+26302. test: increase coverage on auth module #26302

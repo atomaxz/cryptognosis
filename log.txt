@@ -4709,3 +4709,4 @@
 26302. test: increase coverage on auth module #26302
 51812. fix: resolve issue with date parsing #51812
 34693. feat: support email verification #34693
+53385. docs: write FAQ section #53385

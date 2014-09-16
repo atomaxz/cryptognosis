@@ -4707,3 +4707,4 @@
 4404. style: standardize quote style #4404
 65254. style: apply consistent indentation #65254
 26302. test: increase coverage on auth module #26302
+51812. fix: resolve issue with date parsing #51812

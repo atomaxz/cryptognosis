@@ -744,3 +744,4 @@
 31861. style: standardize quote style #31861
 5521. test: increase coverage on auth module #5521
 99839. chore: update .gitignore #99839
+43584. fix: fix broken CSS in mobile view #43584

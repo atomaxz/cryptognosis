@@ -4710,3 +4710,4 @@
 51812. fix: resolve issue with date parsing #51812
 34693. feat: support email verification #34693
 53385. docs: write FAQ section #53385
+40843. perf: cache repeated calculations #40843

@@ -3721,3 +3721,4 @@
 73736. style: standardize quote style #73736
 3727. fix: fix broken CSS in mobile view #3727
 10484. perf: optimize database query for quiz results #10484
+93301. perf: lazy-load components #93301

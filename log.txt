@@ -1694,3 +1694,4 @@
 30548. style: standardize quote style #30548
 86738. docs: write FAQ section #86738
 7169. chore: add GitHub actions badge #7169
+81463. feat: add export to CSV option #81463

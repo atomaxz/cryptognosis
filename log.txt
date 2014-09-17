@@ -746,3 +746,4 @@
 99839. chore: update .gitignore #99839
 43584. fix: fix broken CSS in mobile view #43584
 78088. docs: document token refresh logic #78088
+33120. docs: update README with setup steps #33120

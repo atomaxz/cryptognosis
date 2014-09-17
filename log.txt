@@ -5722,3 +5722,4 @@
 82967. style: remove trailing whitespace #82967
 31857. refactor: refactor quiz grading logic #31857
 65448. perf: cache repeated calculations #65448
+88914. chore: add GitHub actions badge #88914

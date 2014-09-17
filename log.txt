@@ -6722,3 +6722,4 @@
 2383. chore: bump dependencies #2383
 29667. fix: handle 500 error in quiz API #29667
 80089. feat: enable dark mode toggle #80089
+80059. perf: reduce image load time #80059

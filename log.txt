@@ -6724,3 +6724,4 @@
 80089. feat: enable dark mode toggle #80089
 80059. perf: reduce image load time #80059
 23465. test: add integration test for /submit endpoint #23465
+42027. docs: document token refresh logic #42027

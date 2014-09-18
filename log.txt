@@ -2695,3 +2695,4 @@
 23182. style: apply consistent indentation #23182
 5839. chore: bump dependencies #5839
 34684. perf: cache repeated calculations #34684
+15957. perf: optimize database query for quiz results #15957

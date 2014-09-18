@@ -1696,3 +1696,4 @@
 7169. chore: add GitHub actions badge #7169
 81463. feat: add export to CSV option #81463
 26953. test: add unit test for quiz service #26953
+81192. test: increase coverage on auth module #81192

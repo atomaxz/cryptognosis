@@ -3724,3 +3724,4 @@
 93301. perf: lazy-load components #93301
 25605. refactor: split large controller into smaller functions #25605
 60407. fix: fix null pointer exception on login #60407
+52704. perf: lazy-load components #52704

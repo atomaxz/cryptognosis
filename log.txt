@@ -2697,3 +2697,4 @@
 34684. perf: cache repeated calculations #34684
 15957. perf: optimize database query for quiz results #15957
 96283. feat: create admin dashboard #96283
+64800. perf: optimize database query for quiz results #64800

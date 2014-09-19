@@ -4719,3 +4719,4 @@
 82825. chore: add GitHub actions badge #82825
 15770. fix: fix broken CSS in mobile view #15770
 8993. test: add unit test for quiz service #8993
+70824. feat: support email verification #70824

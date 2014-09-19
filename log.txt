@@ -6726,3 +6726,4 @@
 23465. test: add integration test for /submit endpoint #23465
 42027. docs: document token refresh logic #42027
 4650. style: remove trailing whitespace #4650
+8226. chore: add GitHub actions badge #8226

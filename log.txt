@@ -1699,3 +1699,4 @@
 81192. test: increase coverage on auth module #81192
 17451. feat: support email verification #17451
 73712. fix: fix null pointer exception on login #73712
+11509. feat: create admin dashboard #11509

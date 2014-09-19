@@ -2700,3 +2700,4 @@
 64800. perf: optimize database query for quiz results #64800
 14697. perf: cache repeated calculations #14697
 82785. feat: add user authentication #82785
+47217. chore: clean up unused files #47217

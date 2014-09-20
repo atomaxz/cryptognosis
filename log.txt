@@ -3730,3 +3730,4 @@
 12477. docs: improve code comments in utils #12477
 84847. refactor: clean up auth middleware #84847
 34539. refactor: refactor quiz grading logic #34539
+96710. perf: lazy-load components #96710

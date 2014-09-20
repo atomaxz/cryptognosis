@@ -1701,3 +1701,4 @@
 73712. fix: fix null pointer exception on login #73712
 11509. feat: create admin dashboard #11509
 76193. refactor: refactor quiz grading logic #76193
+67684. style: reformat files with black #67684

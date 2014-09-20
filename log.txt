@@ -753,3 +753,4 @@
 55127. style: remove trailing whitespace #55127
 90074. chore: update .gitignore #90074
 10514. style: apply consistent indentation #10514
+95232. feat: add export to CSV option #95232

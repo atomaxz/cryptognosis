@@ -4720,3 +4720,4 @@
 15770. fix: fix broken CSS in mobile view #15770
 8993. test: add unit test for quiz service #8993
 70824. feat: support email verification #70824
+38139. style: standardize quote style #38139

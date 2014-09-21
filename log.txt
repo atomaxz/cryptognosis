@@ -2702,3 +2702,4 @@
 82785. feat: add user authentication #82785
 47217. chore: clean up unused files #47217
 48910. refactor: clean up auth middleware #48910
+98176. fix: prevent crash on empty input #98176

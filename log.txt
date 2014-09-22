@@ -4727,3 +4727,4 @@
 67931. chore: bump dependencies #67931
 15339. test: add unit test for quiz service #15339
 86321. docs: write FAQ section #86321
+60892. perf: reduce image load time #60892

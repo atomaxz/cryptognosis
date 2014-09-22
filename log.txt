@@ -4725,3 +4725,4 @@
 39651. test: mock database connection in test suite #39651
 41949. test: mock database connection in test suite #41949
 67931. chore: bump dependencies #67931
+15339. test: add unit test for quiz service #15339

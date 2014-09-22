@@ -3734,3 +3734,4 @@
 70295. feat: implement quiz timer feature #70295
 20973. refactor: organize models into subfolders #20973
 27201. feat: create admin dashboard #27201
+35232. fix: fix broken CSS in mobile view #35232

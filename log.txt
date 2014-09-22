@@ -5732,3 +5732,4 @@
 24450. refactor: refactor quiz grading logic #24450
 95807. style: remove trailing whitespace #95807
 74974. test: test user registration edge cases #74974
+29526. test: mock database connection in test suite #29526

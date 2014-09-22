@@ -5731,3 +5731,4 @@
 23149. perf: lazy-load components #23149
 24450. refactor: refactor quiz grading logic #24450
 95807. style: remove trailing whitespace #95807
+74974. test: test user registration edge cases #74974

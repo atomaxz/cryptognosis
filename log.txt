@@ -4732,3 +4732,4 @@
 19327. perf: lazy-load components #19327
 88063. refactor: remove redundant code blocks #88063
 88024. chore: add GitHub actions badge #88024
+77573. perf: lazy-load components #77573

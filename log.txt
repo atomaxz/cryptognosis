@@ -4733,3 +4733,4 @@
 88063. refactor: remove redundant code blocks #88063
 88024. chore: add GitHub actions badge #88024
 77573. perf: lazy-load components #77573
+74757. feat: enable dark mode toggle #74757

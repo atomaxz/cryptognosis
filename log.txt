@@ -3739,3 +3739,4 @@
 19884. feat: create admin dashboard #19884
 34669. chore: clean up unused files #34669
 59704. test: test user registration edge cases #59704
+20894. feat: support email verification #20894

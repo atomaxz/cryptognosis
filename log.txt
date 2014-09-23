@@ -1709,3 +1709,4 @@
 40408. fix: correct typo in registration form #40408
 5170. perf: reduce image load time #5170
 41107. docs: add API usage examples #41107
+52675. fix: fix broken CSS in mobile view #52675

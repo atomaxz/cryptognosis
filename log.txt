@@ -6734,3 +6734,4 @@
 16897. test: add integration test for /submit endpoint #16897
 99930. style: rename variables for clarity #99930
 25864. fix: fix null pointer exception on login #25864
+22529. test: add unit test for quiz service #22529

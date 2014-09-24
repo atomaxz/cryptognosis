@@ -5743,3 +5743,4 @@
 96966. feat: support email verification #96966
 4750. perf: lazy-load components #4750
 58491. refactor: clean up auth middleware #58491
+43263. perf: lazy-load components #43263

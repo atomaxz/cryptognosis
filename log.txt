@@ -1711,3 +1711,4 @@
 41107. docs: add API usage examples #41107
 52675. fix: fix broken CSS in mobile view #52675
 18231. perf: reduce image load time #18231
+38824. style: standardize quote style #38824

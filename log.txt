@@ -5742,3 +5742,4 @@
 79730. fix: resolve issue with date parsing #79730
 96966. feat: support email verification #96966
 4750. perf: lazy-load components #4750
+58491. refactor: clean up auth middleware #58491

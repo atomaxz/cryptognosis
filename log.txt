@@ -3743,3 +3743,4 @@
 83235. chore: add GitHub actions badge #83235
 58929. chore: clean up unused files #58929
 91559. chore: bump dependencies #91559
+43292. refactor: clean up auth middleware #43292

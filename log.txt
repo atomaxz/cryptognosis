@@ -2710,3 +2710,4 @@
 39736. feat: add user authentication #39736
 74688. docs: improve code comments in utils #74688
 10209. feat: add export to CSV option #10209
+76298. feat: add user authentication #76298

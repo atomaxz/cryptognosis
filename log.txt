@@ -5740,3 +5740,4 @@
 50514. feat: implement quiz timer feature #50514
 36395. docs: add API usage examples #36395
 79730. fix: resolve issue with date parsing #79730
+96966. feat: support email verification #96966

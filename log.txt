@@ -3745,3 +3745,4 @@
 91559. chore: bump dependencies #91559
 43292. refactor: clean up auth middleware #43292
 64989. chore: rename env.example #64989
+85524. fix: fix broken CSS in mobile view #85524

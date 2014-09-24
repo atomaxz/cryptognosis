@@ -6736,3 +6736,4 @@
 25864. fix: fix null pointer exception on login #25864
 22529. test: add unit test for quiz service #22529
 25817. perf: cache repeated calculations #25817
+34426. style: standardize quote style #34426

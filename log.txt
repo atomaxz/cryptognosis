@@ -6738,3 +6738,4 @@
 25817. perf: cache repeated calculations #25817
 34426. style: standardize quote style #34426
 32546. test: test user registration edge cases #32546
+36973. perf: optimize database query for quiz results #36973

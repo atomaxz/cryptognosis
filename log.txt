@@ -1719,3 +1719,4 @@
 78224. perf: optimize database query for quiz results #78224
 46654. chore: bump dependencies #46654
 50566. refactor: split large controller into smaller functions #50566
+42198. fix: resolve issue with date parsing #42198

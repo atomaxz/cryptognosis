@@ -1716,3 +1716,4 @@
 25785. fix: prevent crash on empty input #25785
 3427. test: add unit test for quiz service #3427
 27087. refactor: refactor quiz grading logic #27087
+78224. perf: optimize database query for quiz results #78224

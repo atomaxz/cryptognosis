@@ -5749,3 +5749,4 @@
 96877. docs: improve code comments in utils #96877
 86724. feat: enable dark mode toggle #86724
 19609. test: test user registration edge cases #19609
+23700. feat: create admin dashboard #23700

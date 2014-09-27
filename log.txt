@@ -3752,3 +3752,4 @@
 44843. feat: implement quiz timer feature #44843
 87917. chore: rename env.example #87917
 90762. refactor: clean up auth middleware #90762
+14300. feat: enable dark mode toggle #14300

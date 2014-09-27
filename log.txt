@@ -3753,3 +3753,4 @@
 87917. chore: rename env.example #87917
 90762. refactor: clean up auth middleware #90762
 14300. feat: enable dark mode toggle #14300
+99436. perf: optimize database query for quiz results #99436

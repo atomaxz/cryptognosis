@@ -5754,3 +5754,4 @@
 89633. style: apply consistent indentation #89633
 34795. test: test user registration edge cases #34795
 29971. style: rename variables for clarity #29971
+63095. feat: support email verification #63095

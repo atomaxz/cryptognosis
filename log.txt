@@ -6747,3 +6747,4 @@
 99228. docs: document token refresh logic #99228
 19615. chore: clean up unused files #19615
 64416. chore: add GitHub actions badge #64416
+52099. feat: add user authentication #52099

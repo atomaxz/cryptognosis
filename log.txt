@@ -3751,3 +3751,4 @@
 77663. feat: support email verification #77663
 44843. feat: implement quiz timer feature #44843
 87917. chore: rename env.example #87917
+90762. refactor: clean up auth middleware #90762

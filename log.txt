@@ -2716,3 +2716,4 @@
 54061. refactor: remove redundant code blocks #54061
 92926. feat: enable dark mode toggle #92926
 88875. perf: reduce image load time #88875
+62517. perf: lazy-load components #62517

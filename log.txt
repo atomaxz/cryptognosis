@@ -5757,3 +5757,4 @@
 63095. feat: support email verification #63095
 84370. fix: handle 500 error in quiz API #84370
 68208. perf: reduce image load time #68208
+11078. perf: optimize database query for quiz results #11078

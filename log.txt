@@ -5755,3 +5755,4 @@
 34795. test: test user registration edge cases #34795
 29971. style: rename variables for clarity #29971
 63095. feat: support email verification #63095
+84370. fix: handle 500 error in quiz API #84370

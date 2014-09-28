@@ -6749,3 +6749,4 @@
 64416. chore: add GitHub actions badge #64416
 52099. feat: add user authentication #52099
 41977. perf: lazy-load components #41977
+23512. test: increase coverage on auth module #23512

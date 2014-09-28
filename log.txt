@@ -2722,3 +2722,4 @@
 54174. refactor: refactor quiz grading logic #54174
 86714. docs: clarify environment setup #86714
 39067. refactor: organize models into subfolders #39067
+50323. test: increase coverage on auth module #50323

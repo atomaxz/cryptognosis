@@ -5761,3 +5761,4 @@
 66715. fix: resolve issue with date parsing #66715
 44916. feat: create admin dashboard #44916
 49672. chore: add GitHub actions badge #49672
+36375. test: increase coverage on auth module #36375

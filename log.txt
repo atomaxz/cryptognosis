@@ -6754,3 +6754,4 @@
 50534. fix: resolve issue with date parsing #50534
 78783. fix: fix broken CSS in mobile view #78783
 36202. fix: prevent crash on empty input #36202
+77705. refactor: refactor quiz grading logic #77705

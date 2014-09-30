@@ -2727,3 +2727,4 @@
 10507. test: mock database connection in test suite #10507
 4111. docs: clarify environment setup #4111
 83408. style: apply consistent indentation #83408
+6661. style: standardize quote style #6661

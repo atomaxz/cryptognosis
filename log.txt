@@ -1725,3 +1725,4 @@
 59387. feat: enable dark mode toggle #59387
 72278. style: apply consistent indentation #72278
 42490. chore: rename env.example #42490
+1563. style: apply consistent indentation #1563

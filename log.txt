@@ -3757,3 +3757,4 @@
 95071. perf: lazy-load components #95071
 80988. style: remove trailing whitespace #80988
 97782. fix: correct typo in registration form #97782
+39931. refactor: clean up auth middleware #39931

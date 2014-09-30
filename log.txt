@@ -6758,3 +6758,4 @@
 78886. perf: cache repeated calculations #78886
 25808. feat: implement quiz timer feature #25808
 26733. refactor: refactor quiz grading logic #26733
+63432. perf: lazy-load components #63432

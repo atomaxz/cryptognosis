@@ -4746,3 +4746,4 @@
 61546. docs: write FAQ section #61546
 94702. refactor: split large controller into smaller functions #94702
 1887. feat: create admin dashboard #1887
+4926. docs: update README with setup steps #4926

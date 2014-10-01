@@ -771,3 +771,4 @@
 91524. docs: write FAQ section #91524
 92576. docs: update README with setup steps #92576
 15891. perf: reduce image load time #15891
+43513. fix: correct typo in registration form #43513

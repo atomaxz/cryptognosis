@@ -3760,3 +3760,4 @@
 39931. refactor: clean up auth middleware #39931
 38714. docs: add API usage examples #38714
 24260. perf: lazy-load components #24260
+37099. test: mock database connection in test suite #37099

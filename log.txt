@@ -2733,3 +2733,4 @@
 74375. test: add unit test for quiz service #74375
 39979. refactor: split large controller into smaller functions #39979
 94061. style: standardize quote style #94061
+26900. chore: add GitHub actions badge #26900

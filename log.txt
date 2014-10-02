@@ -6763,3 +6763,4 @@
 20520. docs: clarify environment setup #20520
 22183. docs: improve code comments in utils #22183
 34564. test: add integration test for /submit endpoint #34564
+14924. test: increase coverage on auth module #14924

@@ -4754,3 +4754,4 @@
 93777. perf: optimize database query for quiz results #93777
 88515. chore: bump dependencies #88515
 75953. docs: improve code comments in utils #75953
+3648. fix: fix broken CSS in mobile view #3648

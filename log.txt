@@ -1732,3 +1732,4 @@
 70643. refactor: remove redundant code blocks #70643
 20011. docs: clarify environment setup #20011
 59141. feat: add export to CSV option #59141
+29266. fix: fix null pointer exception on login #29266

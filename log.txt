@@ -775,3 +775,4 @@
 65924. feat: support email verification #65924
 70953. chore: clean up unused files #70953
 23280. chore: rename env.example #23280
+76197. docs: update README with setup steps #76197

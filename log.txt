@@ -3767,3 +3767,4 @@
 67943. docs: clarify environment setup #67943
 28420. fix: fix broken CSS in mobile view #28420
 8282. test: add integration test for /submit endpoint #8282
+70526. style: reformat files with black #70526

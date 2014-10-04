@@ -6767,3 +6767,4 @@
 54368. feat: add export to CSV option #54368
 6001. fix: correct typo in registration form #6001
 24866. chore: update .gitignore #24866
+25582. refactor: split large controller into smaller functions #25582

@@ -1741,3 +1741,4 @@
 84473. test: test user registration edge cases #84473
 92595. docs: add API usage examples #92595
 46324. fix: prevent crash on empty input #46324
+21234. test: mock database connection in test suite #21234

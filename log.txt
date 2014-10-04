@@ -2735,3 +2735,4 @@
 94061. style: standardize quote style #94061
 26900. chore: add GitHub actions badge #26900
 8381. docs: document token refresh logic #8381
+60992. fix: correct typo in registration form #60992

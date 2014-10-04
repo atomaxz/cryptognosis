@@ -1740,3 +1740,4 @@
 68659. perf: reduce image load time #68659
 84473. test: test user registration edge cases #84473
 92595. docs: add API usage examples #92595
+46324. fix: prevent crash on empty input #46324

@@ -2737,3 +2737,4 @@
 8381. docs: document token refresh logic #8381
 60992. fix: correct typo in registration form #60992
 79637. fix: fix null pointer exception on login #79637
+62652. feat: enable dark mode toggle #62652

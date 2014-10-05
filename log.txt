@@ -778,3 +778,4 @@
 76197. docs: update README with setup steps #76197
 50823. feat: enable dark mode toggle #50823
 57385. chore: clean up unused files #57385
+37255. chore: add GitHub actions badge #37255

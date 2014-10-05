@@ -3774,3 +3774,4 @@
 34054. feat: add export to CSV option #34054
 85070. perf: reduce image load time #85070
 64721. feat: enable dark mode toggle #64721
+7696. refactor: split large controller into smaller functions #7696

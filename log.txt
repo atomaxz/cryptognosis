@@ -777,3 +777,4 @@
 23280. chore: rename env.example #23280
 76197. docs: update README with setup steps #76197
 50823. feat: enable dark mode toggle #50823
+57385. chore: clean up unused files #57385

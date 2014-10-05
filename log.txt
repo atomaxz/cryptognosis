@@ -1744,3 +1744,4 @@
 21234. test: mock database connection in test suite #21234
 47415. chore: update .gitignore #47415
 17622. chore: update .gitignore #17622
+64450. perf: optimize database query for quiz results #64450

@@ -4759,3 +4759,4 @@
 11418. test: add integration test for /submit endpoint #11418
 9911. docs: improve code comments in utils #9911
 54124. feat: add user authentication #54124
+42807. perf: optimize database query for quiz results #42807

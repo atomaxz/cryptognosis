@@ -779,3 +779,4 @@
 50823. feat: enable dark mode toggle #50823
 57385. chore: clean up unused files #57385
 37255. chore: add GitHub actions badge #37255
+23766. chore: bump dependencies #23766

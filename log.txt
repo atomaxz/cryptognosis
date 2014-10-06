@@ -5778,3 +5778,4 @@
 6880. feat: enable dark mode toggle #6880
 13637. refactor: split large controller into smaller functions #13637
 3668. perf: optimize database query for quiz results #3668
+8341. fix: resolve issue with date parsing #8341

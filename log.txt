@@ -780,3 +780,4 @@
 57385. chore: clean up unused files #57385
 37255. chore: add GitHub actions badge #37255
 23766. chore: bump dependencies #23766
+5474. docs: write FAQ section #5474

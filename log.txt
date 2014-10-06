@@ -4761,3 +4761,4 @@
 54124. feat: add user authentication #54124
 42807. perf: optimize database query for quiz results #42807
 10110. refactor: organize models into subfolders #10110
+85003. perf: lazy-load components #85003

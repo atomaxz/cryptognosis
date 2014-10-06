@@ -1745,3 +1745,4 @@
 47415. chore: update .gitignore #47415
 17622. chore: update .gitignore #17622
 64450. perf: optimize database query for quiz results #64450
+0296. chore: bump dependencies #296

@@ -6775,3 +6775,4 @@
 18765. feat: create admin dashboard #18765
 24546. docs: clarify environment setup #24546
 54462. perf: reduce image load time #54462
+94403. style: remove trailing whitespace #94403

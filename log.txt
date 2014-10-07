@@ -2739,3 +2739,4 @@
 79637. fix: fix null pointer exception on login #79637
 62652. feat: enable dark mode toggle #62652
 94707. chore: clean up unused files #94707
+0953. test: increase coverage on auth module #953

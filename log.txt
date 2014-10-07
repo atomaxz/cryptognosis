@@ -6779,3 +6779,4 @@
 6485. feat: implement quiz timer feature #6485
 6061. test: increase coverage on auth module #6061
 63627. refactor: split large controller into smaller functions #63627
+6023. test: add unit test for quiz service #6023

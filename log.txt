@@ -6777,3 +6777,4 @@
 54462. perf: reduce image load time #54462
 94403. style: remove trailing whitespace #94403
 6485. feat: implement quiz timer feature #6485
+6061. test: increase coverage on auth module #6061

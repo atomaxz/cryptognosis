@@ -2741,3 +2741,4 @@
 94707. chore: clean up unused files #94707
 0953. test: increase coverage on auth module #953
 80998. perf: optimize database query for quiz results #80998
+81828. style: standardize quote style #81828

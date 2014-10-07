@@ -2742,3 +2742,4 @@
 0953. test: increase coverage on auth module #953
 80998. perf: optimize database query for quiz results #80998
 81828. style: standardize quote style #81828
+72756. docs: improve code comments in utils #72756

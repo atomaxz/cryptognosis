@@ -4765,3 +4765,4 @@
 82588. feat: implement quiz timer feature #82588
 85851. refactor: split large controller into smaller functions #85851
 8360. feat: enable dark mode toggle #8360
+73267. fix: prevent crash on empty input #73267

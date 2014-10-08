@@ -6782,3 +6782,4 @@
 6023. test: add unit test for quiz service #6023
 69727. chore: bump dependencies #69727
 56606. test: add integration test for /submit endpoint #56606
+68828. perf: optimize database query for quiz results #68828

@@ -783,3 +783,4 @@
 5474. docs: write FAQ section #5474
 76695. docs: update README with setup steps #76695
 29674. test: mock database connection in test suite #29674
+85696. perf: optimize database query for quiz results #85696

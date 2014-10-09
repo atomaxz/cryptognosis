@@ -1754,3 +1754,4 @@
 24632. test: add integration test for /submit endpoint #24632
 72334. perf: reduce image load time #72334
 18177. fix: correct typo in registration form #18177
+54161. perf: reduce image load time #54161

@@ -2747,3 +2747,4 @@
 43880. feat: implement quiz timer feature #43880
 84637. style: reformat files with black #84637
 90015. perf: optimize database query for quiz results #90015
+3878. perf: optimize database query for quiz results #3878

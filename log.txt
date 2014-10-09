@@ -3783,3 +3783,4 @@
 10020. feat: add export to CSV option #10020
 51559. feat: enable dark mode toggle #51559
 4254. docs: document token refresh logic #4254
+31559. chore: add GitHub actions badge #31559

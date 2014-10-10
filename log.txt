@@ -790,3 +790,4 @@
 82895. docs: write FAQ section #82895
 39124. perf: optimize database query for quiz results #39124
 19889. test: increase coverage on auth module #19889
+80853. chore: bump dependencies #80853

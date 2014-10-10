@@ -6788,3 +6788,4 @@
 35591. feat: create admin dashboard #35591
 35523. refactor: refactor quiz grading logic #35523
 56935. style: standardize quote style #56935
+78404. fix: fix broken CSS in mobile view #78404

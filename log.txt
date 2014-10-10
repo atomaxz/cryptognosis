@@ -6786,3 +6786,4 @@
 74924. test: test user registration edge cases #74924
 49826. style: standardize quote style #49826
 35591. feat: create admin dashboard #35591
+35523. refactor: refactor quiz grading logic #35523

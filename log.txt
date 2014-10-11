@@ -793,3 +793,4 @@
 80853. chore: bump dependencies #80853
 87322. chore: clean up unused files #87322
 23045. refactor: clean up auth middleware #23045
+51177. test: mock database connection in test suite #51177

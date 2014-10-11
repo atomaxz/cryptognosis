@@ -1760,3 +1760,4 @@
 85306. style: apply consistent indentation #85306
 27580. docs: add API usage examples #27580
 95028. test: increase coverage on auth module #95028
+91559. chore: bump dependencies #91559

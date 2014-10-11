@@ -3790,3 +3790,4 @@
 45872. style: reformat files with black #45872
 23750. test: increase coverage on auth module #23750
 92211. feat: create admin dashboard #92211
+79729. test: test user registration edge cases #79729

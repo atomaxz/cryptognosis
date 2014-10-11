@@ -792,3 +792,4 @@
 19889. test: increase coverage on auth module #19889
 80853. chore: bump dependencies #80853
 87322. chore: clean up unused files #87322
+23045. refactor: clean up auth middleware #23045

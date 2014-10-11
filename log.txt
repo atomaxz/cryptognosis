@@ -1762,3 +1762,4 @@
 95028. test: increase coverage on auth module #95028
 91559. chore: bump dependencies #91559
 36594. style: apply consistent indentation #36594
+17215. refactor: clean up auth middleware #17215

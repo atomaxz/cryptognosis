@@ -795,3 +795,4 @@
 23045. refactor: clean up auth middleware #23045
 51177. test: mock database connection in test suite #51177
 5069. style: rename variables for clarity #5069
+20508. feat: support email verification #20508

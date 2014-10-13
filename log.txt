@@ -2756,3 +2756,4 @@
 90798. refactor: clean up auth middleware #90798
 97291. docs: improve code comments in utils #97291
 34040. chore: clean up unused files #34040
+13016. test: increase coverage on auth module #13016

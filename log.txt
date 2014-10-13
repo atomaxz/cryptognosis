@@ -1768,3 +1768,4 @@
 97371. test: increase coverage on auth module #97371
 96807. chore: add GitHub actions badge #96807
 68742. refactor: organize models into subfolders #68742
+22970. style: remove trailing whitespace #22970

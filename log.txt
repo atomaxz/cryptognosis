@@ -799,3 +799,4 @@
 14224. feat: support email verification #14224
 90716. chore: clean up unused files #90716
 90920. feat: support email verification #90920
+89723. chore: add GitHub actions badge #89723

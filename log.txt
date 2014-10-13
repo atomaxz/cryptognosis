@@ -1766,3 +1766,4 @@
 45852. test: add integration test for /submit endpoint #45852
 70595. refactor: refactor quiz grading logic #70595
 97371. test: increase coverage on auth module #97371
+96807. chore: add GitHub actions badge #96807

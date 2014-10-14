@@ -3797,3 +3797,4 @@
 68556. style: reformat files with black #68556
 62796. fix: fix broken CSS in mobile view #62796
 61700. feat: support email verification #61700
+89813. refactor: organize models into subfolders #89813

@@ -1771,3 +1771,4 @@
 22970. style: remove trailing whitespace #22970
 58817. fix: handle 500 error in quiz API #58817
 65149. docs: write FAQ section #65149
+43329. refactor: refactor quiz grading logic #43329

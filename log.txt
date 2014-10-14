@@ -2760,3 +2760,4 @@
 12140. chore: clean up unused files #12140
 8273. style: apply consistent indentation #8273
 26076. chore: bump dependencies #26076
+41473. test: increase coverage on auth module #41473

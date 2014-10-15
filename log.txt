@@ -1772,3 +1772,4 @@
 58817. fix: handle 500 error in quiz API #58817
 65149. docs: write FAQ section #65149
 43329. refactor: refactor quiz grading logic #43329
+36322. refactor: clean up auth middleware #36322

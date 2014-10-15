@@ -2762,3 +2762,4 @@
 26076. chore: bump dependencies #26076
 41473. test: increase coverage on auth module #41473
 26336. refactor: organize models into subfolders #26336
+1440. docs: document token refresh logic #1440

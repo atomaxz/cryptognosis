@@ -5794,3 +5794,4 @@
 18868. style: rename variables for clarity #18868
 24817. style: standardize quote style #24817
 14856. fix: fix broken CSS in mobile view #14856
+17246. test: add integration test for /submit endpoint #17246

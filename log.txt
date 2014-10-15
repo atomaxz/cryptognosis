@@ -3802,3 +3802,4 @@
 30805. feat: create admin dashboard #30805
 34381. test: test user registration edge cases #34381
 48667. perf: reduce image load time #48667
+58880. style: reformat files with black #58880

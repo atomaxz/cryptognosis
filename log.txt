@@ -3800,3 +3800,4 @@
 89813. refactor: organize models into subfolders #89813
 31838. chore: update .gitignore #31838
 30805. feat: create admin dashboard #30805
+34381. test: test user registration edge cases #34381

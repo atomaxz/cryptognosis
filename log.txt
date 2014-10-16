@@ -2770,3 +2770,4 @@
 0089. style: remove trailing whitespace #89
 13032. fix: fix broken CSS in mobile view #13032
 7285. perf: reduce image load time #7285
+28594. chore: rename env.example #28594

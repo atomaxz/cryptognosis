@@ -1774,3 +1774,4 @@
 43329. refactor: refactor quiz grading logic #43329
 36322. refactor: clean up auth middleware #36322
 56841. feat: add export to CSV option #56841
+44783. fix: fix broken CSS in mobile view #44783

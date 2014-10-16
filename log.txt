@@ -5796,3 +5796,4 @@
 14856. fix: fix broken CSS in mobile view #14856
 17246. test: add integration test for /submit endpoint #17246
 6465. style: standardize quote style #6465
+65068. test: add unit test for quiz service #65068

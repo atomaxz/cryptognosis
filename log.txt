@@ -2767,3 +2767,4 @@
 30370. docs: update README with setup steps #30370
 66114. refactor: clean up auth middleware #66114
 84185. fix: fix broken CSS in mobile view #84185
+0089. style: remove trailing whitespace #89

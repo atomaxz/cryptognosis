@@ -2771,3 +2771,4 @@
 13032. fix: fix broken CSS in mobile view #13032
 7285. perf: reduce image load time #7285
 28594. chore: rename env.example #28594
+23615. test: increase coverage on auth module #23615

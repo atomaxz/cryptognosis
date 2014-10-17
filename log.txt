@@ -806,3 +806,4 @@
 92870. refactor: refactor quiz grading logic #92870
 82085. chore: add GitHub actions badge #82085
 91243. refactor: organize models into subfolders #91243
+7535. refactor: remove redundant code blocks #7535

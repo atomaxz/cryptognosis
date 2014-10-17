@@ -1779,3 +1779,4 @@
 28280. docs: improve code comments in utils #28280
 12656. style: rename variables for clarity #12656
 93487. feat: add export to CSV option #93487
+48107. perf: reduce image load time #48107

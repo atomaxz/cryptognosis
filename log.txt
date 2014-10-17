@@ -5798,3 +5798,4 @@
 6465. style: standardize quote style #6465
 65068. test: add unit test for quiz service #65068
 8410. refactor: remove redundant code blocks #8410
+3660. feat: enable dark mode toggle #3660

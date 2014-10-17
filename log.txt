@@ -1781,3 +1781,4 @@
 93487. feat: add export to CSV option #93487
 48107. perf: reduce image load time #48107
 10984. feat: enable dark mode toggle #10984
+65195. perf: cache repeated calculations #65195

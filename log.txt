@@ -4787,3 +4787,4 @@
 35831. docs: write FAQ section #35831
 69279. perf: cache repeated calculations #69279
 90899. docs: update README with setup steps #90899
+43471. style: rename variables for clarity #43471

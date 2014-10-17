@@ -3805,3 +3805,4 @@
 58880. style: reformat files with black #58880
 33002. test: add integration test for /submit endpoint #33002
 94530. feat: add user authentication #94530
+73345. refactor: clean up auth middleware #73345

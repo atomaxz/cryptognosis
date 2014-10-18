@@ -4790,3 +4790,4 @@
 43471. style: rename variables for clarity #43471
 67243. test: test user registration edge cases #67243
 2826. style: apply consistent indentation #2826
+43751. refactor: clean up auth middleware #43751

@@ -5801,3 +5801,4 @@
 3660. feat: enable dark mode toggle #3660
 24816. refactor: refactor quiz grading logic #24816
 12926. feat: enable dark mode toggle #12926
+7618. perf: lazy-load components #7618

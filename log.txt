@@ -4793,3 +4793,4 @@
 43751. refactor: clean up auth middleware #43751
 88018. perf: cache repeated calculations #88018
 71109. test: add unit test for quiz service #71109
+65368. feat: support email verification #65368

@@ -1788,3 +1788,4 @@
 5385. test: add integration test for /submit endpoint #5385
 50663. refactor: clean up auth middleware #50663
 27231. refactor: refactor quiz grading logic #27231
+17667. test: mock database connection in test suite #17667

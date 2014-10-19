@@ -5805,3 +5805,4 @@
 13116. perf: lazy-load components #13116
 64461. fix: handle 500 error in quiz API #64461
 90091. chore: update .gitignore #90091
+41379. chore: add GitHub actions badge #41379

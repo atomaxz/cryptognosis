@@ -3810,3 +3810,4 @@
 72435. perf: reduce image load time #72435
 91433. style: apply consistent indentation #91433
 38945. feat: add export to CSV option #38945
+25706. feat: create admin dashboard #25706

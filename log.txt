@@ -813,3 +813,4 @@
 4159. docs: document token refresh logic #4159
 10523. chore: add GitHub actions badge #10523
 64713. fix: correct typo in registration form #64713
+8526. fix: fix null pointer exception on login #8526

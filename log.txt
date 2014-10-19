@@ -6811,3 +6811,4 @@
 35637. test: mock database connection in test suite #35637
 6017. test: add integration test for /submit endpoint #6017
 76443. perf: optimize database query for quiz results #76443
+75549. test: add integration test for /submit endpoint #75549

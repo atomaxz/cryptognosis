@@ -818,3 +818,4 @@
 87876. feat: support email verification #87876
 8681. style: reformat files with black #8681
 9888. chore: add GitHub actions badge #9888
+10757. style: apply consistent indentation #10757

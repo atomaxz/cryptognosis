@@ -6813,3 +6813,4 @@
 76443. perf: optimize database query for quiz results #76443
 75549. test: add integration test for /submit endpoint #75549
 7918. style: rename variables for clarity #7918
+31233. refactor: refactor quiz grading logic #31233

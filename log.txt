@@ -1792,3 +1792,4 @@
 17545. fix: fix broken CSS in mobile view #17545
 60417. refactor: remove redundant code blocks #60417
 49966. test: increase coverage on auth module #49966
+71541. refactor: clean up auth middleware #71541

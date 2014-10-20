@@ -2787,3 +2787,4 @@
 10304. perf: optimize database query for quiz results #10304
 58777. chore: clean up unused files #58777
 5391. feat: enable dark mode toggle #5391
+95569. feat: support email verification #95569

@@ -3811,3 +3811,4 @@
 91433. style: apply consistent indentation #91433
 38945. feat: add export to CSV option #38945
 25706. feat: create admin dashboard #25706
+3394. refactor: clean up auth middleware #3394

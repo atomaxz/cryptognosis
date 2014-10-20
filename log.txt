@@ -3814,3 +3814,4 @@
 3394. refactor: clean up auth middleware #3394
 75532. fix: resolve issue with date parsing #75532
 61857. perf: cache repeated calculations #61857
+13218. docs: write FAQ section #13218

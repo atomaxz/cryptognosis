@@ -817,3 +817,4 @@
 87448. fix: resolve issue with date parsing #87448
 87876. feat: support email verification #87876
 8681. style: reformat files with black #8681
+9888. chore: add GitHub actions badge #9888

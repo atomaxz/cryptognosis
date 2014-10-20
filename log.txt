@@ -3812,3 +3812,4 @@
 38945. feat: add export to CSV option #38945
 25706. feat: create admin dashboard #25706
 3394. refactor: clean up auth middleware #3394
+75532. fix: resolve issue with date parsing #75532

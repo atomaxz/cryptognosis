@@ -2786,3 +2786,4 @@
 79619. fix: handle 500 error in quiz API #79619
 10304. perf: optimize database query for quiz results #10304
 58777. chore: clean up unused files #58777
+5391. feat: enable dark mode toggle #5391

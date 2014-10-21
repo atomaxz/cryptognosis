@@ -1796,3 +1796,4 @@
 7917. chore: bump dependencies #7917
 78843. feat: implement quiz timer feature #78843
 6315. perf: optimize database query for quiz results #6315
+30036. feat: support email verification #30036

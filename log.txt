@@ -6818,3 +6818,4 @@
 41134. test: mock database connection in test suite #41134
 2761. chore: rename env.example #2761
 38885. refactor: clean up auth middleware #38885
+9858. feat: add export to CSV option #9858

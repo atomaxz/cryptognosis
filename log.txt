@@ -3815,3 +3815,4 @@
 75532. fix: resolve issue with date parsing #75532
 61857. perf: cache repeated calculations #61857
 13218. docs: write FAQ section #13218
+33930. fix: prevent crash on empty input #33930

@@ -1797,3 +1797,4 @@
 78843. feat: implement quiz timer feature #78843
 6315. perf: optimize database query for quiz results #6315
 30036. feat: support email verification #30036
+13552. perf: reduce image load time #13552

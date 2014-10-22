@@ -2794,3 +2794,4 @@
 65804. fix: prevent crash on empty input #65804
 65745. feat: enable dark mode toggle #65745
 15264. perf: cache repeated calculations #15264
+17178. docs: update README with setup steps #17178

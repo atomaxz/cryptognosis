@@ -6820,3 +6820,4 @@
 38885. refactor: clean up auth middleware #38885
 9858. feat: add export to CSV option #9858
 57398. chore: bump dependencies #57398
+72375. chore: update .gitignore #72375

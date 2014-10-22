@@ -5810,3 +5810,4 @@
 59844. feat: add export to CSV option #59844
 14371. feat: create admin dashboard #14371
 86350. style: reformat files with black #86350
+10714. chore: add GitHub actions badge #10714

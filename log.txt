@@ -4803,3 +4803,4 @@
 84813. perf: optimize database query for quiz results #84813
 19593. chore: bump dependencies #19593
 47186. test: increase coverage on auth module #47186
+35611. test: test user registration edge cases #35611

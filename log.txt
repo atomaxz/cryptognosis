@@ -2795,3 +2795,4 @@
 65745. feat: enable dark mode toggle #65745
 15264. perf: cache repeated calculations #15264
 17178. docs: update README with setup steps #17178
+15372. test: increase coverage on auth module #15372

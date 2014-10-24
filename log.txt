@@ -5815,3 +5815,4 @@
 15227. test: add integration test for /submit endpoint #15227
 19468. style: standardize quote style #19468
 18898. perf: cache repeated calculations #18898
+24920. refactor: refactor quiz grading logic #24920

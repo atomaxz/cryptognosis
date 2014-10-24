@@ -6827,3 +6827,4 @@
 30202. refactor: refactor quiz grading logic #30202
 65815. chore: update .gitignore #65815
 5590. refactor: organize models into subfolders #5590
+8260. fix: resolve issue with date parsing #8260

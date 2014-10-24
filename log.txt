@@ -4806,3 +4806,4 @@
 35611. test: test user registration edge cases #35611
 95511. perf: lazy-load components #95511
 69763. chore: update .gitignore #69763
+7234. feat: support email verification #7234

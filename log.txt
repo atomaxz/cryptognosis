@@ -2801,3 +2801,4 @@
 58390. perf: reduce image load time #58390
 46401. chore: bump dependencies #46401
 74796. refactor: split large controller into smaller functions #74796
+56472. docs: update README with setup steps #56472

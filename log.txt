@@ -4808,3 +4808,4 @@
 69763. chore: update .gitignore #69763
 7234. feat: support email verification #7234
 87630. test: increase coverage on auth module #87630
+22586. feat: support email verification #22586

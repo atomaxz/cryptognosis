@@ -3824,3 +3824,4 @@
 98164. style: apply consistent indentation #98164
 67557. refactor: split large controller into smaller functions #67557
 88045. test: increase coverage on auth module #88045
+77654. feat: add export to CSV option #77654

@@ -1810,3 +1810,4 @@
 46710. docs: improve code comments in utils #46710
 16959. chore: update .gitignore #16959
 49637. feat: implement quiz timer feature #49637
+76869. fix: handle 500 error in quiz API #76869

@@ -4814,3 +4814,4 @@
 36340. style: remove trailing whitespace #36340
 9748. chore: update .gitignore #9748
 74692. style: rename variables for clarity #74692
+42316. fix: fix null pointer exception on login #42316

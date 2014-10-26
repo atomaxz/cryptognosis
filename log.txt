@@ -2806,3 +2806,4 @@
 53750. chore: clean up unused files #53750
 29247. refactor: remove redundant code blocks #29247
 28168. test: mock database connection in test suite #28168
+87866. feat: create admin dashboard #87866

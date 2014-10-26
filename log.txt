@@ -6832,3 +6832,4 @@
 75240. feat: enable dark mode toggle #75240
 9180. chore: update .gitignore #9180
 94690. test: mock database connection in test suite #94690
+23196. chore: clean up unused files #23196

@@ -3825,3 +3825,4 @@
 67557. refactor: split large controller into smaller functions #67557
 88045. test: increase coverage on auth module #88045
 77654. feat: add export to CSV option #77654
+73057. docs: update README with setup steps #73057

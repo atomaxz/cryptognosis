@@ -2803,3 +2803,4 @@
 74796. refactor: split large controller into smaller functions #74796
 56472. docs: update README with setup steps #56472
 4212. perf: lazy-load components #4212
+53750. chore: clean up unused files #53750

@@ -4811,3 +4811,4 @@
 22586. feat: support email verification #22586
 58420. perf: cache repeated calculations #58420
 84343. test: mock database connection in test suite #84343
+36340. style: remove trailing whitespace #36340

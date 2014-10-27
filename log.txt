@@ -2810,3 +2810,4 @@
 10177. feat: create admin dashboard #10177
 10307. fix: handle 500 error in quiz API #10307
 23275. perf: optimize database query for quiz results #23275
+35969. refactor: clean up auth middleware #35969

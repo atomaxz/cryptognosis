@@ -5822,3 +5822,4 @@
 32176. test: mock database connection in test suite #32176
 39811. chore: update .gitignore #39811
 21998. refactor: remove redundant code blocks #21998
+99003. test: add unit test for quiz service #99003

@@ -3828,3 +3828,4 @@
 73057. docs: update README with setup steps #73057
 52003. style: apply consistent indentation #52003
 46363. chore: bump dependencies #46363
+58467. test: test user registration edge cases #58467

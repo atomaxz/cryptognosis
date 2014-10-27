@@ -838,3 +838,4 @@
 67203. docs: clarify environment setup #67203
 88811. chore: bump dependencies #88811
 48082. feat: support email verification #48082
+94630. fix: prevent crash on empty input #94630

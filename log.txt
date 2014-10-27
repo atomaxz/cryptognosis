@@ -2808,3 +2808,4 @@
 28168. test: mock database connection in test suite #28168
 87866. feat: create admin dashboard #87866
 10177. feat: create admin dashboard #10177
+10307. fix: handle 500 error in quiz API #10307

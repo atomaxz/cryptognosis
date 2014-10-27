@@ -6833,3 +6833,4 @@
 9180. chore: update .gitignore #9180
 94690. test: mock database connection in test suite #94690
 23196. chore: clean up unused files #23196
+52665. fix: fix broken CSS in mobile view #52665

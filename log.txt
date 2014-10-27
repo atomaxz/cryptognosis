@@ -840,3 +840,4 @@
 48082. feat: support email verification #48082
 94630. fix: prevent crash on empty input #94630
 28318. fix: fix null pointer exception on login #28318
+69510. test: increase coverage on auth module #69510

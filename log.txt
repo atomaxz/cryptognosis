@@ -1814,3 +1814,4 @@
 52897. docs: add API usage examples #52897
 55522. test: add unit test for quiz service #55522
 55255. perf: reduce image load time #55255
+94563. chore: add GitHub actions badge #94563

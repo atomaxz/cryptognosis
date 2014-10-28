@@ -5825,3 +5825,4 @@
 99003. test: add unit test for quiz service #99003
 79711. refactor: remove redundant code blocks #79711
 14047. style: remove trailing whitespace #14047
+1100. chore: add GitHub actions badge #1100

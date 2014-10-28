@@ -844,3 +844,4 @@
 37303. docs: add API usage examples #37303
 11369. refactor: organize models into subfolders #11369
 81309. fix: fix null pointer exception on login #81309
+32120. test: test user registration edge cases #32120

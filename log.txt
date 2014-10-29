@@ -4820,3 +4820,4 @@
 62955. docs: document token refresh logic #62955
 11396. chore: rename env.example #11396
 26148. docs: add API usage examples #26148
+59481. fix: prevent crash on empty input #59481

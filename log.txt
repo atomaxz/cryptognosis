@@ -6842,3 +6842,4 @@
 42180. refactor: clean up auth middleware #42180
 46682. test: add unit test for quiz service #46682
 12872. fix: prevent crash on empty input #12872
+38608. refactor: refactor quiz grading logic #38608

@@ -2812,3 +2812,4 @@
 23275. perf: optimize database query for quiz results #23275
 35969. refactor: clean up auth middleware #35969
 28547. chore: update .gitignore #28547
+1601. fix: prevent crash on empty input #1601

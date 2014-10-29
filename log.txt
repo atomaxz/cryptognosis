@@ -846,3 +846,4 @@
 81309. fix: fix null pointer exception on login #81309
 32120. test: test user registration edge cases #32120
 87546. chore: add GitHub actions badge #87546
+93429. fix: resolve issue with date parsing #93429

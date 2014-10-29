@@ -845,3 +845,4 @@
 11369. refactor: organize models into subfolders #11369
 81309. fix: fix null pointer exception on login #81309
 32120. test: test user registration edge cases #32120
+87546. chore: add GitHub actions badge #87546

@@ -6843,3 +6843,4 @@
 46682. test: add unit test for quiz service #46682
 12872. fix: prevent crash on empty input #12872
 38608. refactor: refactor quiz grading logic #38608
+12313. perf: cache repeated calculations #12313

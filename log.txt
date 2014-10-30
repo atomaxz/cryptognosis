@@ -852,3 +852,4 @@
 7675. feat: implement quiz timer feature #7675
 94004. style: remove trailing whitespace #94004
 15915. test: mock database connection in test suite #15915
+69346. perf: optimize database query for quiz results #69346

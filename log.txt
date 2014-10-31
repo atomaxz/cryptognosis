@@ -2817,3 +2817,4 @@
 83989. perf: cache repeated calculations #83989
 50918. style: apply consistent indentation #50918
 29117. docs: clarify environment setup #29117
+98859. perf: lazy-load components #98859

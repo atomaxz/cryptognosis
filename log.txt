@@ -1819,3 +1819,4 @@
 73328. refactor: remove redundant code blocks #73328
 19793. perf: cache repeated calculations #19793
 94818. style: rename variables for clarity #94818
+10657. fix: correct typo in registration form #10657

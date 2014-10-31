@@ -5833,3 +5833,4 @@
 93381. style: apply consistent indentation #93381
 65777. docs: add API usage examples #65777
 83452. chore: update .gitignore #83452
+46061. chore: add GitHub actions badge #46061

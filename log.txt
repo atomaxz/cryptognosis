@@ -6849,3 +6849,4 @@
 98939. style: reformat files with black #98939
 15907. feat: add export to CSV option #15907
 63200. test: increase coverage on auth module #63200
+34193. refactor: refactor quiz grading logic #34193

@@ -4830,3 +4830,4 @@
 84928. fix: correct typo in registration form #84928
 52784. test: increase coverage on auth module #52784
 81469. chore: update .gitignore #81469
+42123. refactor: clean up auth middleware #42123

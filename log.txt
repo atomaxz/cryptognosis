@@ -3840,3 +3840,4 @@
 66527. feat: support email verification #66527
 65610. refactor: remove redundant code blocks #65610
 1746. refactor: clean up auth middleware #1746
+2119. docs: write FAQ section #2119

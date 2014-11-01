@@ -4827,3 +4827,4 @@
 49383. docs: clarify environment setup #49383
 72100. docs: improve code comments in utils #72100
 8299. docs: clarify environment setup #8299
+84928. fix: correct typo in registration form #84928

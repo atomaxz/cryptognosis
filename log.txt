@@ -860,3 +860,4 @@
 50501. test: mock database connection in test suite #50501
 19845. style: standardize quote style #19845
 27361. feat: add user authentication #27361
+51216. chore: add GitHub actions badge #51216

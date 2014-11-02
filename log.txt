@@ -1824,3 +1824,4 @@
 60226. chore: rename env.example #60226
 41787. feat: create admin dashboard #41787
 91100. style: apply consistent indentation #91100
+79699. test: increase coverage on auth module #79699

@@ -2822,3 +2822,4 @@
 77136. perf: optimize database query for quiz results #77136
 52478. fix: correct typo in registration form #52478
 73058. style: apply consistent indentation #73058
+49764. docs: write FAQ section #49764

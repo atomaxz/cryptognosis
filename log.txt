@@ -2823,3 +2823,4 @@
 52478. fix: correct typo in registration form #52478
 73058. style: apply consistent indentation #73058
 49764. docs: write FAQ section #49764
+17280. style: reformat files with black #17280

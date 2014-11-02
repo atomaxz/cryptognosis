@@ -5839,3 +5839,4 @@
 33546. docs: improve code comments in utils #33546
 1026. test: mock database connection in test suite #1026
 60959. test: mock database connection in test suite #60959
+77050. fix: fix null pointer exception on login #77050

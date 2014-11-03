@@ -2824,3 +2824,4 @@
 73058. style: apply consistent indentation #73058
 49764. docs: write FAQ section #49764
 17280. style: reformat files with black #17280
+21964. test: mock database connection in test suite #21964

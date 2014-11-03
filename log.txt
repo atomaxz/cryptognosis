@@ -1829,3 +1829,4 @@
 39524. refactor: split large controller into smaller functions #39524
 80692. feat: enable dark mode toggle #80692
 24008. fix: correct typo in registration form #24008
+19892. test: add unit test for quiz service #19892

@@ -5841,3 +5841,4 @@
 60959. test: mock database connection in test suite #60959
 77050. fix: fix null pointer exception on login #77050
 95143. chore: rename env.example #95143
+44699. refactor: remove redundant code blocks #44699

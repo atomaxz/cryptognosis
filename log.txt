@@ -4838,3 +4838,4 @@
 57167. perf: lazy-load components #57167
 28171. refactor: remove redundant code blocks #28171
 80348. perf: optimize database query for quiz results #80348
+95655. fix: fix broken CSS in mobile view #95655

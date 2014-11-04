@@ -6862,3 +6862,4 @@
 27607. test: test user registration edge cases #27607
 67335. perf: optimize database query for quiz results #67335
 21447. perf: reduce image load time #21447
+46352. feat: enable dark mode toggle #46352

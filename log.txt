@@ -865,3 +865,4 @@
 19265. test: add integration test for /submit endpoint #19265
 84288. fix: correct typo in registration form #84288
 89613. chore: update .gitignore #89613
+58137. refactor: clean up auth middleware #58137

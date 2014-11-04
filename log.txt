@@ -3850,3 +3850,4 @@
 57256. refactor: organize models into subfolders #57256
 98940. docs: improve code comments in utils #98940
 37358. style: remove trailing whitespace #37358
+83786. feat: enable dark mode toggle #83786

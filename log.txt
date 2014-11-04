@@ -866,3 +866,4 @@
 84288. fix: correct typo in registration form #84288
 89613. chore: update .gitignore #89613
 58137. refactor: clean up auth middleware #58137
+0712. perf: lazy-load components #712

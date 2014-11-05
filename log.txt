@@ -4843,3 +4843,4 @@
 12013. feat: support email verification #12013
 93805. style: apply consistent indentation #93805
 35897. chore: update .gitignore #35897
+33798. perf: cache repeated calculations #33798

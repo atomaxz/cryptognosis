@@ -6864,3 +6864,4 @@
 21447. perf: reduce image load time #21447
 46352. feat: enable dark mode toggle #46352
 72243. feat: create admin dashboard #72243
+4287. feat: create admin dashboard #4287

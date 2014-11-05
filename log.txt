@@ -6867,3 +6867,4 @@
 4287. feat: create admin dashboard #4287
 13910. chore: rename env.example #13910
 87368. fix: resolve issue with date parsing #87368
+28462. fix: fix broken CSS in mobile view #28462

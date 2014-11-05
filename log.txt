@@ -2827,3 +2827,4 @@
 21964. test: mock database connection in test suite #21964
 11151. docs: clarify environment setup #11151
 42625. fix: correct typo in registration form #42625
+92324. docs: improve code comments in utils #92324

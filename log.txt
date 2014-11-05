@@ -2829,3 +2829,4 @@
 42625. fix: correct typo in registration form #42625
 92324. docs: improve code comments in utils #92324
 9009. docs: add API usage examples #9009
+37519. perf: lazy-load components #37519

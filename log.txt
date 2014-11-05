@@ -3853,3 +3853,4 @@
 83786. feat: enable dark mode toggle #83786
 33208. test: add unit test for quiz service #33208
 72709. refactor: refactor quiz grading logic #72709
+45791. chore: add GitHub actions badge #45791

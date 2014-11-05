@@ -3854,3 +3854,4 @@
 33208. test: add unit test for quiz service #33208
 72709. refactor: refactor quiz grading logic #72709
 45791. chore: add GitHub actions badge #45791
+73718. refactor: organize models into subfolders #73718

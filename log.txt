@@ -1836,3 +1836,4 @@
 61010. perf: optimize database query for quiz results #61010
 96976. refactor: clean up auth middleware #96976
 33619. chore: rename env.example #33619
+48786. fix: prevent crash on empty input #48786

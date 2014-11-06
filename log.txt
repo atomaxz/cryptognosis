@@ -4845,3 +4845,4 @@
 35897. chore: update .gitignore #35897
 33798. perf: cache repeated calculations #33798
 16785. feat: support email verification #16785
+35636. docs: update README with setup steps #35636

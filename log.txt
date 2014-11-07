@@ -6871,3 +6871,4 @@
 38984. style: standardize quote style #38984
 19719. test: increase coverage on auth module #19719
 48218. style: apply consistent indentation #48218
+34685. docs: document token refresh logic #34685

@@ -873,3 +873,4 @@
 42122. docs: write FAQ section #42122
 80137. docs: update README with setup steps #80137
 2244. fix: handle 500 error in quiz API #2244
+87429. test: mock database connection in test suite #87429

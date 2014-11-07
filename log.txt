@@ -4847,3 +4847,4 @@
 16785. feat: support email verification #16785
 35636. docs: update README with setup steps #35636
 19896. refactor: clean up auth middleware #19896
+28864. feat: support email verification #28864

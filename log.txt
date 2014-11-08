@@ -5860,3 +5860,4 @@
 32781. chore: bump dependencies #32781
 52656. test: mock database connection in test suite #52656
 98046. perf: optimize database query for quiz results #98046
+58918. test: mock database connection in test suite #58918

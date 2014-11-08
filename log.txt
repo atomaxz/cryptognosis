@@ -5858,3 +5858,4 @@
 26381. docs: update README with setup steps #26381
 73342. fix: correct typo in registration form #73342
 32781. chore: bump dependencies #32781
+52656. test: mock database connection in test suite #52656

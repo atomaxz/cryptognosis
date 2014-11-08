@@ -6875,3 +6875,4 @@
 79189. refactor: split large controller into smaller functions #79189
 39866. fix: correct typo in registration form #39866
 33574. perf: reduce image load time #33574
+92672. chore: add GitHub actions badge #92672

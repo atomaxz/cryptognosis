@@ -4851,3 +4851,4 @@
 64284. style: standardize quote style #64284
 93625. test: mock database connection in test suite #93625
 36571. fix: fix null pointer exception on login #36571
+33323. style: remove trailing whitespace #33323

@@ -3864,3 +3864,4 @@
 89915. fix: handle 500 error in quiz API #89915
 74178. fix: fix null pointer exception on login #74178
 31480. chore: bump dependencies #31480
+62538. chore: rename env.example #62538

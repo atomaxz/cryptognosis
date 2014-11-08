@@ -1840,3 +1840,4 @@
 22356. docs: clarify environment setup #22356
 38124. chore: update .gitignore #38124
 17126. chore: rename env.example #17126
+44936. feat: support email verification #44936

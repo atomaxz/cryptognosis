@@ -877,3 +877,4 @@
 30555. fix: correct typo in registration form #30555
 60628. fix: resolve issue with date parsing #60628
 94758. feat: add user authentication #94758
+76499. feat: support email verification #76499

@@ -5862,3 +5862,4 @@
 98046. perf: optimize database query for quiz results #98046
 58918. test: mock database connection in test suite #58918
 60135. chore: add GitHub actions badge #60135
+9544. feat: add user authentication #9544

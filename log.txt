@@ -4855,3 +4855,4 @@
 29453. chore: clean up unused files #29453
 47634. docs: update README with setup steps #47634
 31764. chore: bump dependencies #31764
+69746. fix: fix null pointer exception on login #69746

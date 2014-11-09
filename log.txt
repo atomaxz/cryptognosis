@@ -4853,3 +4853,4 @@
 36571. fix: fix null pointer exception on login #36571
 33323. style: remove trailing whitespace #33323
 29453. chore: clean up unused files #29453
+47634. docs: update README with setup steps #47634

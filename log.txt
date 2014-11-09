@@ -2838,3 +2838,4 @@
 84986. refactor: organize models into subfolders #84986
 36182. docs: clarify environment setup #36182
 14597. chore: rename env.example #14597
+85731. feat: enable dark mode toggle #85731

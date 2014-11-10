@@ -2840,3 +2840,4 @@
 14597. chore: rename env.example #14597
 85731. feat: enable dark mode toggle #85731
 5180. fix: prevent crash on empty input #5180
+25030. chore: bump dependencies #25030

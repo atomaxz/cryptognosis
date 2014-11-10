@@ -5865,3 +5865,4 @@
 9544. feat: add user authentication #9544
 47583. perf: cache repeated calculations #47583
 27981. style: remove trailing whitespace #27981
+22406. test: add unit test for quiz service #22406

@@ -5869,3 +5869,4 @@
 12536. feat: implement quiz timer feature #12536
 15125. refactor: refactor quiz grading logic #15125
 78347. refactor: organize models into subfolders #78347
+44057. feat: add user authentication #44057

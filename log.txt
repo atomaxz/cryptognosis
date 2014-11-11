@@ -4863,3 +4863,4 @@
 16440. refactor: split large controller into smaller functions #16440
 37516. feat: implement quiz timer feature #37516
 62545. test: increase coverage on auth module #62545
+54317. feat: add export to CSV option #54317

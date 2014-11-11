@@ -4859,3 +4859,4 @@
 81820. docs: document token refresh logic #81820
 69104. chore: clean up unused files #69104
 81195. style: apply consistent indentation #81195
+44560. perf: lazy-load components #44560

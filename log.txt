@@ -3872,3 +3872,4 @@
 89186. test: add integration test for /submit endpoint #89186
 50106. perf: reduce image load time #50106
 96726. docs: clarify environment setup #96726
+77025. style: standardize quote style #77025

@@ -1848,3 +1848,4 @@
 71520. refactor: remove redundant code blocks #71520
 7879. chore: update .gitignore #7879
 79802. chore: bump dependencies #79802
+67204. style: remove trailing whitespace #67204

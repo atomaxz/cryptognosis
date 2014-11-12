@@ -5873,3 +5873,4 @@
 28413. chore: rename env.example #28413
 95843. style: reformat files with black #95843
 88619. fix: fix broken CSS in mobile view #88619
+6368. fix: correct typo in registration form #6368

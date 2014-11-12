@@ -5871,3 +5871,4 @@
 78347. refactor: organize models into subfolders #78347
 44057. feat: add user authentication #44057
 28413. chore: rename env.example #28413
+95843. style: reformat files with black #95843

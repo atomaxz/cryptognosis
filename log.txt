@@ -880,3 +880,4 @@
 76499. feat: support email verification #76499
 96735. perf: optimize database query for quiz results #96735
 6598. chore: update .gitignore #6598
+13924. fix: prevent crash on empty input #13924

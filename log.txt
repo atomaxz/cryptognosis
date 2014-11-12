@@ -2842,3 +2842,4 @@
 5180. fix: prevent crash on empty input #5180
 25030. chore: bump dependencies #25030
 10951. refactor: refactor quiz grading logic #10951
+45576. test: add integration test for /submit endpoint #45576

@@ -6888,3 +6888,4 @@
 50166. perf: cache repeated calculations #50166
 56043. feat: enable dark mode toggle #56043
 28702. chore: clean up unused files #28702
+42963. perf: lazy-load components #42963

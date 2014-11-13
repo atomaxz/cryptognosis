@@ -886,3 +886,4 @@
 11187. refactor: split large controller into smaller functions #11187
 94683. test: add unit test for quiz service #94683
 10690. docs: update README with setup steps #10690
+11752. feat: enable dark mode toggle #11752

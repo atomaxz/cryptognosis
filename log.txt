@@ -6890,3 +6890,4 @@
 28702. chore: clean up unused files #28702
 42963. perf: lazy-load components #42963
 42464. docs: document token refresh logic #42464
+4698. style: remove trailing whitespace #4698

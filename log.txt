@@ -3877,3 +3877,4 @@
 17007. feat: add export to CSV option #17007
 81935. refactor: organize models into subfolders #81935
 23870. chore: bump dependencies #23870
+86121. chore: add GitHub actions badge #86121

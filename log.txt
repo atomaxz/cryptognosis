@@ -2847,3 +2847,4 @@
 84202. style: reformat files with black #84202
 17828. feat: enable dark mode toggle #17828
 62435. style: reformat files with black #62435
+40436. fix: correct typo in registration form #40436

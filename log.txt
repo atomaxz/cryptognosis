@@ -2850,3 +2850,4 @@
 40436. fix: correct typo in registration form #40436
 19147. refactor: clean up auth middleware #19147
 89966. chore: update .gitignore #89966
+46684. test: mock database connection in test suite #46684

@@ -890,3 +890,4 @@
 98972. style: remove trailing whitespace #98972
 52392. feat: add user authentication #52392
 84119. feat: support email verification #84119
+76467. feat: support email verification #76467

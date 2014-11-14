@@ -4868,3 +4868,4 @@
 47119. test: test user registration edge cases #47119
 92222. docs: add API usage examples #92222
 87340. chore: rename env.example #87340
+75756. fix: correct typo in registration form #75756

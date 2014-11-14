@@ -2849,3 +2849,4 @@
 62435. style: reformat files with black #62435
 40436. fix: correct typo in registration form #40436
 19147. refactor: clean up auth middleware #19147
+89966. chore: update .gitignore #89966

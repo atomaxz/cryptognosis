@@ -2852,3 +2852,4 @@
 89966. chore: update .gitignore #89966
 46684. test: mock database connection in test suite #46684
 85936. fix: fix null pointer exception on login #85936
+13878. perf: lazy-load components #13878

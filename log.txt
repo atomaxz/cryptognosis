@@ -3881,3 +3881,4 @@
 40167. perf: reduce image load time #40167
 73134. test: mock database connection in test suite #73134
 43484. docs: document token refresh logic #43484
+5152. fix: handle 500 error in quiz API #5152

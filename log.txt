@@ -5879,3 +5879,4 @@
 35653. perf: optimize database query for quiz results #35653
 68731. docs: write FAQ section #68731
 85407. feat: create admin dashboard #85407
+4979. test: increase coverage on auth module #4979

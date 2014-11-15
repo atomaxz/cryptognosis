@@ -891,3 +891,4 @@
 52392. feat: add user authentication #52392
 84119. feat: support email verification #84119
 76467. feat: support email verification #76467
+91959. fix: fix null pointer exception on login #91959

@@ -6897,3 +6897,4 @@
 87701. perf: reduce image load time #87701
 24885. chore: add GitHub actions badge #24885
 28622. feat: implement quiz timer feature #28622
+59970. docs: clarify environment setup #59970

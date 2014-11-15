@@ -2856,3 +2856,4 @@
 69995. fix: handle 500 error in quiz API #69995
 10847. test: increase coverage on auth module #10847
 17710. test: mock database connection in test suite #17710
+90111. style: remove trailing whitespace #90111

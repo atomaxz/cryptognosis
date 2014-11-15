@@ -5882,3 +5882,4 @@
 4979. test: increase coverage on auth module #4979
 93735. chore: rename env.example #93735
 64936. test: test user registration edge cases #64936
+36608. refactor: remove redundant code blocks #36608

@@ -4876,3 +4876,4 @@
 88815. test: mock database connection in test suite #88815
 98599. refactor: remove redundant code blocks #98599
 58262. style: reformat files with black #58262
+47407. style: apply consistent indentation #47407

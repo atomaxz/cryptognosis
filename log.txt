@@ -3883,3 +3883,4 @@
 43484. docs: document token refresh logic #43484
 5152. fix: handle 500 error in quiz API #5152
 77701. style: apply consistent indentation #77701
+5715. test: test user registration edge cases #5715

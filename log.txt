@@ -4878,3 +4878,4 @@
 58262. style: reformat files with black #58262
 47407. style: apply consistent indentation #47407
 28750. chore: update .gitignore #28750
+46844. style: remove trailing whitespace #46844

@@ -6901,3 +6901,4 @@
 23525. refactor: remove redundant code blocks #23525
 62920. docs: improve code comments in utils #62920
 62338. docs: add API usage examples #62338
+53252. perf: reduce image load time #53252

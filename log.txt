@@ -3884,3 +3884,4 @@
 5152. fix: handle 500 error in quiz API #5152
 77701. style: apply consistent indentation #77701
 5715. test: test user registration edge cases #5715
+51504. feat: enable dark mode toggle #51504

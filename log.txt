@@ -1857,3 +1857,4 @@
 83211. feat: implement quiz timer feature #83211
 5172. fix: handle 500 error in quiz API #5172
 69616. fix: fix broken CSS in mobile view #69616
+35409. chore: bump dependencies #35409

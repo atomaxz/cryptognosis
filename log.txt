@@ -3887,3 +3887,4 @@
 51504. feat: enable dark mode toggle #51504
 34805. style: remove trailing whitespace #34805
 34725. chore: update .gitignore #34725
+77326. refactor: organize models into subfolders #77326

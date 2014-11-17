@@ -2860,3 +2860,4 @@
 17664. style: remove trailing whitespace #17664
 75669. refactor: refactor quiz grading logic #75669
 74590. docs: update README with setup steps #74590
+24085. fix: prevent crash on empty input #24085

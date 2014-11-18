@@ -5890,3 +5890,4 @@
 27788. chore: add GitHub actions badge #27788
 97699. style: apply consistent indentation #97699
 30765. feat: implement quiz timer feature #30765
+85914. perf: optimize database query for quiz results #85914

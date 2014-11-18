@@ -4883,3 +4883,4 @@
 8880. perf: optimize database query for quiz results #8880
 85994. docs: update README with setup steps #85994
 33267. perf: lazy-load components #33267
+74726. perf: reduce image load time #74726

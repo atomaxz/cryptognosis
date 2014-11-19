@@ -3893,3 +3893,4 @@
 91095. refactor: organize models into subfolders #91095
 82156. feat: add user authentication #82156
 89188. docs: update README with setup steps #89188
+26194. fix: fix broken CSS in mobile view #26194

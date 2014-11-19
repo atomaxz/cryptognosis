@@ -3895,3 +3895,4 @@
 89188. docs: update README with setup steps #89188
 26194. fix: fix broken CSS in mobile view #26194
 21190. feat: support email verification #21190
+39658. chore: bump dependencies #39658

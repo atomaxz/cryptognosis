@@ -3897,3 +3897,4 @@
 21190. feat: support email verification #21190
 39658. chore: bump dependencies #39658
 95828. fix: correct typo in registration form #95828
+89733. chore: rename env.example #89733

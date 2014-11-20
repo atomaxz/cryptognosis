@@ -900,3 +900,4 @@
 8105. refactor: remove redundant code blocks #8105
 98023. fix: prevent crash on empty input #98023
 39359. style: standardize quote style #39359
+41756. fix: prevent crash on empty input #41756

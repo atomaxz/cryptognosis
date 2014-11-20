@@ -898,3 +898,4 @@
 13046. feat: add export to CSV option #13046
 81695. test: increase coverage on auth module #81695
 8105. refactor: remove redundant code blocks #8105
+98023. fix: prevent crash on empty input #98023

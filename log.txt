@@ -4890,3 +4890,4 @@
 71016. style: standardize quote style #71016
 78606. perf: lazy-load components #78606
 96744. style: standardize quote style #96744
+93824. chore: add GitHub actions badge #93824

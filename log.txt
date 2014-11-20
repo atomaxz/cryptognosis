@@ -6908,3 +6908,4 @@
 6531. style: standardize quote style #6531
 61646. feat: create admin dashboard #61646
 52806. refactor: split large controller into smaller functions #52806
+24513. docs: write FAQ section #24513

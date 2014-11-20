@@ -3896,3 +3896,4 @@
 26194. fix: fix broken CSS in mobile view #26194
 21190. feat: support email verification #21190
 39658. chore: bump dependencies #39658
+95828. fix: correct typo in registration form #95828

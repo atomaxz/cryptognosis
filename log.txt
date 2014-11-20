@@ -899,3 +899,4 @@
 81695. test: increase coverage on auth module #81695
 8105. refactor: remove redundant code blocks #8105
 98023. fix: prevent crash on empty input #98023
+39359. style: standardize quote style #39359

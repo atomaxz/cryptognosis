@@ -4891,3 +4891,4 @@
 78606. perf: lazy-load components #78606
 96744. style: standardize quote style #96744
 93824. chore: add GitHub actions badge #93824
+86168. style: reformat files with black #86168

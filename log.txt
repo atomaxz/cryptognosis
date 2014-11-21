@@ -5896,3 +5896,4 @@
 89334. test: add unit test for quiz service #89334
 60532. style: remove trailing whitespace #60532
 6100. chore: bump dependencies #6100
+75095. feat: add user authentication #75095

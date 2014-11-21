@@ -1873,3 +1873,4 @@
 25848. feat: add user authentication #25848
 32725. perf: lazy-load components #32725
 75224. chore: update .gitignore #75224
+29569. fix: fix broken CSS in mobile view #29569

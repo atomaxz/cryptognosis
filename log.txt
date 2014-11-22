@@ -4894,3 +4894,4 @@
 86168. style: reformat files with black #86168
 21064. style: apply consistent indentation #21064
 48267. fix: resolve issue with date parsing #48267
+81910. feat: support email verification #81910

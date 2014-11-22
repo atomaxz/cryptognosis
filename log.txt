@@ -1876,3 +1876,4 @@
 29569. fix: fix broken CSS in mobile view #29569
 31671. chore: clean up unused files #31671
 21724. refactor: remove redundant code blocks #21724
+26771. perf: reduce image load time #26771

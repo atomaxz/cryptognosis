@@ -2875,3 +2875,4 @@
 75592. refactor: clean up auth middleware #75592
 9427. refactor: clean up auth middleware #9427
 31418. test: mock database connection in test suite #31418
+4863. test: test user registration edge cases #4863

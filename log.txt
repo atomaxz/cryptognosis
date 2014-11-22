@@ -5898,3 +5898,4 @@
 6100. chore: bump dependencies #6100
 75095. feat: add user authentication #75095
 41798. style: apply consistent indentation #41798
+38004. fix: fix broken CSS in mobile view #38004

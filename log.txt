@@ -3901,3 +3901,4 @@
 33452. chore: clean up unused files #33452
 72573. test: test user registration edge cases #72573
 16076. docs: improve code comments in utils #16076
+76129. perf: reduce image load time #76129

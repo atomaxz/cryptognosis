@@ -6911,3 +6911,4 @@
 24513. docs: write FAQ section #24513
 86382. chore: update .gitignore #86382
 42742. chore: add GitHub actions badge #42742
+34602. chore: update .gitignore #34602

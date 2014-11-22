@@ -2874,3 +2874,4 @@
 33870. docs: add API usage examples #33870
 75592. refactor: clean up auth middleware #75592
 9427. refactor: clean up auth middleware #9427
+31418. test: mock database connection in test suite #31418

@@ -5899,3 +5899,4 @@
 75095. feat: add user authentication #75095
 41798. style: apply consistent indentation #41798
 38004. fix: fix broken CSS in mobile view #38004
+3312. fix: fix null pointer exception on login #3312

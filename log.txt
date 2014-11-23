@@ -4896,3 +4896,4 @@
 48267. fix: resolve issue with date parsing #48267
 81910. feat: support email verification #81910
 3324. fix: fix broken CSS in mobile view #3324
+96489. fix: handle 500 error in quiz API #96489

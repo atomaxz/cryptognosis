@@ -6914,3 +6914,4 @@
 34602. chore: update .gitignore #34602
 60246. feat: support email verification #60246
 92279. test: add unit test for quiz service #92279
+56051. fix: fix broken CSS in mobile view #56051

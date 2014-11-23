@@ -6913,3 +6913,4 @@
 42742. chore: add GitHub actions badge #42742
 34602. chore: update .gitignore #34602
 60246. feat: support email verification #60246
+92279. test: add unit test for quiz service #92279

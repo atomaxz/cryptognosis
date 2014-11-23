@@ -906,3 +906,4 @@
 1124. fix: fix null pointer exception on login #1124
 72928. feat: create admin dashboard #72928
 54507. feat: add user authentication #54507
+15345. test: test user registration edge cases #15345

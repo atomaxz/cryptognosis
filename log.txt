@@ -3905,3 +3905,4 @@
 31612. docs: write FAQ section #31612
 71033. feat: implement quiz timer feature #71033
 7959. docs: write FAQ section #7959
+28401. perf: lazy-load components #28401

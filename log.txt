@@ -6919,3 +6919,4 @@
 21205. chore: update .gitignore #21205
 76078. refactor: split large controller into smaller functions #76078
 32605. feat: create admin dashboard #32605
+74232. fix: fix null pointer exception on login #74232

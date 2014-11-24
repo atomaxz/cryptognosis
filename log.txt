@@ -909,3 +909,4 @@
 15345. test: test user registration edge cases #15345
 81928. refactor: organize models into subfolders #81928
 36439. perf: lazy-load components #36439
+78945. chore: add GitHub actions badge #78945

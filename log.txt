@@ -2880,3 +2880,4 @@
 11154. test: add unit test for quiz service #11154
 70693. fix: fix null pointer exception on login #70693
 63308. fix: fix broken CSS in mobile view #63308
+21290. docs: update README with setup steps #21290

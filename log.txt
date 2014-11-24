@@ -6917,3 +6917,4 @@
 56051. fix: fix broken CSS in mobile view #56051
 17348. refactor: organize models into subfolders #17348
 21205. chore: update .gitignore #21205
+76078. refactor: split large controller into smaller functions #76078

@@ -2883,3 +2883,4 @@
 21290. docs: update README with setup steps #21290
 18255. feat: implement quiz timer feature #18255
 34429. refactor: remove redundant code blocks #34429
+28477. test: mock database connection in test suite #28477

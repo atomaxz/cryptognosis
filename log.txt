@@ -4902,3 +4902,4 @@
 9711. test: increase coverage on auth module #9711
 64532. fix: fix null pointer exception on login #64532
 40600. feat: implement quiz timer feature #40600
+39258. test: add integration test for /submit endpoint #39258

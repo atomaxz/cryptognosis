@@ -4900,3 +4900,4 @@
 15143. perf: cache repeated calculations #15143
 19919. fix: resolve issue with date parsing #19919
 9711. test: increase coverage on auth module #9711
+64532. fix: fix null pointer exception on login #64532

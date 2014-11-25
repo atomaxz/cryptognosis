@@ -911,3 +911,4 @@
 36439. perf: lazy-load components #36439
 78945. chore: add GitHub actions badge #78945
 35122. style: reformat files with black #35122
+71068. refactor: organize models into subfolders #71068

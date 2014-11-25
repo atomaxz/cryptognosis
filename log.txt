@@ -3907,3 +3907,4 @@
 7959. docs: write FAQ section #7959
 28401. perf: lazy-load components #28401
 29658. style: standardize quote style #29658
+35116. fix: correct typo in registration form #35116

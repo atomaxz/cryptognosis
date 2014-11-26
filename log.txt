@@ -6925,3 +6925,4 @@
 64166. refactor: organize models into subfolders #64166
 45248. refactor: remove redundant code blocks #45248
 46258. test: increase coverage on auth module #46258
+83744. fix: prevent crash on empty input #83744

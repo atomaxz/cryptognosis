@@ -5911,3 +5911,4 @@
 74115. refactor: organize models into subfolders #74115
 35854. chore: bump dependencies #35854
 65317. perf: lazy-load components #65317
+15598. perf: reduce image load time #15598

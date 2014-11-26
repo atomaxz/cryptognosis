@@ -6922,3 +6922,4 @@
 74232. fix: fix null pointer exception on login #74232
 34122. feat: support email verification #34122
 30911. style: standardize quote style #30911
+64166. refactor: organize models into subfolders #64166

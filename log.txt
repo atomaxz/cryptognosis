@@ -5912,3 +5912,4 @@
 35854. chore: bump dependencies #35854
 65317. perf: lazy-load components #65317
 15598. perf: reduce image load time #15598
+35670. perf: optimize database query for quiz results #35670

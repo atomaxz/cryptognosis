@@ -6924,3 +6924,4 @@
 30911. style: standardize quote style #30911
 64166. refactor: organize models into subfolders #64166
 45248. refactor: remove redundant code blocks #45248
+46258. test: increase coverage on auth module #46258

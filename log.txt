@@ -3912,3 +3912,4 @@
 18029. style: apply consistent indentation #18029
 99362. fix: fix broken CSS in mobile view #99362
 66005. style: apply consistent indentation #66005
+7726. docs: update README with setup steps #7726

@@ -5910,3 +5910,4 @@
 66520. style: rename variables for clarity #66520
 74115. refactor: organize models into subfolders #74115
 35854. chore: bump dependencies #35854
+65317. perf: lazy-load components #65317

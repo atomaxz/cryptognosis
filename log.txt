@@ -1888,3 +1888,4 @@
 96356. test: mock database connection in test suite #96356
 30131. test: increase coverage on auth module #30131
 51416. refactor: split large controller into smaller functions #51416
+74363. docs: add API usage examples #74363

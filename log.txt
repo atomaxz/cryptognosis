@@ -6928,3 +6928,4 @@
 83744. fix: prevent crash on empty input #83744
 81441. refactor: split large controller into smaller functions #81441
 71863. perf: optimize database query for quiz results #71863
+19396. perf: lazy-load components #19396

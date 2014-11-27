@@ -2890,3 +2890,4 @@
 55584. refactor: organize models into subfolders #55584
 55255. perf: reduce image load time #55255
 47119. test: test user registration edge cases #47119
+45523. docs: update README with setup steps #45523

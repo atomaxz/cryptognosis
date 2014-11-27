@@ -3914,3 +3914,4 @@
 66005. style: apply consistent indentation #66005
 7726. docs: update README with setup steps #7726
 26598. chore: add GitHub actions badge #26598
+14902. chore: clean up unused files #14902

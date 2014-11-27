@@ -5913,3 +5913,4 @@
 65317. perf: lazy-load components #65317
 15598. perf: reduce image load time #15598
 35670. perf: optimize database query for quiz results #35670
+76817. test: mock database connection in test suite #76817

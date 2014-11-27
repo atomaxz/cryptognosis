@@ -5914,3 +5914,4 @@
 15598. perf: reduce image load time #15598
 35670. perf: optimize database query for quiz results #35670
 76817. test: mock database connection in test suite #76817
+36334. style: reformat files with black #36334

@@ -3919,3 +3919,4 @@
 51805. test: add integration test for /submit endpoint #51805
 33190. fix: fix broken CSS in mobile view #33190
 76699. refactor: clean up auth middleware #76699
+22927. fix: prevent crash on empty input #22927

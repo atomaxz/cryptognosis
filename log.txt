@@ -2892,3 +2892,4 @@
 47119. test: test user registration edge cases #47119
 45523. docs: update README with setup steps #45523
 12691. chore: clean up unused files #12691
+19404. test: add unit test for quiz service #19404

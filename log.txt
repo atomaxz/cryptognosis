@@ -916,3 +916,4 @@
 70453. fix: resolve issue with date parsing #70453
 8305. perf: reduce image load time #8305
 20124. docs: write FAQ section #20124
+46786. feat: create admin dashboard #46786

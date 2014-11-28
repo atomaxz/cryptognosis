@@ -5916,3 +5916,4 @@
 76817. test: mock database connection in test suite #76817
 36334. style: reformat files with black #36334
 5145. fix: resolve issue with date parsing #5145
+94060. fix: handle 500 error in quiz API #94060

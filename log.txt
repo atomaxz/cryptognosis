@@ -5917,3 +5917,4 @@
 36334. style: reformat files with black #36334
 5145. fix: resolve issue with date parsing #5145
 94060. fix: handle 500 error in quiz API #94060
+22235. docs: document token refresh logic #22235

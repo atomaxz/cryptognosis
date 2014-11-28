@@ -2894,3 +2894,4 @@
 12691. chore: clean up unused files #12691
 19404. test: add unit test for quiz service #19404
 76502. feat: create admin dashboard #76502
+70974. refactor: clean up auth middleware #70974

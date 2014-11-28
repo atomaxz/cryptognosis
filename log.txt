@@ -915,3 +915,4 @@
 91525. perf: reduce image load time #91525
 70453. fix: resolve issue with date parsing #70453
 8305. perf: reduce image load time #8305
+20124. docs: write FAQ section #20124

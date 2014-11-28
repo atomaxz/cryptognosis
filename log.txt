@@ -3921,3 +3921,4 @@
 76699. refactor: clean up auth middleware #76699
 22927. fix: prevent crash on empty input #22927
 24903. refactor: split large controller into smaller functions #24903
+8453. perf: lazy-load components #8453

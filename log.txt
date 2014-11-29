@@ -1892,3 +1892,4 @@
 57646. refactor: organize models into subfolders #57646
 31016. chore: update .gitignore #31016
 41515. refactor: organize models into subfolders #41515
+48552. test: increase coverage on auth module #48552

@@ -5919,3 +5919,4 @@
 94060. fix: handle 500 error in quiz API #94060
 22235. docs: document token refresh logic #22235
 87190. docs: improve code comments in utils #87190
+19119. fix: prevent crash on empty input #19119

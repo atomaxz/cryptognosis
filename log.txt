@@ -2897,3 +2897,4 @@
 70974. refactor: clean up auth middleware #70974
 48046. perf: cache repeated calculations #48046
 25557. chore: clean up unused files #25557
+3398. fix: fix null pointer exception on login #3398

@@ -3924,3 +3924,4 @@
 8453. perf: lazy-load components #8453
 50841. perf: cache repeated calculations #50841
 53218. feat: implement quiz timer feature #53218
+84162. chore: clean up unused files #84162

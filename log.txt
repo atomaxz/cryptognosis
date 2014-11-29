@@ -5920,3 +5920,4 @@
 22235. docs: document token refresh logic #22235
 87190. docs: improve code comments in utils #87190
 19119. fix: prevent crash on empty input #19119
+45941. test: test user registration edge cases #45941

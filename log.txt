@@ -919,3 +919,4 @@
 46786. feat: create admin dashboard #46786
 21415. feat: add export to CSV option #21415
 50991. docs: clarify environment setup #50991
+98188. fix: fix broken CSS in mobile view #98188

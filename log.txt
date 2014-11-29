@@ -6933,3 +6933,4 @@
 4629. perf: cache repeated calculations #4629
 99950. perf: cache repeated calculations #99950
 81524. chore: update .gitignore #81524
+53833. feat: create admin dashboard #53833

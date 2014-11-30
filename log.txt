@@ -1894,3 +1894,4 @@
 41515. refactor: organize models into subfolders #41515
 48552. test: increase coverage on auth module #48552
 19192. refactor: refactor quiz grading logic #19192
+49655. test: add unit test for quiz service #49655

@@ -2899,3 +2899,4 @@
 25557. chore: clean up unused files #25557
 3398. fix: fix null pointer exception on login #3398
 35229. chore: rename env.example #35229
+59700. style: rename variables for clarity #59700

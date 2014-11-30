@@ -1896,3 +1896,4 @@
 19192. refactor: refactor quiz grading logic #19192
 49655. test: add unit test for quiz service #49655
 53677. perf: optimize database query for quiz results #53677
+5354. fix: handle 500 error in quiz API #5354

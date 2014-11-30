@@ -4907,3 +4907,4 @@
 38590. chore: rename env.example #38590
 62092. refactor: clean up auth middleware #62092
 47118. refactor: clean up auth middleware #47118
+39054. fix: fix null pointer exception on login #39054

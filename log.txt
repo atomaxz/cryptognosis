@@ -5921,3 +5921,4 @@
 87190. docs: improve code comments in utils #87190
 19119. fix: prevent crash on empty input #19119
 45941. test: test user registration edge cases #45941
+51047. refactor: organize models into subfolders #51047

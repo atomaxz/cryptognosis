@@ -3927,3 +3927,4 @@
 84162. chore: clean up unused files #84162
 66572. docs: improve code comments in utils #66572
 98185. chore: clean up unused files #98185
+59589. perf: optimize database query for quiz results #59589

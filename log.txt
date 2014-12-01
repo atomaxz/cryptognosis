@@ -6940,3 +6940,4 @@
 81183. test: increase coverage on auth module #81183
 25800. docs: document token refresh logic #25800
 59217. fix: prevent crash on empty input #59217
+64069. test: mock database connection in test suite #64069

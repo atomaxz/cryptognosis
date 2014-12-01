@@ -4909,3 +4909,4 @@
 47118. refactor: clean up auth middleware #47118
 39054. fix: fix null pointer exception on login #39054
 44292. test: add unit test for quiz service #44292
+10246. perf: optimize database query for quiz results #10246

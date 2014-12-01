@@ -1899,3 +1899,4 @@
 5354. fix: handle 500 error in quiz API #5354
 93090. chore: clean up unused files #93090
 74709. style: remove trailing whitespace #74709
+80253. fix: correct typo in registration form #80253

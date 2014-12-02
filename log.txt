@@ -2905,3 +2905,4 @@
 1996. docs: clarify environment setup #1996
 14584. fix: fix null pointer exception on login #14584
 47030. test: increase coverage on auth module #47030
+64410. feat: add user authentication #64410

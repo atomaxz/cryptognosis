@@ -6941,3 +6941,4 @@
 25800. docs: document token refresh logic #25800
 59217. fix: prevent crash on empty input #59217
 64069. test: mock database connection in test suite #64069
+36734. perf: lazy-load components #36734

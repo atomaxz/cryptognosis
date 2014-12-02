@@ -5928,3 +5928,4 @@
 83315. docs: document token refresh logic #83315
 73105. style: rename variables for clarity #73105
 6991. chore: update .gitignore #6991
+73773. fix: handle 500 error in quiz API #73773

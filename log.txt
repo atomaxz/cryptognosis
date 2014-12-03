@@ -5930,3 +5930,4 @@
 6991. chore: update .gitignore #6991
 73773. fix: handle 500 error in quiz API #73773
 17463. chore: clean up unused files #17463
+60384. perf: optimize database query for quiz results #60384

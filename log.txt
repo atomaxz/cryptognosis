@@ -929,3 +929,4 @@
 67622. chore: clean up unused files #67622
 88439. test: add integration test for /submit endpoint #88439
 25459. chore: add GitHub actions badge #25459
+91289. perf: lazy-load components #91289

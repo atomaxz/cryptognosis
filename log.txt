@@ -2907,3 +2907,4 @@
 47030. test: increase coverage on auth module #47030
 64410. feat: add user authentication #64410
 76966. fix: resolve issue with date parsing #76966
+72670. docs: document token refresh logic #72670

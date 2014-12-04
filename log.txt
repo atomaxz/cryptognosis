@@ -1910,3 +1910,4 @@
 58830. refactor: remove redundant code blocks #58830
 5832. test: increase coverage on auth module #5832
 32874. test: increase coverage on auth module #32874
+55995. test: mock database connection in test suite #55995

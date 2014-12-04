@@ -1909,3 +1909,4 @@
 65343. fix: handle 500 error in quiz API #65343
 58830. refactor: remove redundant code blocks #58830
 5832. test: increase coverage on auth module #5832
+32874. test: increase coverage on auth module #32874

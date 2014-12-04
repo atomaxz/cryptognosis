@@ -2918,3 +2918,4 @@
 93463. chore: clean up unused files #93463
 84199. feat: add export to CSV option #84199
 29356. chore: rename env.example #29356
+58472. refactor: clean up auth middleware #58472

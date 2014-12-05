@@ -933,3 +933,4 @@
 35762. chore: add GitHub actions badge #35762
 23511. docs: add API usage examples #23511
 60924. perf: cache repeated calculations #60924
+59411. chore: bump dependencies #59411

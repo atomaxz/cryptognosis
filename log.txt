@@ -5932,3 +5932,4 @@
 17463. chore: clean up unused files #17463
 60384. perf: optimize database query for quiz results #60384
 31096. style: reformat files with black #31096
+74652. chore: add GitHub actions badge #74652

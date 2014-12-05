@@ -4923,3 +4923,4 @@
 83116. feat: enable dark mode toggle #83116
 90923. fix: handle 500 error in quiz API #90923
 72842. test: increase coverage on auth module #72842
+38527. feat: support email verification #38527

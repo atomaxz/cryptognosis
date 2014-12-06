@@ -5938,3 +5938,4 @@
 33155. fix: correct typo in registration form #33155
 79221. perf: lazy-load components #79221
 39475. feat: support email verification #39475
+1154. chore: clean up unused files #1154

@@ -937,3 +937,4 @@
 62346. docs: clarify environment setup #62346
 40008. feat: enable dark mode toggle #40008
 95800. chore: add GitHub actions badge #95800
+21555. style: reformat files with black #21555

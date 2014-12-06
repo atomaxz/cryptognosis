@@ -1915,3 +1915,4 @@
 32157. chore: update .gitignore #32157
 57738. fix: fix broken CSS in mobile view #57738
 54027. test: add unit test for quiz service #54027
+78411. perf: reduce image load time #78411

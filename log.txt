@@ -3937,3 +3937,4 @@
 71307. docs: improve code comments in utils #71307
 4002. docs: write FAQ section #4002
 71186. chore: add GitHub actions badge #71186
+0336. test: test user registration edge cases #336

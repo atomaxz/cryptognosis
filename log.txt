@@ -2923,3 +2923,4 @@
 39143. refactor: split large controller into smaller functions #39143
 64902. docs: clarify environment setup #64902
 22356. docs: clarify environment setup #22356
+38886. docs: update README with setup steps #38886

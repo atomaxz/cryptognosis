@@ -5946,3 +5946,4 @@
 73615. refactor: organize models into subfolders #73615
 22379. feat: create admin dashboard #22379
 91173. perf: optimize database query for quiz results #91173
+2114. test: increase coverage on auth module #2114

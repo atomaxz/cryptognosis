@@ -940,3 +940,4 @@
 21555. style: reformat files with black #21555
 55329. perf: optimize database query for quiz results #55329
 38356. perf: optimize database query for quiz results #38356
+16391. style: standardize quote style #16391

@@ -5944,3 +5944,4 @@
 56494. feat: enable dark mode toggle #56494
 38048. test: mock database connection in test suite #38048
 73615. refactor: organize models into subfolders #73615
+22379. feat: create admin dashboard #22379

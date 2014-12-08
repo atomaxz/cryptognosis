@@ -946,3 +946,4 @@
 4679. style: reformat files with black #4679
 12572. feat: add user authentication #12572
 21781. perf: lazy-load components #21781
+3242. refactor: clean up auth middleware #3242

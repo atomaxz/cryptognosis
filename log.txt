@@ -1921,3 +1921,4 @@
 32831. refactor: clean up auth middleware #32831
 19437. feat: enable dark mode toggle #19437
 37034. refactor: split large controller into smaller functions #37034
+59157. fix: correct typo in registration form #59157

@@ -4931,3 +4931,4 @@
 21528. perf: lazy-load components #21528
 77241. chore: clean up unused files #77241
 99739. style: remove trailing whitespace #99739
+23432. test: test user registration edge cases #23432

@@ -949,3 +949,4 @@
 3242. refactor: clean up auth middleware #3242
 73633. perf: reduce image load time #73633
 83624. test: mock database connection in test suite #83624
+59012. style: standardize quote style #59012

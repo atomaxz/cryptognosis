@@ -3942,3 +3942,4 @@
 79454. feat: add export to CSV option #79454
 90333. refactor: organize models into subfolders #90333
 91565. test: increase coverage on auth module #91565
+55268. test: mock database connection in test suite #55268

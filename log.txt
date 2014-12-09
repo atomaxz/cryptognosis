@@ -4933,3 +4933,4 @@
 99739. style: remove trailing whitespace #99739
 23432. test: test user registration edge cases #23432
 82571. fix: correct typo in registration form #82571
+41381. docs: write FAQ section #41381

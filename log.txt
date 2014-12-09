@@ -1924,3 +1924,4 @@
 59157. fix: correct typo in registration form #59157
 12395. style: remove trailing whitespace #12395
 29317. style: reformat files with black #29317
+21713. test: add unit test for quiz service #21713

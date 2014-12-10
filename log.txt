@@ -1930,3 +1930,4 @@
 31695. fix: handle 500 error in quiz API #31695
 76512. test: mock database connection in test suite #76512
 29829. test: add unit test for quiz service #29829
+45326. fix: fix null pointer exception on login #45326

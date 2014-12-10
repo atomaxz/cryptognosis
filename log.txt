@@ -5956,3 +5956,4 @@
 68816. test: add integration test for /submit endpoint #68816
 6343. docs: document token refresh logic #6343
 35270. fix: resolve issue with date parsing #35270
+83782. feat: add user authentication #83782

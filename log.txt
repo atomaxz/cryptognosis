@@ -955,3 +955,4 @@
 7886. docs: update README with setup steps #7886
 20686. fix: fix null pointer exception on login #20686
 13478. docs: document token refresh logic #13478
+90204. feat: add user authentication #90204

@@ -954,3 +954,4 @@
 75915. test: add integration test for /submit endpoint #75915
 7886. docs: update README with setup steps #7886
 20686. fix: fix null pointer exception on login #20686
+13478. docs: document token refresh logic #13478

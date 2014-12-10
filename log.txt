@@ -4939,3 +4939,4 @@
 75540. docs: write FAQ section #75540
 62313. refactor: remove redundant code blocks #62313
 24464. perf: lazy-load components #24464
+17410. test: test user registration edge cases #17410

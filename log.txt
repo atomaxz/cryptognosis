@@ -1927,3 +1927,4 @@
 21713. test: add unit test for quiz service #21713
 5285. docs: clarify environment setup #5285
 75552. chore: add GitHub actions badge #75552
+31695. fix: handle 500 error in quiz API #31695

@@ -1926,3 +1926,4 @@
 29317. style: reformat files with black #29317
 21713. test: add unit test for quiz service #21713
 5285. docs: clarify environment setup #5285
+75552. chore: add GitHub actions badge #75552

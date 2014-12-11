@@ -6952,3 +6952,4 @@
 71561. feat: add export to CSV option #71561
 35015. perf: reduce image load time #35015
 97996. docs: update README with setup steps #97996
+71126. chore: add GitHub actions badge #71126

@@ -958,3 +958,4 @@
 90204. feat: add user authentication #90204
 14910. fix: resolve issue with date parsing #14910
 27700. test: add integration test for /submit endpoint #27700
+7637. fix: fix null pointer exception on login #7637

@@ -960,3 +960,4 @@
 27700. test: add integration test for /submit endpoint #27700
 7637. fix: fix null pointer exception on login #7637
 95268. style: rename variables for clarity #95268
+73882. test: test user registration edge cases #73882

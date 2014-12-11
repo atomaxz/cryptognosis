@@ -4941,3 +4941,4 @@
 24464. perf: lazy-load components #24464
 17410. test: test user registration edge cases #17410
 52963. perf: cache repeated calculations #52963
+49470. test: mock database connection in test suite #49470

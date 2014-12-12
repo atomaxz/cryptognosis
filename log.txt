@@ -4944,3 +4944,4 @@
 49470. test: mock database connection in test suite #49470
 88664. refactor: clean up auth middleware #88664
 83633. feat: support email verification #83633
+21728. style: apply consistent indentation #21728

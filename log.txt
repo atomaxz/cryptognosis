@@ -2937,3 +2937,4 @@
 23706. fix: prevent crash on empty input #23706
 92617. test: increase coverage on auth module #92617
 99908. docs: clarify environment setup #99908
+26632. docs: update README with setup steps #26632

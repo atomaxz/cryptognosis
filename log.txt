@@ -1933,3 +1933,4 @@
 45326. fix: fix null pointer exception on login #45326
 1770. refactor: refactor quiz grading logic #1770
 90291. fix: fix null pointer exception on login #90291
+32714. fix: handle 500 error in quiz API #32714

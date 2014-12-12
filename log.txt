@@ -3948,3 +3948,4 @@
 20088. docs: add API usage examples #20088
 64782. refactor: refactor quiz grading logic #64782
 27142. perf: cache repeated calculations #27142
+2276. test: increase coverage on auth module #2276

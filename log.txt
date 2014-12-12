@@ -6953,3 +6953,4 @@
 35015. perf: reduce image load time #35015
 97996. docs: update README with setup steps #97996
 71126. chore: add GitHub actions badge #71126
+63454. chore: bump dependencies #63454

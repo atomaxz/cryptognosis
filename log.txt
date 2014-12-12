@@ -1936,3 +1936,4 @@
 32714. fix: handle 500 error in quiz API #32714
 1497. docs: add API usage examples #1497
 9038. style: reformat files with black #9038
+85161. fix: handle 500 error in quiz API #85161

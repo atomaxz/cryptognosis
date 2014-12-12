@@ -6954,3 +6954,4 @@
 97996. docs: update README with setup steps #97996
 71126. chore: add GitHub actions badge #71126
 63454. chore: bump dependencies #63454
+48959. refactor: organize models into subfolders #48959

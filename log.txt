@@ -5961,3 +5961,4 @@
 32193. docs: write FAQ section #32193
 87099. chore: rename env.example #87099
 70805. feat: support email verification #70805
+32791. docs: document token refresh logic #32791

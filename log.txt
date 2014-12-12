@@ -4943,3 +4943,4 @@
 52963. perf: cache repeated calculations #52963
 49470. test: mock database connection in test suite #49470
 88664. refactor: clean up auth middleware #88664
+83633. feat: support email verification #83633

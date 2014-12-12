@@ -4942,3 +4942,4 @@
 17410. test: test user registration edge cases #17410
 52963. perf: cache repeated calculations #52963
 49470. test: mock database connection in test suite #49470
+88664. refactor: clean up auth middleware #88664

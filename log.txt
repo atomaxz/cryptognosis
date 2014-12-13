@@ -964,3 +964,4 @@
 77953. feat: create admin dashboard #77953
 41838. docs: update README with setup steps #41838
 13523. fix: fix null pointer exception on login #13523
+7442. fix: correct typo in registration form #7442

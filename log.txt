@@ -1939,3 +1939,4 @@
 85161. fix: handle 500 error in quiz API #85161
 48835. fix: fix null pointer exception on login #48835
 66789. style: remove trailing whitespace #66789
+75923. style: apply consistent indentation #75923

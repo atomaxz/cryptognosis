@@ -1940,3 +1940,4 @@
 48835. fix: fix null pointer exception on login #48835
 66789. style: remove trailing whitespace #66789
 75923. style: apply consistent indentation #75923
+9303. chore: update .gitignore #9303

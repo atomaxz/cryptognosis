@@ -5971,3 +5971,4 @@
 89091. fix: fix broken CSS in mobile view #89091
 38133. docs: update README with setup steps #38133
 85959. test: increase coverage on auth module #85959
+27249. refactor: clean up auth middleware #27249

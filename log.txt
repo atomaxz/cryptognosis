@@ -3953,3 +3953,4 @@
 44546. docs: write FAQ section #44546
 59953. feat: implement quiz timer feature #59953
 5700. feat: implement quiz timer feature #5700
+96065. refactor: clean up auth middleware #96065

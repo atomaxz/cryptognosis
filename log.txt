@@ -3954,3 +3954,4 @@
 59953. feat: implement quiz timer feature #59953
 5700. feat: implement quiz timer feature #5700
 96065. refactor: clean up auth middleware #96065
+83083. test: test user registration edge cases #83083

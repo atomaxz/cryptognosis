@@ -2949,3 +2949,4 @@
 34234. refactor: remove redundant code blocks #34234
 84078. perf: cache repeated calculations #84078
 61793. chore: clean up unused files #61793
+37038. test: test user registration edge cases #37038

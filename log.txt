@@ -3958,3 +3958,4 @@
 56853. refactor: clean up auth middleware #56853
 36411. refactor: refactor quiz grading logic #36411
 65861. fix: prevent crash on empty input #65861
+15927. perf: optimize database query for quiz results #15927

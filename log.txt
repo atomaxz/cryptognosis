@@ -2945,3 +2945,4 @@
 41649. test: add unit test for quiz service #41649
 93617. docs: improve code comments in utils #93617
 63065. style: apply consistent indentation #63065
+99264. perf: optimize database query for quiz results #99264

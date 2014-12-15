@@ -6959,3 +6959,4 @@
 81126. chore: bump dependencies #81126
 33028. test: test user registration edge cases #33028
 93303. style: standardize quote style #93303
+1823. style: remove trailing whitespace #1823

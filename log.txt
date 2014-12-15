@@ -1947,3 +1947,4 @@
 76331. refactor: split large controller into smaller functions #76331
 67353. docs: improve code comments in utils #67353
 24951. style: reformat files with black #24951
+41251. fix: prevent crash on empty input #41251

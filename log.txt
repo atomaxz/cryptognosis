@@ -3959,3 +3959,4 @@
 36411. refactor: refactor quiz grading logic #36411
 65861. fix: prevent crash on empty input #65861
 15927. perf: optimize database query for quiz results #15927
+47770. feat: enable dark mode toggle #47770

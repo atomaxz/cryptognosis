@@ -6960,3 +6960,4 @@
 33028. test: test user registration edge cases #33028
 93303. style: standardize quote style #93303
 1823. style: remove trailing whitespace #1823
+34409. fix: prevent crash on empty input #34409

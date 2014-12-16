@@ -971,3 +971,4 @@
 29483. docs: clarify environment setup #29483
 99995. refactor: split large controller into smaller functions #99995
 17023. feat: support email verification #17023
+9144. style: reformat files with black #9144

@@ -1950,3 +1950,4 @@
 41251. fix: prevent crash on empty input #41251
 86085. feat: add export to CSV option #86085
 26587. docs: write FAQ section #26587
+81868. style: apply consistent indentation #81868

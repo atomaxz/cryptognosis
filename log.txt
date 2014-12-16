@@ -6962,3 +6962,4 @@
 1823. style: remove trailing whitespace #1823
 34409. fix: prevent crash on empty input #34409
 53644. chore: add GitHub actions badge #53644
+4124. docs: write FAQ section #4124

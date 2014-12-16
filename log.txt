@@ -5972,3 +5972,4 @@
 38133. docs: update README with setup steps #38133
 85959. test: increase coverage on auth module #85959
 27249. refactor: clean up auth middleware #27249
+1066. docs: update README with setup steps #1066

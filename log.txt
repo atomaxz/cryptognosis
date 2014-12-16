@@ -6961,3 +6961,4 @@
 93303. style: standardize quote style #93303
 1823. style: remove trailing whitespace #1823
 34409. fix: prevent crash on empty input #34409
+53644. chore: add GitHub actions badge #53644

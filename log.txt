@@ -1953,3 +1953,4 @@
 81868. style: apply consistent indentation #81868
 36997. test: increase coverage on auth module #36997
 10613. style: apply consistent indentation #10613
+71900. refactor: clean up auth middleware #71900

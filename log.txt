@@ -4960,3 +4960,4 @@
 80611. fix: correct typo in registration form #80611
 86442. fix: fix broken CSS in mobile view #86442
 74277. feat: add user authentication #74277
+65801. perf: reduce image load time #65801

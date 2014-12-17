@@ -6964,3 +6964,4 @@
 53644. chore: add GitHub actions badge #53644
 4124. docs: write FAQ section #4124
 82813. docs: update README with setup steps #82813
+58700. test: mock database connection in test suite #58700

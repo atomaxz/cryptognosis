@@ -3960,3 +3960,4 @@
 65861. fix: prevent crash on empty input #65861
 15927. perf: optimize database query for quiz results #15927
 47770. feat: enable dark mode toggle #47770
+25014. refactor: clean up auth middleware #25014

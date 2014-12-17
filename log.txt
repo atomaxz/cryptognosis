@@ -4958,3 +4958,4 @@
 51787. test: add integration test for /submit endpoint #51787
 33914. refactor: clean up auth middleware #33914
 80611. fix: correct typo in registration form #80611
+86442. fix: fix broken CSS in mobile view #86442

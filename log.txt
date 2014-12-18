@@ -2958,3 +2958,4 @@
 66103. chore: update .gitignore #66103
 47770. feat: enable dark mode toggle #47770
 25822. feat: support email verification #25822
+23851. test: mock database connection in test suite #23851

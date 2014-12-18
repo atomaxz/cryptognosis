@@ -4962,3 +4962,4 @@
 74277. feat: add user authentication #74277
 65801. perf: reduce image load time #65801
 91775. docs: document token refresh logic #91775
+42671. chore: update .gitignore #42671

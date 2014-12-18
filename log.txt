@@ -3963,3 +3963,4 @@
 25014. refactor: clean up auth middleware #25014
 64605. docs: document token refresh logic #64605
 66111. style: rename variables for clarity #66111
+31337. chore: bump dependencies #31337

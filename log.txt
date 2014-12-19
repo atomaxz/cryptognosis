@@ -2960,3 +2960,4 @@
 25822. feat: support email verification #25822
 23851. test: mock database connection in test suite #23851
 91219. perf: cache repeated calculations #91219
+17666. chore: update .gitignore #17666

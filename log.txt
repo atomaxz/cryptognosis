@@ -4969,3 +4969,4 @@
 98578. style: reformat files with black #98578
 39100. feat: enable dark mode toggle #39100
 65649. feat: support email verification #65649
+70919. test: add unit test for quiz service #70919

@@ -1963,3 +1963,4 @@
 52134. style: remove trailing whitespace #52134
 17090. feat: enable dark mode toggle #17090
 60987. chore: bump dependencies #60987
+31690. feat: enable dark mode toggle #31690

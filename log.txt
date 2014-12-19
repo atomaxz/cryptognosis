@@ -6968,3 +6968,4 @@
 15572. perf: cache repeated calculations #15572
 36287. chore: bump dependencies #36287
 97739. docs: update README with setup steps #97739
+99554. refactor: organize models into subfolders #99554

@@ -2964,3 +2964,4 @@
 54839. fix: handle 500 error in quiz API #54839
 89198. fix: fix broken CSS in mobile view #89198
 57503. docs: update README with setup steps #57503
+91614. refactor: remove redundant code blocks #91614

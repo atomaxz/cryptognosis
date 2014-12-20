@@ -6971,3 +6971,4 @@
 99554. refactor: organize models into subfolders #99554
 2428. fix: prevent crash on empty input #2428
 6433. refactor: organize models into subfolders #6433
+7960. chore: add GitHub actions badge #7960

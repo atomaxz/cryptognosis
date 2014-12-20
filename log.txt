@@ -4971,3 +4971,4 @@
 65649. feat: support email verification #65649
 70919. test: add unit test for quiz service #70919
 4107. perf: cache repeated calculations #4107
+14160. fix: handle 500 error in quiz API #14160

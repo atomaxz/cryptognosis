@@ -2969,3 +2969,4 @@
 7941. refactor: remove redundant code blocks #7941
 47310. test: increase coverage on auth module #47310
 89665. feat: implement quiz timer feature #89665
+76141. fix: resolve issue with date parsing #76141

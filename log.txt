@@ -2967,3 +2967,4 @@
 91614. refactor: remove redundant code blocks #91614
 75492. fix: fix null pointer exception on login #75492
 7941. refactor: remove redundant code blocks #7941
+47310. test: increase coverage on auth module #47310

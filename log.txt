@@ -4974,3 +4974,4 @@
 14160. fix: handle 500 error in quiz API #14160
 72947. feat: create admin dashboard #72947
 61361. fix: prevent crash on empty input #61361
+29272. docs: update README with setup steps #29272

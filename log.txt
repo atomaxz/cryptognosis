@@ -2963,3 +2963,4 @@
 17666. chore: update .gitignore #17666
 54839. fix: handle 500 error in quiz API #54839
 89198. fix: fix broken CSS in mobile view #89198
+57503. docs: update README with setup steps #57503

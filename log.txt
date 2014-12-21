@@ -3974,3 +3974,4 @@
 31214. feat: enable dark mode toggle #31214
 55940. perf: reduce image load time #55940
 85371. style: remove trailing whitespace #85371
+6638. fix: fix broken CSS in mobile view #6638

@@ -1970,3 +1970,4 @@
 62539. fix: fix null pointer exception on login #62539
 33059. perf: optimize database query for quiz results #33059
 33333. docs: improve code comments in utils #33333
+14130. feat: enable dark mode toggle #14130

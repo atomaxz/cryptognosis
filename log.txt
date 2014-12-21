@@ -4975,3 +4975,4 @@
 72947. feat: create admin dashboard #72947
 61361. fix: prevent crash on empty input #61361
 29272. docs: update README with setup steps #29272
+52000. perf: reduce image load time #52000

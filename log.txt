@@ -980,3 +980,4 @@
 85241. perf: optimize database query for quiz results #85241
 91299. style: standardize quote style #91299
 64993. refactor: clean up auth middleware #64993
+23789. chore: update .gitignore #23789

@@ -2972,3 +2972,4 @@
 76141. fix: resolve issue with date parsing #76141
 99189. docs: improve code comments in utils #99189
 10775. perf: reduce image load time #10775
+39180. feat: support email verification #39180

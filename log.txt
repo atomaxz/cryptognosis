@@ -1975,3 +1975,4 @@
 39348. feat: implement quiz timer feature #39348
 32460. fix: fix null pointer exception on login #32460
 20052. style: standardize quote style #20052
+66240. test: add integration test for /submit endpoint #66240

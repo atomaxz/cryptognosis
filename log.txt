@@ -1974,3 +1974,4 @@
 38455. test: mock database connection in test suite #38455
 39348. feat: implement quiz timer feature #39348
 32460. fix: fix null pointer exception on login #32460
+20052. style: standardize quote style #20052

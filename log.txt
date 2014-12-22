@@ -1971,3 +1971,4 @@
 33059. perf: optimize database query for quiz results #33059
 33333. docs: improve code comments in utils #33333
 14130. feat: enable dark mode toggle #14130
+38455. test: mock database connection in test suite #38455

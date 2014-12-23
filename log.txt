@@ -5982,3 +5982,4 @@
 8597. refactor: refactor quiz grading logic #8597
 7168. perf: cache repeated calculations #7168
 93270. test: add unit test for quiz service #93270
+46632. fix: correct typo in registration form #46632

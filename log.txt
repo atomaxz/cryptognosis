@@ -6980,3 +6980,4 @@
 23329. perf: cache repeated calculations #23329
 56883. chore: clean up unused files #56883
 25832. test: increase coverage on auth module #25832
+12772. chore: add GitHub actions badge #12772

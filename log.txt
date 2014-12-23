@@ -985,3 +985,4 @@
 21108. docs: add API usage examples #21108
 62461. feat: create admin dashboard #62461
 34524. style: apply consistent indentation #34524
+47638. style: remove trailing whitespace #47638

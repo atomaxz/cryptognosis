@@ -2976,3 +2976,4 @@
 2189. refactor: organize models into subfolders #2189
 75182. test: add unit test for quiz service #75182
 66599. style: standardize quote style #66599
+23886. refactor: organize models into subfolders #23886

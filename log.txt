@@ -2974,3 +2974,4 @@
 10775. perf: reduce image load time #10775
 39180. feat: support email verification #39180
 2189. refactor: organize models into subfolders #2189
+75182. test: add unit test for quiz service #75182

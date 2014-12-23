@@ -4978,3 +4978,4 @@
 52000. perf: reduce image load time #52000
 95286. perf: optimize database query for quiz results #95286
 12042. style: standardize quote style #12042
+90855. docs: update README with setup steps #90855

@@ -1980,3 +1980,4 @@
 9392. chore: bump dependencies #9392
 74834. docs: clarify environment setup #74834
 13290. refactor: refactor quiz grading logic #13290
+21596. fix: fix broken CSS in mobile view #21596

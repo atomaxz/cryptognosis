@@ -4984,3 +4984,4 @@
 75670. test: test user registration edge cases #75670
 67140. perf: lazy-load components #67140
 15114. chore: bump dependencies #15114
+87828. feat: add user authentication #87828

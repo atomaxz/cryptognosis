@@ -2984,3 +2984,4 @@
 59687. style: standardize quote style #59687
 58377. fix: handle 500 error in quiz API #58377
 57903. chore: clean up unused files #57903
+13094. test: mock database connection in test suite #13094

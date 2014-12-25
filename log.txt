@@ -5984,3 +5984,4 @@
 93270. test: add unit test for quiz service #93270
 46632. fix: correct typo in registration form #46632
 35240. docs: clarify environment setup #35240
+95194. docs: write FAQ section #95194

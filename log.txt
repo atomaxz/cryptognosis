@@ -2980,3 +2980,4 @@
 60890. feat: implement quiz timer feature #60890
 9762. chore: bump dependencies #9762
 27933. feat: create admin dashboard #27933
+97101. refactor: clean up auth middleware #97101

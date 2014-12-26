@@ -1986,3 +1986,4 @@
 39162. refactor: remove redundant code blocks #39162
 88211. fix: correct typo in registration form #88211
 3999. chore: clean up unused files #3999
+20825. feat: add user authentication #20825

@@ -5985,3 +5985,4 @@
 46632. fix: correct typo in registration form #46632
 35240. docs: clarify environment setup #35240
 95194. docs: write FAQ section #95194
+66970. style: remove trailing whitespace #66970

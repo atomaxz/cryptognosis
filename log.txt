@@ -4990,3 +4990,4 @@
 17372. test: mock database connection in test suite #17372
 92624. perf: reduce image load time #92624
 41693. feat: add user authentication #41693
+51790. chore: clean up unused files #51790

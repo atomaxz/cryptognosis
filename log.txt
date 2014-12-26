@@ -1984,3 +1984,4 @@
 23494. perf: lazy-load components #23494
 12362. perf: reduce image load time #12362
 39162. refactor: remove redundant code blocks #39162
+88211. fix: correct typo in registration form #88211

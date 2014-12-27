@@ -991,3 +991,4 @@
 62286. style: reformat files with black #62286
 33852. test: add integration test for /submit endpoint #33852
 80858. fix: handle 500 error in quiz API #80858
+28989. docs: document token refresh logic #28989

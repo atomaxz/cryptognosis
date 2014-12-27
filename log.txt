@@ -1987,3 +1987,4 @@
 88211. fix: correct typo in registration form #88211
 3999. chore: clean up unused files #3999
 20825. feat: add user authentication #20825
+72870. docs: update README with setup steps #72870

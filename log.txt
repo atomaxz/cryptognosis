@@ -3986,3 +3986,4 @@
 50294. style: standardize quote style #50294
 36832. chore: update .gitignore #36832
 50897. refactor: organize models into subfolders #50897
+43963. chore: add GitHub actions badge #43963

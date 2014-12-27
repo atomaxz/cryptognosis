@@ -6986,3 +6986,4 @@
 52879. feat: add export to CSV option #52879
 29281. fix: handle 500 error in quiz API #29281
 9148. docs: clarify environment setup #9148
+15919. docs: write FAQ section #15919

@@ -5991,3 +5991,4 @@
 51272. docs: clarify environment setup #51272
 46195. feat: support email verification #46195
 16549. test: mock database connection in test suite #16549
+54597. perf: lazy-load components #54597

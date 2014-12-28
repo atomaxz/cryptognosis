@@ -3987,3 +3987,4 @@
 36832. chore: update .gitignore #36832
 50897. refactor: organize models into subfolders #50897
 43963. chore: add GitHub actions badge #43963
+97752. perf: optimize database query for quiz results #97752

@@ -6988,3 +6988,4 @@
 9148. docs: clarify environment setup #9148
 15919. docs: write FAQ section #15919
 61096. fix: correct typo in registration form #61096
+78213. feat: support email verification #78213

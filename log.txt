@@ -3990,3 +3990,4 @@
 97752. perf: optimize database query for quiz results #97752
 85709. feat: add export to CSV option #85709
 98401. perf: lazy-load components #98401
+86306. style: remove trailing whitespace #86306

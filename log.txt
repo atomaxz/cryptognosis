@@ -6990,3 +6990,4 @@
 61096. fix: correct typo in registration form #61096
 78213. feat: support email verification #78213
 31990. perf: cache repeated calculations #31990
+61605. docs: clarify environment setup #61605

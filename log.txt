@@ -6992,3 +6992,4 @@
 31990. perf: cache repeated calculations #31990
 61605. docs: clarify environment setup #61605
 65064. perf: cache repeated calculations #65064
+66072. fix: correct typo in registration form #66072

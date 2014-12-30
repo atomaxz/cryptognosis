@@ -4995,3 +4995,4 @@
 3708. feat: implement quiz timer feature #3708
 60037. style: apply consistent indentation #60037
 73050. docs: update README with setup steps #73050
+66496. perf: reduce image load time #66496

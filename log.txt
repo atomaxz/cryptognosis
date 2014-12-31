@@ -1997,3 +1997,4 @@
 3055. chore: add GitHub actions badge #3055
 0552. feat: add user authentication #552
 61684. style: standardize quote style #61684
+53267. perf: optimize database query for quiz results #53267

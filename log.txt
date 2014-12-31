@@ -3995,3 +3995,4 @@
 88010. style: standardize quote style #88010
 8558. refactor: split large controller into smaller functions #8558
 80956. chore: add GitHub actions badge #80956
+86051. feat: support email verification #86051

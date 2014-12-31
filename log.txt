@@ -996,3 +996,4 @@
 98435. docs: clarify environment setup #98435
 66838. chore: clean up unused files #66838
 0128. style: standardize quote style #128
+19489. feat: add user authentication #19489
